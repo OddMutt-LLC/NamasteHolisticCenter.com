@@ -1,0 +1,23 @@
+{
+    "name": "fabian/pembrokepinesacupuncture.com",
+    "description": "Project PHP 8 Composer, MVC, MySQL, CSS, Gulp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Classes\\" : "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "OddMutt LLC"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "vlucas/phpdotenv": "^5.4",
+        "intervention/image": "^2.7"
+    }
+}

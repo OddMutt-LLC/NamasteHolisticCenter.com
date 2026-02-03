@@ -1,0 +1,14 @@
+<IfModule mod_negotiation.c>
+    Options -MultiViews
+</IfModule>
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php?/$1 [QSA,PT,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header always set Content-Security-Policy "frame-src 'self' https://www.dropbox.com https://*.dropbox.com https://www.dropboxusercontent.com https://*.dropboxusercontent.com https://www.google.com/ https://*.google.com/; child-src 'self' https://www.dropbox.com https://*.dropbox.com https://www.dropboxusercontent.com https://*.dropboxusercontent.com https://www.google.com/ https://*.google.com/; frame-ancestors 'self' https://www.dropbox.com https://*.dropbox.com https://www.dropboxusercontent.com https://*.dropboxusercontent.com https://www.google.com/ https://*.google.com/; upgrade-insecure-requests;"
+</IfModule>
