@@ -1,9 +1,9 @@
 <!-- Slider
 ============================================= -->
 <section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
-    <div class="slider-inner" style="background: var(--cnvs-contrast-0) url('/build/img/hero/hero-1.jpg') center center no-repeat; background-size: cover;">
+    <div class="slider-inner" style="background: var(--cnvs-contrast-900) url('/build/img/hero/hero-1.webp') center center no-repeat; background-size: cover;">
 
-        <div class="vertical-middle slider-element-fade">
+        <div class="vertical-middle slider-element-fade dark">
             <div class="container py-5">
                 <div class="row pt-5">
                     <div class="col-lg-5 col-md-8">
@@ -233,7 +233,7 @@
 
         <!-- Form Section
         ============================================= -->
-        <div class="section m-0" style="background: url('/build/img/sections/1.jpg') no-repeat center center; background-size: cover; padding: 100px 0;">
+        <div class="section m-0" style="background: url('/build/img/sections/1.webp') no-repeat center center; background-size: cover; padding: 100px 0;">
             <div class="container">
                 <div class="row justify-content-between align-items-center">
 
@@ -295,7 +295,7 @@
 
         <!-- Works/Projects
         ============================================= -->
-        <div class="section m-0" style="background: url('/build/img/sections/5.jpg') no-repeat center center; background-size: cover;padding: 80px 0;">
+        <div class="section m-0" style="background: url('/build/img/sections/5.webp') no-repeat center center; background-size: cover;padding: 80px 0;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Completed Projects</div>
@@ -307,7 +307,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-media pf-icons">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/1.jpg" alt="The Atmosphere">
+                                <img src="/build/img/works/1.webp" alt="The Atmosphere">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -325,7 +325,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/2.jpg" alt="Wavelength Structure">
+                                <img src="/build/img/works/2.webp" alt="Wavelength Structure">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -343,7 +343,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-uielements">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/3.jpg" alt="Greenhouse Garden">
+                                <img src="/build/img/works/3.webp" alt="Greenhouse Garden">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -361,7 +361,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-icons pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/4.jpg" alt="Industrial Hub">
+                                <img src="/build/img/works/4.webp" alt="Industrial Hub">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -379,7 +379,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-uielements pf-media">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/5.jpg" alt="Corporate Headquarters">
+                                <img src="/build/img/works/5.webp" alt="Corporate Headquarters">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -397,7 +397,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/6.jpg" alt="Space Station">
+                                <img src="/build/img/works/6.webp" alt="Space Station">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -465,7 +465,7 @@
 
         <!-- Testimonials
         ============================================= -->
-        <div class="section mt-0" style="background: url('/build/img/sections/3.jpg') no-repeat top center; background-size: cover; padding: 80px 0 70px;">
+        <div class="section mt-0" style="background: url('/build/img/sections/3.webp') no-repeat top center; background-size: cover; padding: 80px 0 70px;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Testimonials</div>
@@ -476,7 +476,7 @@
 
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/1.jpg" alt="Customer Testimonails">
+                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/1.webp" alt="Customer Testimonails">
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
@@ -491,7 +491,7 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/2.jpg" alt="Customer Testimonails">
+                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/2.webp" alt="Customer Testimonails">
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
@@ -506,7 +506,7 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/3.jpg" alt="Customer Testimonails">
+                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/3.webp" alt="Customer Testimonails">
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
@@ -521,7 +521,7 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/4.jpg" alt="Customer Testimonails">
+                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/4.webp" alt="Customer Testimonails">
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
@@ -536,7 +536,7 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="images/testimonials/5.jpg" alt="Customer Testimonails">
+                            <img class="testimonial-image rounded-circle p-2 bg-white" src="images/testimonials/5.webp" alt="Customer Testimonails">
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
@@ -566,7 +566,7 @@
                 <div class="col-md-4">
                     <article class="entry">
                         <div class="entry-image mb-3">
-                            <a href="#"><img src="/build/img/blog/1.jpg" alt="Image 3"></a>
+                            <a href="#"><img src="/build/img/blog/1.webp" alt="Image 3"></a>
                         </div>
                         <div class="entry-title">
                             <h3><a href="#">Top Most SEO Optizied Websites</a></h3>
@@ -586,7 +586,7 @@
                 <div class="col-md-4">
                     <article class="entry">
                         <div class="entry-image mb-3">
-                            <a href="#"><img src="/build/img/blog/2.jpg" alt="Image 3"></a>
+                            <a href="#"><img src="/build/img/blog/2.webp" alt="Image 3"></a>
                         </div>
                         <div class="entry-title">
                             <h3><a href="#">10 Recent SEO Tips for Startups</a></h3>
@@ -606,7 +606,7 @@
                 <div class="col-md-4">
                     <article class="entry">
                         <div class="entry-image mb-3">
-                            <a href="#"><img src="/build/img/blog/3.jpg" alt="Image 3"></a>
+                            <a href="#"><img src="/build/img/blog/3.webp" alt="Image 3"></a>
                         </div>
                         <div class="entry-title">
                             <h3><a href="#">3 Ways to Transform Your Site Into a SEO</a></h3>

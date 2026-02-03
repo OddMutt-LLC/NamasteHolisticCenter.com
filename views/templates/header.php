@@ -1,6 +1,6 @@
 <!-- Header
 ============================================= -->
-<header id="header" class="transparent-header floating-header header-size-md">
+<header id="header" class="transparent-header floating-header header-size-md transparent-header-responsive">
     <div id="header-wrap">
         <div class="container">
             <div class="header-row">
@@ -8,7 +8,7 @@
                 <!-- Logo
                 ============================================= -->
                 <div id="logo">
-                    <a href="index">
+                    <a href="/">
                         <img class="logo-default p-2" srcset="/build/img/logo.png, /build/img/logo@2x.png 2x" src="/build/img/logo@2x.png" alt="Namaste Logo">
                         <img class="logo-dark p-2" srcset="/build/img/logo-dark.png, /build/img/logo-dark@2x.png 2x" src="/build/img/logo-dark@2x.png" alt="Namaste Logo">
                     </a>
