@@ -25,7 +25,6 @@
     <!-- Core Style -->
     <link rel="stylesheet" href="/build/css/app.css">
     <link rel="stylesheet" href="/build/css/acupucture.css">
-    <link rel="stylesheet" href="/build/css/components/bs-switches.css">
 
     <!-- Font Icons -->
     <link rel="stylesheet" href="/build/css/font-icons.css">
@@ -65,10 +64,10 @@
 
 	<!-- JavaScripts
 	============================================= -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="/build/js/bundle.min.js" defer></script>
 	<script src="/build/js/plugins.min.js"></script>
 	<script src="/build/js/functions.bundle.js"></script>
-    <script src="/build/js/components/bs-switches.js"></script>
 
     <!-- Parallax Script
 	============================================= -->

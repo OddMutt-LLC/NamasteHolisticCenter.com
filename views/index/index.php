@@ -3,13 +3,13 @@
 <section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
     <div class="slider-inner" style="background: var(--cnvs-contrast-900) url('/build/img/hero/hero-1.webp') center center no-repeat; background-size: cover;">
 
-        <div class="vertical-middle slider-element-fade dark">
-            <div class="container py-5">
+        <div class="vertical-middle slider-element-fade">
+            <div class="container dark py-5">
                 <div class="row pt-5">
-                    <div class="col-lg-5 col-md-8">
+                    <div class="col-lg-6 col-md-8">
                         <div class="slider-title">
-                            <div class="badge rounded-pill badge-default">SEO Ready</div>
-                            <h2>Improve your SEO with Data.</h2>
+                            <div class="badge rounded-pill badge-default">Namaste Acupuncture</div>
+                            <h1>Fertility & Pain Management Specialists</h1>
                             <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">- Boost your own <span class="t-rotate">Awesome,Beautiful,Great</span> Website.</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vitae mollitia dignissimos ab qui aspernatur.</p>
                             <a href="/about" class="button button-rounded button-large text-transform-none ls-0">Get Started</a>
@@ -21,9 +21,9 @@
 
         </div>
 
-        <div class="video-wrap h-100 d-block d-lg-none">
-            <div class="video-overlay" style="background: rgba(255,255,255,0.85);"></div>
-        </div>
+        <div class="video-wrap">
+                <div class="video-overlay" style="background: rgba(0,0,0,0.2);"></div>
+            </div>
 
     </div>
 </section><!-- #slider end -->
@@ -52,92 +52,113 @@
         ============================================= -->
         <div class="section bg-transparent mt-4 mb-0 pb-0">
             <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="badge rounded-pill badge-default">Welcome to Namaste Acupuncture</div>
+                        <h2 class="display-4 fw-bold">Natural Healing for Mind, Body & Balance</h2>
+                        <p> Namaste Acupuncture offers holistic, personalized acupuncture treatments focused on pain relief,
+                            improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
+                            Traditional Chinese Medicine, our approach supports the body’s natural healing process in a
+                            calm, welcoming environment. We understand how deeply pain and fertility challenges affect
+                            your quality of life, physically, emotionally, and socially. Our licensed practitioner offers
+                            personalized and compassionate care designed to help you manage pain, reduce stress, improve
+                            sleep, and support reproductive health.
+                       </p>
+                        <p>
+                            Each session is tailored to your individual needs, helping restore balance to mind and body for a
+                            long-term health and wellbeing.
+                        </p>
+                        <p>
+                            Whether you’re seeking relief from chronic discomfort, stress, or internal imbalances, our
+                            personalized treatments focus on treating the whole person, not just symptoms.
+                        </p>
+                        <a href="#" class="button button-rounded button-large text-transform-none ls-0">Get Started</a>
+                        <a href="demo-seo-contact.html" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
+                    </div>
+                    <div class="col-lg-6 mt-4 mt-lg-0">
+                        <img src="/build/img/services/home-1.webp" alt="Image">
+                    </div>
+                </div>
+
+                <div class="clear line my-6"></div>
                 <div class="heading-block border-bottom-0 text-center mx-auto mb-0" style="max-width: 550px">
-                    <div class="badge rounded-pill badge-default">Services</div>
-                    <h3 class="text-transform-none ls-0 mb-3">What We Do</h3>
-                    <p>Dynamically provide access to resource-leveling mindshare vis-a-vis bricks-and-clicks ideas authoritatively.</p>
+                    <div class="badge rounded-pill badge-default">Why Acupuncture?</div>
+                    <h3 class="text-transform-none ls-0 mb-3">Why Acupuncture Is a Valuable Part of Your Care Plan</h3>
+                    <p></p>
                 </div>
                 <div class="row justify-content-between align-items-center">
-
+                
                     <div class="col-lg-4 col-sm-6">
-
+                
                         <div class="feature-box flex-md-row-reverse text-md-end border-0">
                             <div class="fbox-icon">
-                                <a href="#"><img src="/build/img/icons/seo.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
+                                <a>
+                                    <i class="bi-shield-fill-check"></i>
+                                </a>
                             </div>
                             <div class="fbox-content">
-                                <h3 class="text-transform-none ls-0">SEO optimization</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, dolore, voluptates!</p>
+                                <h3 class="text-transform-none ls-0">Non-pharmacologic &amp; low risk</h3>
+                                <p>Safe when performed by trained professionals.</p>
                             </div>
                         </div>
-
+                
                         <div class="feature-box flex-md-row-reverse text-md-end border-0 mt-5">
                             <div class="fbox-icon">
-                                <a href="#"><img src="/build/img/icons/adword.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
+                                <i class="fa-solid fa-check-circle"></i>
                             </div>
                             <div class="fbox-content">
-                                <h3 class="text-transform-none ls-0">Adwords Campaign</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, provident.</p>
+                                <h3 class="text-transform-none ls-0">Holistic support</h3>
+                                <p>Addresses the whole person, not just symptoms.</p>
                             </div>
                         </div>
-
+                
                         <div class="feature-box flex-md-row-reverse text-md-end border-0 mt-5">
                             <div class="fbox-icon">
-                                <a href="#"><img src="/build/img/icons/analysis.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
+                                <i class="fa-solid fa-check-circle"></i>
                             </div>
                             <div class="fbox-content">
-                                <h3 class="text-transform-none ls-0">Digital Analysis</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, ipsa!</p>
+                                <h3 class="text-transform-none ls-0">Reduced reliance on pain medication</h3>
+                                <p>Beneficial for chronic conditions.</p>
                             </div>
                         </div>
-
+                
                     </div>
-
+                
                     <div class="col-lg-3 col-7 offset-3 offset-sm-0 d-sm-none d-lg-block text-center my-5">
-                        <img src="/build/img/sections/2.png" alt="iphone" class="rounded parallax" data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(30px)">
+                        <img src="/build/img/sections/2.webp" alt="iphone" class="rounded parallax" data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(30px)">
                     </div>
-
+                
                     <div class="col-lg-4 col-sm-6">
-
+                
                         <div class="feature-box border-0">
                             <div class="fbox-icon">
-                                <a href="#"><img src="/build/img/icons/social.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
+                                <i class="fa-solid fa-check-circle"></i>
                             </div>
                             <div class="fbox-content">
-                                <h3 class="text-transform-none ls-0">Social Media Marketing</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, dolore, voluptates!</p>
+                                <h3 class="text-transform-none ls-0">Improved sleep &amp; quality of life</h3>
+                                <p>Foundational for healing.</p>
                             </div>
                         </div>
-
+                
                         <div class="feature-box border-0 mt-5">
                             <div class="fbox-icon">
-                                <a href="#"><img src="/build/img/icons/experience.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
+                                <i class="fa-solid fa-check-circle"></i>
                             </div>
                             <div class="fbox-content">
-                                <h3 class="text-transform-none ls-0">Customer Experience</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, ipsa!</p>
+                                <h3 class="text-transform-none ls-0">Versatile</h3>
+                                <p>Effective for acute, chronic, and reproductive-related concerns.</p>
                             </div>
                         </div>
-
-                        <div class="feature-box border-0 mt-5">
-                            <div class="fbox-icon">
-                                <a href="#"><img src="/build/img/icons/content_marketing.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
-                            </div>
-                            <div class="fbox-content">
-                                <h3 class="text-transform-none ls-0">Content Marketing</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, provident.</p>
-                            </div>
-                        </div>
-
+                
                     </div>
-
+                
                 </div>
             </div>
         </div>
 
         <!-- Pricing
         ============================================= -->
-        <div class="section m-0" style="background: url('/build/img/sections/4.png') no-repeat center top; background-size: cover; padding: 140px 0 0;">
+        <div class="section m-0" style="background: url('/build/img/sections/4.webp') no-repeat center top; background-size: cover; padding: 140px 0 0;">
             <div class="container">
                 <div class="row justify-content-between">
                     <div class="col-lg-4 mt-4">
@@ -146,17 +167,6 @@
                             <h3 class="text-transform-none ls-0">No Hidden Charges. <br>Choose Your Best Plan.</h3>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolore voluptatem assumenda quae possimus sunt dignissimos tempora officia.</p>
-                        <div class="pricing-tenure-switcher d-flex align-items-center mb-4 position-relative" data-container="#pricing-switch">
-                            <span class="pts-switch pts-false col-auto">Monthly</span>
-                            <div class="pts-switcher col-auto">
-                                <div class="switch mx-3">
-                                    <input id="switch-toggle-pricing-tenure" class="switch-toggle switch-toggle-round" type="checkbox">
-                                    <label for="switch-toggle-pricing-tenure" class="mb-0"></label>
-                                </div>
-                            </div>
-                            <span class="pts-switch pts-true col-auto">Yearly</span>
-                            <div class="price-discount"></div>
-                        </div>
                     </div>
 
                     <div class="col-lg-8">
