@@ -75,7 +75,7 @@ div.menu-link { cursor: default; }
 	height: 70px;
 	line-height: 71px;
 	font-size: 24px;
-	background: linear-gradient(60deg, #fE9603, #ff8e01, #ed9931, #f37055);
+	background: var(--cnvs-themecolor);
 	color: var(--cnvs-contrast-0);
 	text-align: center;
 	border-radius: 50%;

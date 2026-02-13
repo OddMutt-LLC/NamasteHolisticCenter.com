@@ -10,10 +10,21 @@
                         <div class="slider-title">
                             <div class="badge rounded-pill badge-default">Namaste Acupuncture</div>
                             <h1>Fertility & Pain Management Specialists</h1>
-                            <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">- Boost your own <span class="t-rotate">Awesome,Beautiful,Great</span> Website.</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vitae mollitia dignissimos ab qui aspernatur.</p>
-                            <a href="/about" class="button button-rounded button-large text-transform-none ls-0">Get Started</a>
-                            <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
+                            <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">
+                                Personalized <span class="t-rotate">Healing,Wellness,Balance,Natural Care</span> Through Acupuncture.
+                            </h3>
+                            <p>
+                                We specialize in evidence-informed acupuncture treatments designed to relieve pain, 
+                                support fertility, and restore whole-body balance. Our personalized approach integrates 
+                                traditional Chinese medicine with modern clinical care to help you feel your best—naturally.
+                            </p>
+                            <a href="/about" class="button button-rounded button-large text-transform-none ls-0">
+                                Learn More About Us
+                            </a>
+                            <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">
+                                Schedule a Consultation
+                            </a>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -22,7 +33,7 @@
         </div>
 
         <div class="video-wrap">
-                <div class="video-overlay" style="background: rgba(0,0,0,0.2);"></div>
+                <div class="video-overlay" style="background: rgba(60, 60, 60, 0.4);"></div>
             </div>
 
     </div>
@@ -39,11 +50,10 @@
         <div class="section bg-transparent m-0 border-bottom py-5">
             <div class="container">
                 <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="100" data-loop="true" data-autoplay="5000" data-nav="false" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="6">
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/linkedin.svg" alt="Brands"></a></div>
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/nat-geo.svg" alt="Brands"></a></div>
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/jetblue.svg" alt="Brands"></a></div>
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/zillow.svg" alt="Brands"></a></div>
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/amazon.svg" alt="Brands"></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide0.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide1.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide2.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide4.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
                 </div>
             </div>
         </div>
@@ -93,7 +103,7 @@
                         <div class="feature-box flex-md-row-reverse text-md-end border-0">
                             <div class="fbox-icon">
                                 <a>
-                                    <i class="bi-shield-fill-check"></i>
+                                    <i class="bi-heart-pulse-fill"></i>
                                 </a>
                             </div>
                             <div class="fbox-content">
@@ -104,7 +114,7 @@
                 
                         <div class="feature-box flex-md-row-reverse text-md-end border-0 mt-5">
                             <div class="fbox-icon">
-                                <i class="fa-solid fa-check-circle"></i>
+                                <i class="bi-flower1"></i>
                             </div>
                             <div class="fbox-content">
                                 <h3 class="text-transform-none ls-0">Holistic support</h3>
@@ -114,7 +124,7 @@
                 
                         <div class="feature-box flex-md-row-reverse text-md-end border-0 mt-5">
                             <div class="fbox-icon">
-                                <i class="fa-solid fa-check-circle"></i>
+                                <i class="bi-capsule-pill"></i>
                             </div>
                             <div class="fbox-content">
                                 <h3 class="text-transform-none ls-0">Reduced reliance on pain medication</h3>
@@ -132,7 +142,7 @@
                 
                         <div class="feature-box border-0">
                             <div class="fbox-icon">
-                                <i class="fa-solid fa-check-circle"></i>
+                                <i class="bi-moon-stars-fill"></i>
                             </div>
                             <div class="fbox-content">
                                 <h3 class="text-transform-none ls-0">Improved sleep &amp; quality of life</h3>
@@ -142,7 +152,7 @@
                 
                         <div class="feature-box border-0 mt-5">
                             <div class="fbox-icon">
-                                <i class="fa-solid fa-check-circle"></i>
+                                <i class="bi-infinity"></i>
                             </div>
                             <div class="fbox-content">
                                 <h3 class="text-transform-none ls-0">Versatile</h3>
@@ -158,80 +168,81 @@
 
         <!-- Pricing
         ============================================= -->
-        <div class="section m-0" style="background: url('/build/img/sections/4.webp') no-repeat center top; background-size: cover; padding: 140px 0 0;">
+        <div class="section m-0" style="background: url('/build/img/sections/4.webp') no-repeat center top; background-size: cover; padding: 140px 0;">
             <div class="container">
                 <div class="row justify-content-between">
                     <div class="col-lg-4 mt-4">
                         <div class="heading-block border-bottom-0 mb-4">
-                            <div class="badge rounded-pill badge-default">Pricing Table</div>
-                            <h3 class="text-transform-none ls-0">No Hidden Charges. <br>Choose Your Best Plan.</h3>
+                            <div class="badge rounded-pill badge-default">Our Specialties</div>
+                            <h3 class="text-transform-none ls-0">Comprehensive Acupuncture Care <br>For Pain & Fertility Support</h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolore voluptatem assumenda quae possimus sunt dignissimos tempora officia.</p>
+                        <p>
+                            Acupuncture has been used for thousands of years to support physical, emotional, and internal health concerns. 
+                            Many patients choose acupuncture as a natural and effective non-pharmacologic approach to healing and balance.
+                        </p>
                     </div>
 
                     <div class="col-lg-8">
                         <div id="section-pricing" class="page-section p-0 m-0">
 
-                            <div id="pricing-switch" class="pricing row align-items-end g-0 col-mb-50 mb-4">
+                            <div class="row col-mb-30 align-content-stretch">
 
-                                <div class="col-md-6">
-
-                                    <div class="pricing-box">
-                                        <div class="pricing-title">
-                                            <img class="mb-2 bg-transparent rounded-0" src="/build/img/icons/man.svg" alt="Pricing Icon" width="50">
-                                            <h3>Single User Plan</h3>
-                                            <span>Most Popular</span>
+                                <div class="col-lg-6 col-md-12 d-flex">
+                                    <a href="#" class="card h-shadow h-translate-y-sm all-ts">
+                                        <div class="card-body p-5">
+                                            <div class="feature-box flex-column">
+                                                <div class="fbox-image mb-5 text-center">
+                                                    <img src="/build/img/services/pain-management.webp" alt="Pain Management Icon">
+                                                </div>
+                                                <div class="fbox-content">
+                                                    <h3 class="text-transform-none ls-0 text-larger">Pain Management & Functional Wellness</h3>
+                                                    <p class="text-smaller">
+                                                        Acupuncture is widely recognized as a safe, effective non-pharmacologic option to manage:
+                                                    </p>
+                                                </div>
+                                                <ul class="iconlist ms-3 mt-4 mb-0">
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Chronic back and neck pain</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Headaches & migraines</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Joint pain (shoulder, knee, hip)</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Sciatica</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Arthritis & inflammatory pain</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (jaw pain)</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Fibromyalgia</li>
+                                                    <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Post-surgical recovery</li>
+                                                </ul>
+                                            </div>
                                         </div>
-                                        <div class="pricing-price">
-                                            <div class="pts-content pts-content-false"><span class="price-unit">&dollar;</span>5<span class="price-tenure">Per Month</span></div>
-                                            <div class="pts-content pts-content-true"><span class="price-unit">&dollar;</span>48<span class="price-tenure">Per Year</span></div>
-                                        </div>
-                                        <div class="pricing-features border-0 bg-transparent">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i><strong>Limited</strong> Support</li>
-                                                <li class="pts-content pts-content-false text-black-50"><i class="bi-dash-circle me-2"></i><del style="opacity: .5"><strong>1</strong> Free Optimization</del></li>
-                                                <li class="pts-content pts-content-true"><i class="fa-solid fa-check-circle color me-2"></i><strong>1</strong> Free Optimization</li>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i><strong>100+</strong> Pages</li>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i><strong>Single</strong> User License</li>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i>Phone &amp; Email Support</li>
-                                            </ul>
-                                        </div>
-                                        <div class="pricing-action">
-                                            <div class="pts-content pts-content-false"><a href="#" class="button button-large button-rounded w-100 text-capitalize m-0 ls-0">Get Started</a></div>
-                                            <div class="pts-content pts-content-true"><a href="#" class="button button-large button-rounded w-100 text-capitalize m-0 ls-0">Get Started</a></div>
-                                        </div>
-                                    </div>
-
+                                    </a>
                                 </div>
 
-                                <div class="col-md-6">
-
-                                    <div class="pricing-box">
-                                        <div class="pricing-title">
-                                            <img class="mb-2 bg-transparent rounded-0" src="/build/img/icons/group.svg" alt="Pricing Icon" width="60">
-                                            <h3>Multiple User Plan</h3>
+                                <div class="col-lg-6 col-md-12 d-flex">
+                                    <a href="#" class="card h-shadow h-translate-y-sm all-ts">
+                                        <div class="card-body p-5">
+                                            <div class="feature-box flex-column">
+                                                <div class="fbox-image mb-5 text-center">
+                                                    <img src="/build/img/services/fertility.webp" alt="Fertility Support Icon">
+                                                </div>
+                                                <div class="fbox-content">
+                                                    <h3 class="text-transform-none ls-0 text-larger">Fertility Support for Women & Men</h3>
+                                                    <p class="text-smaller">
+                                                        We provide targeted acupuncture treatments to support:
+                                                    </p>
+                                                </div>
+                                                <ul class="iconlist ms-3 mt-4 mb-0">
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Hormonal balance</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Regular ovulation & cycle regulation</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Improved uterine blood flow</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Stress reduction during fertility journeys</li>
+                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Support alongside IVF, IUI, FET</li>
+                                                </ul>
+                                                <p class="text-smaller mt-3">
+                                                    Our approach integrates acupuncture with lifestyle and nutritional guidance 
+                                                    to create a nurturing environment for conception.
+                                                </p>
+                                            </div>
                                         </div>
-                                        <div class="pricing-price">
-                                            <div class="pts-content pts-content-false"><span class="price-unit">&dollar;</span>12<span class="price-tenure">Per Month</span></div>
-                                            <div class="pts-content pts-content-true"><span class="price-unit">&dollar;</span>115<span class="price-tenure">Per Year</span></div>
-                                        </div>
-                                        <div class="pricing-features border-0 bg-transparent">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i><strong>24*7</strong> Support</li>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i><strong>10</strong> Free Optimization</li>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i><strong>1000+</strong> Pages</li>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i><strong>Unlimited</strong> User License</li>
-                                                <li><i class="fa-solid fa-check-circle color me-2"></i>Phone &amp; Email Support</li>
-                                            </ul>
-                                        </div>
-                                        <div class="pricing-action">
-                                            <div class="pts-content pts-content-false"><a href="#" class="button button-rounded button-large button-light text-dark bg-white border w-100 text-transform-none m-0 ls-0">Get Started</a></div>
-                                            <div class="pts-content pts-content-true"><a href="#" class="button button-rounded button-large button-light text-dark bg-white border w-100 text-transform-none m-0 ls-0">Get Started</a></div>
-                                        </div>
-                                    </div>
-
+                                    </a>
                                 </div>
-
                             </div>
 
                         </div>
@@ -241,24 +252,33 @@
             </div>
         </div>
 
+
         <!-- Form Section
         ============================================= -->
-        <div class="section m-0" style="background: url('/build/img/sections/1.webp') no-repeat center center; background-size: cover; padding: 100px 0;">
+        <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">
             <div class="container">
                 <div class="row justify-content-between align-items-center">
 
                     <div class="col-md-4">
                         <div class="heading-block border-bottom-0 mb-4">
-                            <div class="badge rounded-pill badge-default">Careers</div>
-                            <h3 class="text-transform-none ls-0">Get your free Quote today</h3>
+                            <div class="badge rounded-pill badge-default">Book a Session Today</div>
+                            <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolore voluptatem assumenda quae possimus sunt dignissimos tempora officia.</p>
+                        <p>
+                        Our goal is to partner with you — to listen, understand, and tailor treatments based on your
+                        unique history, symptoms, and goals. We combine clinical experience with evidence-informed
+                        practice to support your body’s innate ability to heal.
+                        </p>
+                        <p>
+                        Whether you’re managing chronic pain or preparing for conception Namaste Acupuncture is
+                        here for you every step of the way
+                        </p>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="card shadow-sm">
                             <div class="card-body">
-                                <h4 class="mb-3">Apply Now</h4>
+                                <h4 class="mb-3">Schedule Your Appointment</h4>
                                 <div class="form-widget">
                                     <div class="form-result"></div>
                                     <form class="row mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
@@ -277,14 +297,14 @@
                                             <input type="email" id="template-contactform-email" name="template-contactform-email" class="form-control input-sm required" value="">
                                         </div>
                                         <div class="col-12 form-group mb-4">
-                                            <label for="template-contactform-website">Website:*</label>
-                                            <input type="text" id="template-contactform-website" name="template-contactform-website" class="form-control input-sm required" value="">
+                                            <label for="template-contactform-phone">Phone:*</label>
+                                            <input type="text" id="template-contactform-phone" name="template-contactform-phone" class="form-control input-sm required" value="">
                                         </div>
                                         <div class="col-12 form-group d-none">
                                             <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="form-control">
                                         </div>
                                         <div class="col-12 form-group mb-0">
-                                            <button class="button button-rounded w-100 text-transform-none ls-0 m-0" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Apply Now</button>
+                                            <button class="button button-rounded w-100 text-transform-none ls-0 m-0" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send</button>
                                         </div>
 
                                         <input type="hidden" name="prefix" value="template-contactform-">
@@ -295,7 +315,7 @@
                     </div>
 
                     <div class="col-md-4 mt-5 mt-md-0 text-center">
-                        <a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon shadow"><i class="bi-play"></i></a>
+                        <!-- <a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon shadow"><i class="bi-play"></i></a> -->
                     </div>
 
                 </div>
@@ -308,8 +328,8 @@
         <div class="section m-0" style="background: url('/build/img/sections/5.webp') no-repeat center center; background-size: cover;padding: 80px 0;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
-                    <div class="badge rounded-pill badge-default">Completed Projects</div>
-                    <h3 class="text-transform-none ls-0">Our Latest Works</h3>
+                    <div class="badge rounded-pill badge-default">Acupucture Treatments</div>
+                    <h3 class="text-transform-none ls-0">What Conditions Can Acupuncture Treat?</h3>
                 </div>
 
                 <div id="portfolio" class="portfolio row gutter-20">
@@ -317,7 +337,7 @@
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-media pf-icons">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/1.webp" alt="The Atmosphere">
+                                <img src="/build/img/works/8.webp" alt="Pain Management">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -326,16 +346,68 @@
                                 </div>
                             </div>
                             <div class="portfolio-desc">
-                                <h3><a href="#">The Atmosphere</a></h3>
-                                <span>Digital Marketing</span>
+                                <h3><a href="#">Pain Management</a></h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                    <span>Acupuncture is commonly used to help reduce pain and inflammation by stimulating the nervous system and improving circulation. Acupuncture is widely used to manage both acute and chronic pain conditions, including:</span>
+                                    <ul class="iconlist ms-3 mt-3 mb-0">
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Low back pain</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Neck and shoulder pain</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Sciatica and nerve pain</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Knee, hip, and joint pain</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Arthritis and inflammatory pain</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Migraines and tension headaches</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (Jaw pain)</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Myofascial pain and trigger points</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Sports Injuries</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Fibromialgia</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Post-surgical pain and recovery</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Trigeminal Neuralgia</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Dental pain</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
+                                        <li><i class="fa-solid fa-check text-smaller color"></i> Abdominal pain</li>
+                                    </ul>
+                                    <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
                             </div>
                         </div>
                     </article>
-
+                
+                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-media pf-icons">
+                        <div class="grid-inner">
+                            <div class="portfolio-image">
+                                <img src="/build/img/works/1.webp" alt="Women's Health & Hormonal Balance">
+                                <div class="bg-overlay">
+                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
+                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
+                                    </div>
+                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3><a href="#">Women’s Health & Hormonal Balance</a></h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                <span>Many women use acupuncture to support hormonal health throughout different life stages.</span>
+                                <ul class="iconlist ms-3 mt-3 mb-0">
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Menstrual cramps (PMS)</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Endometriosis-associated pain</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic floor tension</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Irregular cycles</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Fertility support</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Pregnancy discomfort</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Postpartum recovery</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Menopause symptoms (hot flashes, night sweats, mood swings)</li>
+                                </ul>
+                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/2.webp" alt="Wavelength Structure">
+                                <img src="/build/img/works/2.webp" alt="Stress, Anxiety & Emotional Well-Being">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -344,16 +416,27 @@
                                 </div>
                             </div>
                             <div class="portfolio-desc">
-                                <h3>Wavelength Structure</h3>
-                                <span>SEO</span>
+                                <h3>Stress, Anxiety & Emotional Well-Being</h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                <span>By calming the nervous system, acupuncture may help regulate mood and promote relaxation.</span>
+                                <ul class="iconlist ms-3 mt-3 mb-0">
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Chronic stress and burnout</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Anxiety</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Depression</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Emotional imbalance</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> PTSD support</li>
+                                </ul>
+                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
                             </div>
                         </div>
                     </article>
-
+                
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-uielements">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/3.webp" alt="Greenhouse Garden">
+                                <img src="/build/img/works/3.webp" alt="Headaches & Neurological Support">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -362,16 +445,27 @@
                                 </div>
                             </div>
                             <div class="portfolio-desc">
-                                <h3>Simplicity Pages</h3>
-                                <span>Analytics</span>
+                                <h3>Headaches & Neurological Support</h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                <span>Acupuncture may help reduce the frequency and intensity of headaches and nerve-related conditions.</span>
+                                <ul class="iconlist ms-3 mt-3 mb-0">
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Migraines</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Tension headaches</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Nerve pain</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Trigeminal neuralgia</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Bell’s palsy</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Peripheral neuropathy</li>
+                                </ul>
+                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
                             </div>
                         </div>
                     </article>
-
+                
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-icons pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/4.webp" alt="Industrial Hub">
+                                <img src="/build/img/works/4.webp" alt="Immune & Respiratory Support">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -380,16 +474,26 @@
                                 </div>
                             </div>
                             <div class="portfolio-desc">
-                                <h3>SEO Analysis</h3>
-                                <span>SEO</span>
+                                <h3>Immune & Respiratory Support</h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                <span>Acupuncture can help strengthen the immune system and support respiratory health.</span>
+                                <ul class="iconlist ms-3 mt-3 mb-0">
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Seasonal allergies</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Sinus congestion</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Asthma support</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Frequent colds and flu</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Long-term immune weakness</li>
+                                </ul>
+                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
                             </div>
                         </div>
                     </article>
-
+                
                     <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-uielements pf-media">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/5.webp" alt="Corporate Headquarters">
+                                <img src="/build/img/works/5.webp" alt="Sleep & Energy">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -398,16 +502,25 @@
                                 </div>
                             </div>
                             <div class="portfolio-desc">
-                                <h3>Marketing Strategy</h3>
-                                <span>Digital Marketing</span>
+                                <h3>Sleep & Energy</h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                <span>By restoring balance in the body, acupuncture may improve rest and vitality.</span>
+                                <ul class="iconlist ms-3 mt-3 mb-0">
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Fatigue</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Low energy</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Jet lag</li>
+                                </ul>
+                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
                             </div>
                         </div>
                     </article>
-
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-illustrations">
+                
+                    <article class="portfolio-item col-12 col-sm-6 col-md-6 pf-graphics pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
-                                <img src="/build/img/works/6.webp" alt="Space Station">
+                                <img src="/build/img/works/6.webp" alt="Digestive & Gut Health">
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
                                         <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
@@ -416,60 +529,56 @@
                                 </div>
                             </div>
                             <div class="portfolio-desc">
-                                <h3>Space Station</h3>
-                                <span>Social Media</span>
+                                <h3>Digestive & Gut Health</h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                <span>Acupuncture may help regulate digestion and support gut function.</span>
+                                <ul class="iconlist ms-3 mt-3 mb-0">
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> IBS (Irritable Bowel Syndrome)</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Bloating and gas</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Acid reflux</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Constipation</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Diarrhea</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Nausea</li>
+                                </ul>
+                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
                             </div>
                         </div>
                     </article>
-
+                
+                    <article class="portfolio-item col-12 col-sm-6 col-md-6 pf-graphics pf-illustrations">
+                        <div class="grid-inner">
+                            <div class="portfolio-image">
+                                <img src="/build/img/works/7.webp" alt="Whole-Body Wellness">
+                                <div class="bg-overlay">
+                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
+                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
+                                    </div>
+                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
+                                </div>
+                            </div>
+                            <div class="portfolio-desc">
+                                <h3>Whole-Body Wellness</h3>
+                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
+                                <span>Even without a specific condition, acupuncture can help maintain balance and prevent future illness.</span>
+                                <ul class="iconlist ms-3 mt-3 mb-0">
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Overall wellness care</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Stress prevention</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Mind-body balance</li>
+                                    <li><i class="fa-solid fa-check text-smaller color"></i> Improved circulation</li>
+                                </ul>
+                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                
                 </div>
 
                 <div class="text-center">
                     <a href="/about" class="button button-large button-rounded text-capitalize ms-0 mt-5 ls-0">View All Works</a>
                 </div>
 
-            </div>
-        </div>
-
-        <!-- Features
-        ============================================= -->
-        <div class="container py-5">
-            <div class="row">
-                <div class="col-md-4 mt-5">
-                    <div class="feature-box fbox-center border-0">
-                        <div class="fbox-icon">
-                            <a href="#"><img src="/build/img/icons/research.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
-                        </div>
-                        <div class="fbox-content">
-                            <h3 class="text-transform-none ls-0">1. Planning &amp; Research</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, dolore, voluptates!</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 mt-5">
-                    <div class="feature-box fbox-center border-0">
-                        <div class="fbox-icon">
-                            <a href="#"><img src="/build/img/icons/optimizing.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
-                        </div>
-                        <div class="fbox-content">
-                            <h3 class="text-transform-none ls-0">2. Optimizing</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, provident.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4 mt-5">
-                    <div class="feature-box fbox-center border-0">
-                        <div class="fbox-icon">
-                            <a href="#"><img src="/build/img/icons/result.svg" alt="Feature Icon" class="bg-transparent rounded-0"></a>
-                        </div>
-                        <div class="fbox-content">
-                            <h3 class="text-transform-none ls-0">3. Result</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi, ipsa!</p>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
 
@@ -486,13 +595,12 @@
 
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/1.webp" alt="Customer Testimonails">
+                            <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum repellendus!</p>
                                         <h4 class="h6 mb-0 fw-bold">John Doe</h4>
-                                        <small class="text-muted">XYZ Inc.</small>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -501,13 +609,12 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/2.webp" alt="Customer Testimonails">
+                            <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
                                         <h4 class="h6 mb-0 fw-bold">Collis Ta'eed</h4>
-                                        <small class="text-muted">Envato Inc.</small>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -516,13 +623,12 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/3.webp" alt="Customer Testimonails">
+                            <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
                                         <h4 class="h6 mb-0 fw-bold">Cyan Ta'eed</h4>
-                                        <small class="text-muted">Milkshake Inc.</small>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -531,13 +637,12 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="demos/pet/images/testimonials/4.webp" alt="Customer Testimonails">
+                            <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
                                         <h4 class="h6 mb-0 fw-bold">Mary Jane</h4>
-                                        <small class="text-muted">Google Inc.</small>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -546,13 +651,12 @@
                     </div>
                     <div class="oc-item">
                         <div class="card rounded-6 shadow border-0">
-                            <img class="testimonial-image rounded-circle p-2 bg-white" src="images/testimonials/5.webp" alt="Customer Testimonails">
+                            <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
                                         <h4 class="h6 mb-0 fw-bold">Steve Jobs</h4>
-                                        <small class="text-muted">Apple Inc.</small>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -564,86 +668,16 @@
             </div>
         </div>
 
-        <!-- Blogs
-        ============================================= -->
-        <div class="container py-4">
-            <div class="heading-block border-bottom-0 text-center">
-                <div class="badge rounded-pill badge-default">Latest Articles</div>
-                <h3 class="text-transform-none ls-0">Recently From the Blog</h3>
-            </div>
-
-            <div class="row mt-5">
-                <div class="col-md-4">
-                    <article class="entry">
-                        <div class="entry-image mb-3">
-                            <a href="#"><img src="/build/img/blog/1.webp" alt="Image 3"></a>
-                        </div>
-                        <div class="entry-title">
-                            <h3><a href="#">Top Most SEO Optizied Websites</a></h3>
-                        </div>
-                        <div class="entry-meta">
-                            <ul>
-                                <li><i class="bi-person"></i><a href="#"> John Doe</a></li>
-                                <li><i class="bi-calendar"></i><a href="#"> 11 Mar 2021</a></li>
-                            </ul>
-                        </div>
-                        <div class="entry-content">
-                            <p>Asperiores, tenetur, blanditiis, quaerat odit ex exercitationem progressive technology through pariatur quibusdam veritatis quisquam. Efficiently communicate alternative.</p>
-                        </div>
-                    </article>
-                </div>
-
-                <div class="col-md-4">
-                    <article class="entry">
-                        <div class="entry-image mb-3">
-                            <a href="#"><img src="/build/img/blog/2.webp" alt="Image 3"></a>
-                        </div>
-                        <div class="entry-title">
-                            <h3><a href="#">10 Recent SEO Tips for Startups</a></h3>
-                        </div>
-                        <div class="entry-meta">
-                            <ul>
-                                <li><i class="bi-person"></i><a href="#"> Semicolonweb</a></li>
-                                <li><i class="bi-calendar"></i><a href="#"> 18 Apr 2021</a></li>
-                            </ul>
-                        </div>
-                        <div class="entry-content">
-                            <p>Interactively predominate progressive technology through distinctive materials. Progressively benchmark extensible intellectual. Exercitationem progressive technology through pariatur.</p>
-                        </div>
-                    </article>
-                </div>
-
-                <div class="col-md-4">
-                    <article class="entry">
-                        <div class="entry-image mb-3">
-                            <a href="#"><img src="/build/img/blog/3.webp" alt="Image 3"></a>
-                        </div>
-                        <div class="entry-title">
-                            <h3><a href="#">3 Ways to Transform Your Site Into a SEO</a></h3>
-                        </div>
-                        <div class="entry-meta">
-                            <ul>
-                                <li><i class="bi-person"></i><a href="#"> John Doe</a></li>
-                                <li><i class="bi-calendar"></i><a href="#"> 06 Aug 2021</a></li>
-                            </ul>
-                        </div>
-                        <div class="entry-content">
-                            <p>Globally synergize premium metrics with holistic e-markets. Professionally morph interoperable networks vis-a-vis value-added methods.</p>
-                        </div>
-                    </article>
-                </div>
-            </div>
-
-        </div>
+        
 
         <!-- Promo/Contact
         ============================================= -->
-        <div class="section mt-5 footer-stick promo-section bg-transparent" style="padding: 100px 0; overflow: visible">
+        <div class="section mt-5 p-5 footer-stick promo-section bg-transparent" style="padding: 100px 0; overflow: visible">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <h5 class="text-uppercase ls-1 mb-1">Grab your Free Trail and Explore the Options</h5>
-                    <h2 class="text-transform-none ls-0">Try Keyword Search 30 Days Free With Canvas<span>SEO</span></h2>
-                    <a href="/contact" class="button button-large button-rounded text-transform-none ms-0 ls-0 mt-4">Contact Us Now</a>
+                    <h2 class="text-transform-none ls-0">Book your <span>acupuncture session today</span> and reconnect with your body’s natural flow.</h2>
+                    <a href="/contact" class="button button-large button-rounded text-transform-none ms-0 ls-0 mt-4">Schedule Your Appointment</a>
                 </div>
             </div>
         </div>
