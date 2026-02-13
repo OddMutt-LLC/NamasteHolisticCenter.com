@@ -575,10 +575,6 @@
                 
                 </div>
 
-                <div class="text-center">
-                    <a href="/about" class="button button-large button-rounded text-capitalize ms-0 mt-5 ls-0">View All Works</a>
-                </div>
-
             </div>
         </div>
 
