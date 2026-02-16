@@ -42,7 +42,8 @@
     <!-- Document Title -->
     <title><?php echo $titulo; ?> | Namaste Pembroke Pines Acupuncture</title>
 </head>
-<body class="stretched">
+<body class="stretched page-transition" data-loader-html="<img class='infinite animated pulse' src='/build/img/logo.webp' width='300' loading='eager' style='padding: 1rem; z-index:1000; !important'>">
+
 
 	<!-- Document Wrapper
 	============================================= -->

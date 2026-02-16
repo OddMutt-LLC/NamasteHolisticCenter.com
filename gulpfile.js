@@ -61,18 +61,11 @@ function versionWebp() {
         .pipe(dest('public/build/img'));
 }
 
-function versionAvif() {
-    return src(paths.imagenes)
-        .pipe(avif({ quality: 50 }))
-        .pipe(dest('public/build/img'));
-}
-
 function dev() {
     watch(paths.css, css);
     watch(paths.js, javascript);
     watch(paths.imagenes, imagenes);
     watch(paths.imagenes, versionWebp);
-    watch(paths.imagenes, versionAvif);
     watch(paths.svg, copiarSVG);
 }
 
@@ -80,7 +73,6 @@ exports.css = css;
 exports.js = javascript;
 exports.imagenes = imagenes;
 exports.versionWebp = versionWebp;
-exports.versionAvif = versionAvif;
 exports.copiarSVG = copiarSVG;
-exports.dev = parallel(css, javascript, imagenes, versionWebp, versionAvif, copiarSVG, dev);
-exports.build = series(css, javascript, imagenes, versionWebp, versionAvif, copiarSVG);
+exports.dev = parallel(css, javascript, imagenes, versionWebp, copiarSVG, dev);
+exports.build = series(css, javascript, imagenes, versionWebp, copiarSVG);

@@ -21,7 +21,7 @@
                             <a href="/about" class="button button-rounded button-large text-transform-none ls-0">
                                 Learn More About Us
                             </a>
-                            <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">
+                            <a href="tel:+19542004587" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">
                                 Schedule a Consultation
                             </a>
                         </div>
@@ -82,7 +82,7 @@
                             Whether you’re seeking relief from chronic discomfort, stress, or internal imbalances, our
                             personalized treatments focus on treating the whole person, not just symptoms.
                         </p>
-                        <a href="#" class="button button-rounded button-large text-transform-none ls-0">Get Started</a>
+                        <a href="tel:+19542004587" class="button button-rounded button-large text-transform-none ls-0">Get Started</a>
                         <a href="demo-seo-contact.html" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0">
@@ -325,7 +325,7 @@
 
         <!-- Works/Projects
         ============================================= -->
-        <div class="section m-0" style="background: url('/build/img/sections/5.webp') no-repeat center center; background-size: cover;padding: 80px 0;">
+        <div id="section-services" class="section m-0" style="background: url('/build/img/sections/5.webp') no-repeat center center; background-size: cover;padding: 80px 0;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Acupucture Treatments</div>
@@ -366,7 +366,7 @@
                                         <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
                                         <li><i class="fa-solid fa-check text-smaller color"></i> Abdominal pain</li>
                                     </ul>
-                                    <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                    <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -398,7 +398,7 @@
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Postpartum recovery</li>
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Menopause symptoms (hot flashes, night sweats, mood swings)</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -427,7 +427,7 @@
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Emotional imbalance</li>
                                     <li><i class="fa-solid fa-check text-smaller color"></i> PTSD support</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -456,7 +456,7 @@
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Bell’s palsy</li>
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Peripheral neuropathy</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -484,7 +484,7 @@
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Frequent colds and flu</li>
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Long-term immune weakness</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -511,7 +511,7 @@
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Low energy</li>
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Jet lag</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -540,7 +540,7 @@
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Diarrhea</li>
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Nausea</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -567,7 +567,7 @@
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Mind-body balance</li>
                                     <li><i class="fa-solid fa-check text-smaller color"></i> Improved circulation</li>
                                 </ul>
-                                <a href="#" class="btn btn-primary btn-sm read-more-trigger"></a>
+                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
                             </div>
                         </div>
@@ -673,7 +673,7 @@
                 <div class="heading-block border-bottom-0 text-center">
                     <h5 class="text-uppercase ls-1 mb-1">Grab your Free Trail and Explore the Options</h5>
                     <h2 class="text-transform-none ls-0">Book your <span>acupuncture session today</span> and reconnect with your body’s natural flow.</h2>
-                    <a href="/contact" class="button button-large button-rounded text-transform-none ms-0 ls-0 mt-4">Schedule Your Appointment</a>
+                    <a href="tel:+19542004587" class="button button-large button-rounded text-transform-none ms-0 ls-0 mt-4">Schedule Your Appointment</a>
                 </div>
             </div>
         </div>
