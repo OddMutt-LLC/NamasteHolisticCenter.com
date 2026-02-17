@@ -29,7 +29,102 @@
 <!-- Content
 ============================================= -->
 <section id="content">
-    
+    <div class="content-wrap py-0">
+        <div class="section section-contact my-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4 col-md-4">
+                        <h2 class="h2 mb-4 fw-semibold">Contact Us</h2>
+                        <p class="text-black-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia aperiam, labore cum ullam, optio ducimus provident corrupti placeat veritatis.</p>
+                        <a href="mailto:no.reply@semicolonweb.com" class="button button-rounded ms-0">Email Us</a>
+                    </div>
+
+                    <div class="col-xl-4 col-md-4">
+                        <div class="form-widget">
+
+                            <div class="form-result"></div>
+
+                            <form class="mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
+
+                                <div class="form-process">
+                                    <div class="css3-spinner">
+                                        <div class="css3-spinner-scaler"></div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-12 form-group">
+                                        <label for="template-contactform-name">Name <small>*</small></label>
+                                        <input type="text" id="template-contactform-name" name="template-contactform-name" value="" class="form-control required">
+                                    </div>
+
+                                    <div class="col-12 form-group">
+                                        <label for="template-contactform-email">Email <small>*</small></label>
+                                        <input type="email" id="template-contactform-email" name="template-contactform-email" value="" class="required email form-control">
+                                    </div>
+
+                                    <div class="col-12 form-group">
+                                        <label for="template-contactform-message">Message <small>*</small></label>
+                                        <textarea class="required form-control" id="template-contactform-message" name="template-contactform-message" rows="4" cols="30"></textarea>
+                                    </div>
+
+                                    <div class="col-12 form-group d-none">
+                                        <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="form-control">
+                                    </div>
+
+                                    <div class="col-12 form-group text-end">
+                                        <button class="button button-rounded button-small m-0" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
+                                    </div>
+                                </div>
+
+                                <input type="hidden" name="prefix" value="template-contactform-">
+
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-md-4">
+                        <div class="feature-box fbox-plain mb-4 fbox-sm">
+                            <div class="fbox-icon mt-1">
+                                <i class="bi-geo-alt"></i>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="fw-normal text-transform-none mb-2">Address</h3>
+                                <address class="font-body text-black-50 mb-0">
+                                    795 Folsom Ave, Suite 600<br>
+                                    San Francisco, CA 94107<br>
+                                </address>
+                            </div>
+                        </div>
+                        <div class="feature-box fbox-plain mb-4 fbox-sm">
+                            <div class="fbox-icon mt-1">
+                                <i class="bi-telephone-outbound"></i>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="fw-normal text-transform-none mb-2">Call:</h3>
+                                <a href="tel:+01273123456">+111 22-33-44</a>
+                            </div>
+                        </div>
+                        <div class="feature-box fbox-plain mb-4 fbox-sm">
+                            <div class="fbox-icon mt-1">
+                                <i class="bi-envelope"></i>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="fw-normal text-transform-none mb-2">Mail:</h3>
+                                <a href="mailto:no.reply@semicolonweb.com">no.reply@semicolonweb.com</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container clearfix">
+                
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.6951178358872!2d-80.39860122374286!3d26.01080287719614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9a6a8c146f211%3A0xf043e0a536940bfe!2sNAMASTE%20ACUPUNCTURE!5e0!3m2!1sen!2sco!4v1771265572253!5m2!1sen!2sco" width="600" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+            </div>
+        </div>
+    </div>
+
 
 
     <!-- Form Section
