@@ -8,7 +8,7 @@
                 <div class="row pt-5">
                     <div class="col-lg-6 col-md-8">
                         <div class="slider-title">
-                            <div class="badge rounded-pill badge-default">Namaste Acupuncture</div>
+                            <div class="badge rounded-pill badge-default border-light text-light">Namaste Acupuncture</div>
                             <h1>Fertility & Pain Management Specialists</h1>
                             <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">
                                 Personalized <span class="t-rotate">Healing,Wellness,Balance,Natural Care</span> Through Acupuncture.
