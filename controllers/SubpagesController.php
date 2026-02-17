@@ -16,6 +16,17 @@ class SubpagesController {
         ]);
     }
 
+    public static function contact(Router $router) {
+
+        $alertas = [];
+
+        // Render a la vista 
+        $router->render('subpages/contact', [
+            'titulo' => 'Contact Us',
+            'alertas' => $alertas
+        ]);
+    }
+
     public static function fertility(Router $router) {
 
         $alertas = [];
