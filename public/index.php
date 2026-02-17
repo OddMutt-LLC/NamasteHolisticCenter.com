@@ -16,8 +16,11 @@ $router->post('/', [IndexController::class, 'index']);
 
 // Subpages
 
-$router->get('/fertility', [SubpagesController::class, 'fertility']);
-$router->post('/fertility', [SubpagesController::class, 'fertility']);
+$router->get('/faq', [SubpagesController::class, 'faq']);
+$router->post('/faq', [SubpagesController::class, 'faq']);
+
+$router->get('/specialties/fertility', [SubpagesController::class, 'fertility']);
+$router->post('/specialties/fertility', [SubpagesController::class, 'fertility']);
 
 // 404
 $router->get('/404',[Page404Controller::class, 'error']);

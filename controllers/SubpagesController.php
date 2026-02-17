@@ -5,6 +5,17 @@ namespace Controllers;
 use MVC\Router;
 
 class SubpagesController {
+    public static function faq(Router $router) {
+
+        $alertas = [];
+
+        // Render a la vista 
+        $router->render('subpages/faq', [
+            'titulo' => 'Frequently Asked Questions',
+            'alertas' => $alertas
+        ]);
+    }
+
     public static function fertility(Router $router) {
 
         $alertas = [];

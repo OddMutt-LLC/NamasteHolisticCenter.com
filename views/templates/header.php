@@ -1,3 +1,8 @@
+<?php
+$current_page = basename($_SERVER['REQUEST_URI'], ".php");
+$current_path = trim($_SERVER['REQUEST_URI'], '/');
+?>
+
 <!-- Top Bar
 ============================================= -->
 <div id="top-bar" class="transparent-topbar dark d-none d-md-flex">
@@ -10,9 +15,9 @@
                 ============================================= -->
                 <div class="top-links">
                     <ul class="top-links-container">
-                        <li class="top-links-item"><a href="demo-seo.html">Home</a></li>
-                        <li class="top-links-item"><a href="demo-seo-faqs.html">FAQs</a></li>
-                        <li class="top-links-item"><a href="demo-seo-contact.html">Contact</a></li>
+                        <li class="top-links-item"><a href="/">Home</a></li>
+                        <li class="top-links-item"><a href="/faqs">FAQs</a></li>
+                        <li class="top-links-item"><a href="/contact">Contact</a></li>
                         <li class="top-links-item"><a href="#"><img src="/build/img/flags/eng.png" alt="Lang">Eng</a>
                             <ul class="top-links-sub-menu">
                                 <li class="top-links-item"><a href="#"><img src="/build/img/flags/fre.png" alt="Lang">French</a></li>
@@ -73,14 +78,14 @@
                 <nav class="primary-menu with-arrows">
 
                     <ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
-                        <li class="menu-item current"><a class="menu-link" href="/"><div>Home</div></a></li>
-                        <li class="menu-item"><a class="menu-link" href="/about"><div>What We Do</div></a></li>
-                        <li class="menu-item mega-menu"><a class="menu-link" href="#" data-href="#section-services"><div>Services</div></a>
-                        <li class="menu-item mega-menu"><a class="menu-link" href="#"><div>Specialties</div></a>
+                        <li class="menu-item <?php echo $current_page == '' ? 'current' : ''; ?>"><a class="menu-link" href="/"><div>Home</div></a></li>
+                        <li class="menu-item <?php echo $current_page == 'about' ? 'current' : ''; ?>"><a class="menu-link" href="/about"><div>What We Do</div></a></li>
+                        <li class="menu-item"><a class="menu-link" href="" data-href="/#section-services"><div>Services</div></a>
+                        <li class="menu-item mega-menu <?php echo strpos($current_path, 'specialties') === 0 ? 'current' : ''; ?>"><a class="menu-link" href="#"><div>Specialties</div></a>
                             <div class="mega-menu-content mega-menu-style-2 px-0">
                                 <div class="container">
                                     <div class="row">
-                                        <a href="/optimizations" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-4">
+                                        <a href="/specialties/pain-management" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-4">
                                             <div class="feature-box">
                                                 <div class="fbox-icon mb-2">
                                                     <img src="/build/img/icons/pain.webp" alt="Feature Icon" class="bg-transparent rounded-0">
@@ -91,7 +96,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href="/fertility" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-4">
+                                        <a href="/specialties/fertility" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-4">
                                             <div class="feature-box">
                                                 <div class="fbox-icon mb-2">
                                                     <img src="/build/img/icons/fertility.webp" alt="Feature Icon" class="bg-transparent rounded-0">
@@ -106,8 +111,8 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="menu-item"><a class="menu-link" href="/faqs"><div>FAQs</div></a></li>
-                        <li class="menu-item"><a class="menu-link" href="/contact"><div>Contact</div></a></li>
+                        <li class="menu-item <?php echo $current_page == 'faq' ? 'current' : ''; ?>"><a class="menu-link" href="/faq"><div>FAQs</div></a></li>
+                        <li class="menu-item <?php echo $current_page == 'contact' ? 'current' : ''; ?>"><a class="menu-link" href="/contact"><div>Contact</div></a></li>
                     </ul>
 
                 </nav><!-- #primary-menu end -->
