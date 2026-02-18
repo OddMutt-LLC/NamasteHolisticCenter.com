@@ -77,10 +77,14 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                 ============================================= -->
                 <nav class="primary-menu with-arrows">
 
-                    <ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
+                    <ul class="menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
                         <li class="menu-item <?php echo $current_page == '' ? 'current' : ''; ?>"><a class="menu-link" href="/"><div>Home</div></a></li>
                         <li class="menu-item <?php echo $current_page == 'about' ? 'current' : ''; ?>"><a class="menu-link" href="/about"><div>What We Do</div></a></li>
-                        <li class="menu-item"><a class="menu-link" href="" data-href="/#section-services"><div>Services</div></a>
+                        <li class="menu-item">
+                            <a class="menu-link" <?php echo $current_page == '' ? "data-scrollto='#section-services'" : "href='/#section-services'"; ?> >
+                                <div>Services</div>
+                            </a>
+                        </li>
                         <li class="menu-item mega-menu <?php echo strpos($current_path, 'specialties') === 0 ? 'current' : ''; ?>"><a class="menu-link" href="#"><div>Specialties</div></a>
                             <div class="mega-menu-content mega-menu-style-2 px-0">
                                 <div class="container">

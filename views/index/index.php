@@ -516,8 +516,11 @@
                             </div>
                         </div>
                     </article>
+
+                    <article class="portfolio-item col-12 col-sm-6 col-md-2 pf-graphics pf-illustrations">
+                    </article>
                 
-                    <article class="portfolio-item col-12 col-sm-6 col-md-6 pf-graphics pf-illustrations">
+                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <img src="/build/img/works/6.webp" alt="Digestive & Gut Health">
@@ -546,7 +549,7 @@
                         </div>
                     </article>
                 
-                    <article class="portfolio-item col-12 col-sm-6 col-md-6 pf-graphics pf-illustrations">
+                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-illustrations">
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <img src="/build/img/works/7.webp" alt="Whole-Body Wellness">
