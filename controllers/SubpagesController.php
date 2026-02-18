@@ -27,13 +27,24 @@ class SubpagesController {
         ]);
     }
 
+    public static function painManagement(Router $router) {
+
+        $alertas = [];
+
+        // Render a la vista 
+        $router->render('subpages/pain-management', [
+            'titulo' => 'Pain Management & Functional Wellness',
+            'alertas' => $alertas
+        ]);
+    }
+
     public static function fertility(Router $router) {
 
         $alertas = [];
 
         // Render a la vista 
         $router->render('subpages/fertility', [
-            'titulo' => 'Fertility',
+            'titulo' => 'Fertility Support for Women & Men',
             'alertas' => $alertas
         ]);
     }

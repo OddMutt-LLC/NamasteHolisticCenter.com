@@ -25,6 +25,9 @@ $router->post('/contact', [SubpagesController::class, 'contact']);
 $router->get('/specialties/fertility', [SubpagesController::class, 'fertility']);
 $router->post('/specialties/fertility', [SubpagesController::class, 'fertility']);
 
+$router->get('/specialties/pain-management', [SubpagesController::class, 'painManagement']);
+$router->post('/specialties/pain-management', [SubpagesController::class, 'painManagement']);
+
 // 404
 $router->get('/404',[Page404Controller::class, 'error']);
 

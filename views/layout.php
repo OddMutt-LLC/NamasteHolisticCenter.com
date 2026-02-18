@@ -8,14 +8,14 @@
     <meta name="description" content="Namaste Pembroke Pines Acupuncture">
     <meta name="keywords" content="Acupuncture, Acupuncture Pembroke Pines, Holistic Health, Wellness, Traditional Chinese Medicine, Pain Relief, Stress Management, Herbal Medicine, Acupuncture Clinic, South Florida Acupuncture">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="<?php echo $titulo; ?> | Namaste Pembroke Pines Acupuncture">
+    <meta property="og:title" content="<?php if (isset($titulo)) echo $titulo; ?> | Namaste Pembroke Pines Acupuncture">
     <meta property="og:description" content="Namaste Pembroke Pines Acupuncture">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://pembrokepinesacupuncture.com/">
     <meta property="og:image" content="https://pembrokepinesacupuncture.com/images/og-image.jpg">
     <meta property="og:locale" content="en_US">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="<?php echo $titulo; ?> | Namaste Pembroke Pines Acupuncture">
+    <meta name="twitter:title" content="<?php if (isset($titulo)) echo $titulo; ?> | Namaste Pembroke Pines Acupuncture">
     <meta name="twitter:description" content="Namaste Pembroke Pines Acupuncture">
     <meta name="twitter:image" content="https://pembrokepinesacupuncture.com/images/twitter-image.jpg">
 
@@ -40,7 +40,7 @@
     <link rel="manifest" href="/site.webmanifest" />
 
     <!-- Document Title -->
-    <title><?php echo $titulo; ?> | Namaste Pembroke Pines Acupuncture</title>
+    <title><?php if (isset($titulo)) echo $titulo; ?> | Namaste Pembroke Pines Acupuncture</title>
 </head>
 <body class="stretched page-transition" data-loader-html="<img class='infinite animated pulse' src='/build/img/logo.webp' width='300' loading='eager' style='padding: 1rem; z-index:1000; !important'>">
 

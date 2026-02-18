@@ -112,7 +112,7 @@
 
                 <div class="col-12 col-lg-auto text-center text-lg-end">
                     <div class="copyrights-menu copyright-links">
-                        <a href="#" class="text-contrast-600">Home</a>/<a href="#" class="text-contrast-600">About Us</a>/<a href="#" class="text-contrast-600">Team</a>/<a href="#" class="text-contrast-600">Clients</a>/<a href="#" class="text-contrast-600">FAQs</a>/<a href="#" class="text-contrast-600">Contact</a>
+                        <a href="/" class="text-contrast-600">Home</a>/<a href="/about" class="text-contrast-600">About Us</a>/<a href="/faq" class="text-contrast-600">FAQs</a>/<a href="/contact" class="text-contrast-600">Contact</a>
                     </div>
                 </div>
             </div>
