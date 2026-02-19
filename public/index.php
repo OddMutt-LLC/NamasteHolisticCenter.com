@@ -16,6 +16,9 @@ $router->post('/', [IndexController::class, 'index']);
 
 // Subpages
 
+$router->get('/about', [SubpagesController::class, 'about']);
+$router->post('/about', [SubpagesController::class, 'about']);
+
 $router->get('/faq', [SubpagesController::class, 'faq']);
 $router->post('/faq', [SubpagesController::class, 'faq']);
 

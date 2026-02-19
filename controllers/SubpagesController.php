@@ -5,6 +5,17 @@ namespace Controllers;
 use MVC\Router;
 
 class SubpagesController {
+    public static function about(Router $router) {
+
+        $alertas = [];
+
+        // Render a la vista 
+        $router->render('subpages/about', [
+            'titulo' => 'About Us',
+            'alertas' => $alertas
+        ]);
+    }
+
     public static function faq(Router $router) {
 
         $alertas = [];

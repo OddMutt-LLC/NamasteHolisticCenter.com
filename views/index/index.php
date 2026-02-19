@@ -1,8 +1,7 @@
 <!-- Slider
 ============================================= -->
 <section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
-    <div class="slider-inner" style="background: var(--cnvs-contrast-900) url('/build/img/hero/hero-1.webp') center center no-repeat; background-size: cover;">
-
+    <div class="slider-inner" style="background: var(--cnvs-contrast-0) url('/build/img/hero/hero-1.webp') center center no-repeat; background-size: cover;">
         <div class="vertical-middle slider-element-fade">
             <div class="container dark py-5">
                 <div class="row pt-5">
@@ -29,13 +28,10 @@
                     </div>
                 </div>
             </div>
-
-        </div>
-
-        <div class="video-wrap">
-                <div class="video-overlay" style="background: rgba(60, 60, 60, 0.4);"></div>
+            <div class="video-wrap">
+                <div class="video-overlay" style="background: rgba(0,0,0,0.45);"></div>
             </div>
-
+        </div>
     </div>
 </section><!-- #slider end -->
 
