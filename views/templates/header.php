@@ -27,8 +27,8 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                     <li><a href="https://facebook.com/semicolonweb" class="h-bg-facebook" target="_blank"><span class="ts-icon"><i class="fa-brands fa-facebook-f"></i></span><span class="ts-text">Facebook</span></a></li>
                     <li><a href="https://youtube.com/semicolonweb" class="h-bg-whatsapp" target="_blank"><span class="ts-icon"><i class="fa-brands fa-whatsapp"></i></span><span class="ts-text">Whatsapp</span></a></li>
                     <li><a href="https://instagram.com/semicolonweb" class="h-bg-instagram" target="_blank"><span class="ts-icon"><i class="fa-brands fa-instagram"></i></span><span class="ts-text">Instagram</span></a></li>
-                    <li><a href="tel:+10.11.85412542" class="h-bg-call"><span class="ts-icon"><i class="fa-solid fa-phone"></i></span><span class="ts-text">+10.11.85412542</span></a></li>
-                    <li><a href="mailto:info@canvas.com" class="h-bg-email3"><span class="ts-icon"><i class="bi-envelope-fill"></i></span><span class="ts-text">info@canvas.com</span></a></li>
+                    <li><a href="tel:+19542004587" class="h-bg-call"><span class="ts-icon"><i class="fa-solid fa-phone"></i></span><span class="ts-text">(954) 200-4587</span></a></li>
+                    <li><a href="mailto:info@pembrokepinesacupuncture.com" class="h-bg-email3"><span class="ts-icon"><i class="bi-envelope-fill"></i></span><span class="ts-text">info@pembroepinesacupuncture.com</span></a></li>
                 </ul><!-- #top-social end -->
 
             </div>

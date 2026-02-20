@@ -7,7 +7,7 @@
                 <div class="row pt-5">
                     <div class="col-lg-6 col-md-8">
                         <div class="slider-title">
-                            <div class="badge rounded-pill badge-default border-light text-light">Namaste Acupuncture</div>
+                            <div class="badge rounded-pill badge-default border-light text-light">Welcome to Namaste</div>
                             <h1>Fertility & Pain Management Specialists</h1>
                             <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">
                                 Personalized <span class="t-rotate">Healing,Wellness,Balance,Natural Care</span> Through Acupuncture.
@@ -60,7 +60,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="badge rounded-pill badge-default">Welcome to Namaste Acupuncture</div>
+                        <div class="badge rounded-pill badge-default">A Little About Us</div>
                         <h2 class="display-4 fw-bold">Natural Healing for Mind, Body & Balance</h2>
                         <p> Namaste Acupuncture offers holistic, personalized acupuncture treatments focused on pain relief,
                             improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
@@ -79,7 +79,7 @@
                             personalized treatments focus on treating the whole person, not just symptoms.
                         </p>
                         <a href="tel:+19542004587" class="button button-rounded button-large text-transform-none ls-0">Get Started</a>
-                        <a href="demo-seo-contact.html" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
+                        <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0">
                         <img src="/build/img/services/home-1.webp" alt="Image">
