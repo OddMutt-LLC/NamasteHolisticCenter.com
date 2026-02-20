@@ -14,16 +14,7 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                 <!-- Top Links
                 ============================================= -->
                 <div class="top-links">
-                    <ul class="top-links-container">
-                        <li class="top-links-item"><a href="/">Home</a></li>
-                        <li class="top-links-item"><a href="/faqs">FAQs</a></li>
-                        <li class="top-links-item"><a href="/contact">Contact</a></li>
-                        <li class="top-links-item"><a href="#"><img src="/build/img/flags/eng.png" alt="Lang">Eng</a>
-                            <ul class="top-links-sub-menu">
-                                <li class="top-links-item"><a href="#"><img src="/build/img/flags/fre.png" alt="Lang">French</a></li>
-                            </ul>
-                        </li>
-                    </ul>
+                    
                 </div><!-- .top-links end -->
 
             </div>

@@ -71,8 +71,8 @@
                     Schedule Appointment
                     </a>
                 </div>
-                <div class="col-lg-6 mt-4 mt-lg-0">
-                    <img src="/build/img/services/fertility.webp" alt="Image">
+                <div class="col-lg-6 mt-4 mt-lg-0 d-flex aling-items-center">
+                    <img src="/build/img/services/pain.webp" alt="Image">
                 </div>
             </div>
             
@@ -258,7 +258,7 @@
 
                     <div class="row justify-content-between align-items-center">
                         <div class="col-lg-6">
-                            <img src="/build/img/services/fertility-2.webp" alt="Image" class="shadow-lg">
+                            <img src="/build/img/services/pain-2.webp" alt="Image" class="shadow-lg">
                         </div>
                         <div class="col-lg-6">
                             <h2>Our Holistic Approach to Pain Management</h2>

@@ -56,7 +56,7 @@
                     </a>
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0">
-                    <img src="/build/img/services/fertility.webp" alt="Image">
+                    <img src="/build/img/services/spotlight-8.webp" alt="Image">
                 </div>
             </div>
         </div>
@@ -75,7 +75,7 @@
                         <p>We are committed to delivering personalized treatment plans that address the root cause of imbalance, not just the symptoms.</p>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0 order-2 order-lg-1 align-items-center">
-                        <img src="/build/img/services/fertility.webp" alt="Image">
+                        <img src="/build/img/services/spotlight-10.webp" alt="Image">
                     </div>
                 </div>
             </div>
