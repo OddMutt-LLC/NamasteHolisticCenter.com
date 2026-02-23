@@ -103,3 +103,133 @@
 		transform: rotate(-15deg);
 	}
 }
+
+
+
+.section-schedule .nav-link {
+	position: relative;
+	padding: 15px 20px;
+	font-size: 20px;
+	background-color: #FFF;
+	margin-bottom: 10px;
+	box-shadow: 3px 8px 30px 4px rgba(0, 0, 0, 0.1);
+	font-family: var(--cnvs-primary-font);
+	border-left: 5px solid transparent;
+	overflow: hidden;
+	color: #444;
+	transition: all .3s ease;
+}
+
+.section-schedule .nav-pills .nav-link.active {
+	box-shadow: 3px 8px 30px 4px rgba(0, 0, 0, 0.2);
+	border-left-color: var(--cnvs-themecolor);
+	background-color: #FFF;
+	color: var(--cnvs-themecolor);
+}
+
+.section-schedule .nav-link::after {
+	content: "";
+	position: absolute;
+	opacity: 0;
+	bottom: 0;
+	right: 5px;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: 100% 90%;
+	background-size: 50px 50px;
+	transition: all .3s linear;
+	background-image: url("images/yoga-icons/color/svg/asana_lotus_col.svg");
+}
+
+.section-schedule .nav-link.active::after,
+.section-schedule .nav-link:hover::after {
+	opacity: .6;
+	background-position: 100% 70%;
+}
+
+.schedule-wrap {
+	position: relative;
+	padding: 30px;
+	border-radius: 4px;
+	background-color: #FFF;
+	box-shadow: 3px 8px 30px 4px rgba(0, 0, 0, 0.2);
+}
+
+.schedule-wrap::after {
+	content: "";
+	position: absolute;
+	opacity: .07;
+	bottom: 20px;
+	right: 20px;
+	width: 200px;
+	height: 200px;
+	background: #FFF no-repeat 100% 100% / 100%;
+	z-index: 0;
+}
+
+.schedule-wrap dt { margin-bottom: 10px; }
+
+.schedule-wrap dt:not(:nth-last-of-type(1)) + dd {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+}
+
+.schedule-wrap dt:nth-last-of-type(1),
+.schedule-wrap dt:nth-last-of-type(1) + dd { margin-bottom: 0px; }
+
+.schedule-time,
+.schedule-desc {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.6;
+}
+
+.schedule-desc small {
+	display: block;
+	font-size: 13px;
+	opacity: .5;
+	margin-top: 4px;
+}
+
+.schedule-teacher {
+	width: 46px;
+	height: 46px;
+	border-radius: 50%;
+	z-index: 2;
+	position: relative;
+}
+
+#carousel-tabs.tabs,
+#carousel-tabs .tab-content {
+	--cnvs-tab-padding-width: 0;
+	--bs-nav-link-padding-y: .75rem;
+	--bs-nav-link-font-size: .9125rem;
+	--bs-nav-link-font-weight:	400;
+	--bs-nav-tabs-border-width: 0;
+	--bs-nav-link-color: var(--cnvs-contrast-1000);
+	--bs-nav-link-hover-color: var(--cnvs-contrast-900);
+	--bs-nav-tabs-link-active-bg: rgba(var(--bs-primary-rgb), 0.1);
+	--bs-nav-tabs-link-active-color: var(--bs-primary);
+	--cnvs-tabs-bg-color:rgba(var(--cnvs-contrast-rgb), 0.04);
+}
+
+.dark #carousel-tabs.tabs,
+.dark #carousel-tabs .tab-content {
+	--bs-nav-tabs-link-active-bg: rgba(var(--bs-primary-rgb),1);
+	--bs-nav-tabs-link-active-color: var(--bs-light);
+}
+
+#carousel-tabs .nav-link:not(.active) {
+	background-color: rgba(var(--cnvs-contrast-rgb), 0.04);
+}
+
+#carousel-tabs .nav-link {
+	border-radius: var(--bs-border-radius);
+	font-weight: 500;
+}
+
+#carousel-tabs .nav-link.active {
+	font-weight: 600;
+}

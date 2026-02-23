@@ -13,8 +13,8 @@
                                 Personalized <span class="t-rotate">Healing,Wellness,Balance,Natural Care</span> Through Acupuncture.
                             </h3>
                             <p>
-                                We specialize in evidence-informed acupuncture treatments designed to relieve pain, 
-                                support fertility, and restore whole-body balance. Our personalized approach integrates 
+                                We specialize in evidence-informed acupuncture treatments designed to relieve pain,
+                                support fertility, and restore whole-body balance. Our personalized approach integrates
                                 traditional Chinese medicine with modern clinical care to help you feel your best—naturally.
                             </p>
                             <a href="/about" class="button button-rounded button-large text-transform-none ls-0">
@@ -24,14 +24,14 @@
                                 Schedule a Consultation
                             </a>
                         </div>
-                        </div>
                     </div>
                 </div>
             </div>
-            <div class="video-wrap">
-                <div class="video-overlay" style="background: rgba(0,0,0,0.45);"></div>
-            </div>
         </div>
+        <div class="video-wrap">
+            <div class="video-overlay" style="background: rgba(0,0,0,0.45);"></div>
+        </div>
+    </div>
     </div>
 </section><!-- #slider end -->
 
@@ -69,7 +69,7 @@
                             your quality of life, physically, emotionally, and socially. Our licensed practitioner offers
                             personalized and compassionate care designed to help you manage pain, reduce stress, improve
                             sleep, and support reproductive health.
-                       </p>
+                        </p>
                         <p>
                             Each session is tailored to your individual needs, helping restore balance to mind and body for a
                             long-term health and wellbeing.
@@ -93,9 +93,9 @@
                     <p></p>
                 </div>
                 <div class="row justify-content-between align-items-center">
-                
+
                     <div class="col-lg-4 col-sm-6">
-                
+
                         <div class="feature-box flex-md-row-reverse text-md-end border-0">
                             <div class="fbox-icon">
                                 <a>
@@ -107,7 +107,7 @@
                                 <p>Safe when performed by trained professionals.</p>
                             </div>
                         </div>
-                
+
                         <div class="feature-box flex-md-row-reverse text-md-end border-0 mt-5">
                             <div class="fbox-icon">
                                 <i class="bi-flower1"></i>
@@ -117,7 +117,7 @@
                                 <p>Addresses the whole person, not just symptoms.</p>
                             </div>
                         </div>
-                
+
                         <div class="feature-box flex-md-row-reverse text-md-end border-0 mt-5">
                             <div class="fbox-icon">
                                 <i class="bi-capsule-pill"></i>
@@ -127,15 +127,15 @@
                                 <p>Beneficial for chronic conditions.</p>
                             </div>
                         </div>
-                
+
                     </div>
-                
+
                     <div class="col-lg-3 col-7 offset-3 offset-sm-0 d-sm-none d-lg-block text-center my-5">
                         <img src="/build/img/sections/2.webp" alt="iphone" class="rounded parallax" data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(30px)">
                     </div>
-                
+
                     <div class="col-lg-4 col-sm-6">
-                
+
                         <div class="feature-box border-0">
                             <div class="fbox-icon">
                                 <i class="bi-moon-stars-fill"></i>
@@ -145,7 +145,7 @@
                                 <p>Foundational for healing.</p>
                             </div>
                         </div>
-                
+
                         <div class="feature-box border-0 mt-5">
                             <div class="fbox-icon">
                                 <i class="bi-infinity"></i>
@@ -155,9 +155,9 @@
                                 <p>Effective for acute, chronic, and reproductive-related concerns.</p>
                             </div>
                         </div>
-                
+
                     </div>
-                
+
                 </div>
             </div>
         </div>
@@ -173,7 +173,7 @@
                             <h3 class="text-transform-none ls-0">Comprehensive Acupuncture Care <br>For Pain & Fertility Support</h3>
                         </div>
                         <p>
-                            Acupuncture has been used for thousands of years to support physical, emotional, and internal health concerns. 
+                            Acupuncture has been used for thousands of years to support physical, emotional, and internal health concerns.
                             Many patients choose acupuncture as a natural and effective non-pharmacologic approach to healing and balance.
                         </p>
                     </div>
@@ -232,7 +232,7 @@
                                                     <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Support alongside IVF, IUI, FET</li>
                                                 </ul>
                                                 <p class="text-smaller mt-3">
-                                                    Our approach integrates acupuncture with lifestyle and nutritional guidance 
+                                                    Our approach integrates acupuncture with lifestyle and nutritional guidance
                                                     to create a nurturing environment for conception.
                                                 </p>
                                             </div>
@@ -261,20 +261,20 @@
                             <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
                         </div>
                         <p>
-                        Our goal is to partner with you — to listen, understand, and tailor treatments based on your
-                        unique history, symptoms, and goals. We combine clinical experience with evidence-informed
-                        practice to support your body’s innate ability to heal.
+                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
+                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
+                            practice to support your body’s innate ability to heal.
                         </p>
                         <p>
-                        Whether you’re managing chronic pain or preparing for conception Namaste Acupuncture is
-                        here for you every step of the way
+                            Whether you’re managing chronic pain or preparing for conception Namaste Acupuncture is
+                            here for you every step of the way
                         </p>
                     </div>
 
                     <div class="col-lg-3 col-md-4">
                         <div class="card shadow-sm">
                             <div class="card-body">
-                                <h4 class="mb-3">Schedule Your Appointment</h4>
+                                <h3 class="text-transform-none ls-0">Schedule Your Appointment</h4>
                                 <div class="form-widget">
                                     <div class="form-result"></div>
                                     <form class="row mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
@@ -321,259 +321,287 @@
 
         <!-- Works/Projects
         ============================================= -->
-        <div id="section-services" class="section m-0" style="background: url('/build/img/sections/5.webp') no-repeat center center; background-size: cover;padding: 80px 0;">
+        <div id="section-services" class="section m-0" style="background-size: cover;padding: 80px 0;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Acupucture Treatments</div>
                     <h3 class="text-transform-none ls-0">What Conditions Can Acupuncture Treat?</h3>
                 </div>
-
-                <div id="portfolio" class="portfolio row gutter-20">
-
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-media pf-icons">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/8.webp" alt="Pain Management">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
+                <div class="container">
+                    <div class="row justify-content-center mb-5">
+                        <div class="col-12">
+                            <div id="carousel-tabs" class="owl-carousel owl-nav-hover-fixed carousel-widget nav tabs nav-tabs mb-3 carousel-blur-right nav-fill" data-pagi="false" data-nav="true" role="tablist">
+                                <div class="nav-item">
+                                    <button aria-label="button" class="nav-link active" id="pills-pain-management-tab" data-bs-toggle="pill"
+                                        data-bs-target="#pills-pain-management" type="button" role="tab" aria-controls="pills-pain-management"
+                                        aria-selected="false">
+                                        Pain Management
+                                    </button>
+                                </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-womens-health-tab" data-bs-toggle="pill" data-bs-target="#pills-womens-health" type="button" role="tab" aria-controls="pills-womens-health" aria-selected="false">
+                                        Women’s Health & Hormonal Balance
+                                    </button>
+                                </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-stress-tab" data-bs-toggle="pill" data-bs-target="#pills-stress" type="button" role="tab" aria-controls="pills-stress" aria-selected="false">
+                                        Stress, Anxiety & Emotional Well-Being
+                                    </button>
+                                </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-headaches-tab" data-bs-toggle="pill" data-bs-target="#pills-headaches" type="button" role="tab" aria-controls="pills-headaches" aria-selected="false">
+                                        Headaches & Neurological Support
+                                    </button>
+                                </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-immune-tab" data-bs-toggle="pill" data-bs-target="#pills-immune" type="button" role="tab" aria-controls="pills-immune" aria-selected="false">
+                                        Immune & Respiratory Support
+                                    </button>
+                                </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-sleep-tab" data-bs-toggle="pill" data-bs-target="#pills-sleep" type="button" role="tab" aria-controls="pills-sleep" aria-selected="false">
+                                        Sleep & Energy
+                                    </button>
+                                </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-digestive-tab" data-bs-toggle="pill" data-bs-target="#pills-digestive" type="button" role="tab" aria-controls="pills-digestive" aria-selected="false">
+                                        Digestive & Gut Health
+                                    </button>
+                                </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-wellness-tab" data-bs-toggle="pill" data-bs-target="#pills-wellness" type="button" role="tab" aria-controls="pills-wellness" aria-selected="false">
+                                        Whole-Body Wellness
+                                    </button>
                                 </div>
                             </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="#">Pain Management</a></h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                    <span>Acupuncture is commonly used to help reduce pain and inflammation by stimulating the nervous system and improving circulation. Acupuncture is widely used to manage both acute and chronic pain conditions, including:</span>
-                                    <ul class="iconlist ms-3 mt-3 mb-0">
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Low back pain</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Neck and shoulder pain</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Sciatica and nerve pain</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Knee, hip, and joint pain</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Arthritis and inflammatory pain</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Migraines and tension headaches</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (Jaw pain)</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Myofascial pain and trigger points</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Sports Injuries</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Fibromialgia</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Post-surgical pain and recovery</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Trigeminal Neuralgia</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Dental pain</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
-                                        <li><i class="fa-solid fa-check text-smaller color"></i> Abdominal pain</li>
+                        </div>
+                    </div>
+                    <div class="tab-content px-lg-6" id="pills-tabContent">
+                        <div class="tab-pane fade show active" id="pills-pain-management" role="tabpanel" aria-labelledby="pills-pain-management-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <img class="position-absolute top-0 start-0 translate-middle d-none d-md-block" width="36" />
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                            <h3 class="text-transform-none ls-0">Pain Management</h3>
+                                    </div>
+                                        <p>
+                                        Acupuncture is commonly used to help reduce pain and inflammation by stimulating the nervous system and improving circulation. Acupuncture is widely used to manage both acute and chronic pain conditions, including:
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <ul class="list-unstyled">
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Low back pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Neck and shoulder pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sciatica and nerve pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Knee, hip, and joint pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Arthritis and inflammatory pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Migraines and tension headaches</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (Jaw pain)</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Myofascial pain and trigger points</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <ul class="list-unstyled">
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sports Injuries</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fibromialgia</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Post-surgical pain and recovery</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Trigeminal Neuralgia</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Dental pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Abdominal pain</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/8.webp" alt=".." class="object-cover" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-womens-health" role="tabpanel" aria-labelledby="pills-womens-health-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Women’s Health & Hormonal Balance</h3>
+                                    </div>
+                                    <p>
+                                        Many women use acupuncture to support hormonal health throughout different life stages.
+                                    </p>
+
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <ul class="list-unstyled">
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Menstrual cramps (PMS)</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Endometriosis-associated pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic floor tension</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Irregular cycles</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <ul class="list-unstyled">
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fertility support</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pregnancy discomfort</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Postpartum recovery</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Menopause symptoms</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/1.webp" alt="Women’s Health & Hormonal Balance" class="object-cover" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-stress" role="tabpanel" aria-labelledby="pills-stress-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Stress, Anxiety & Emotional Well-Being</h3>
+                                    </div>
+                                    <p>
+                                        By calming the nervous system, acupuncture may help regulate mood and promote relaxation.
+                                    </p>
+
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Chronic stress and burnout</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Anxiety</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Depression</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Emotional imbalance</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> PTSD support</li>
                                     </ul>
-                                    <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
                                 </div>
-                            </div>
-                        </div>
-                    </article>
-                
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-media pf-icons">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/1.webp" alt="Women's Health & Hormonal Balance">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3><a href="#">Women’s Health & Hormonal Balance</a></h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                <span>Many women use acupuncture to support hormonal health throughout different life stages.</span>
-                                <ul class="iconlist ms-3 mt-3 mb-0">
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Menstrual cramps (PMS)</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Endometriosis-associated pain</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic floor tension</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Irregular cycles</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Fertility support</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Pregnancy discomfort</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Postpartum recovery</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Menopause symptoms (hot flashes, night sweats, mood swings)</li>
-                                </ul>
-                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-illustrations">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/2.webp" alt="Stress, Anxiety & Emotional Well-Being">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3>Stress, Anxiety & Emotional Well-Being</h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                <span>By calming the nervous system, acupuncture may help regulate mood and promote relaxation.</span>
-                                <ul class="iconlist ms-3 mt-3 mb-0">
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Chronic stress and burnout</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Anxiety</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Depression</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Emotional imbalance</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> PTSD support</li>
-                                </ul>
-                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-uielements">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/3.webp" alt="Headaches & Neurological Support">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3>Headaches & Neurological Support</h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                <span>Acupuncture may help reduce the frequency and intensity of headaches and nerve-related conditions.</span>
-                                <ul class="iconlist ms-3 mt-3 mb-0">
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Migraines</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Tension headaches</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Nerve pain</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Trigeminal neuralgia</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Bell’s palsy</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Peripheral neuropathy</li>
-                                </ul>
-                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-icons pf-illustrations">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/4.webp" alt="Immune & Respiratory Support">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3>Immune & Respiratory Support</h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                <span>Acupuncture can help strengthen the immune system and support respiratory health.</span>
-                                <ul class="iconlist ms-3 mt-3 mb-0">
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Seasonal allergies</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Sinus congestion</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Asthma support</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Frequent colds and flu</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Long-term immune weakness</li>
-                                </ul>
-                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-uielements pf-media">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/5.webp" alt="Sleep & Energy">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3>Sleep & Energy</h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                <span>By restoring balance in the body, acupuncture may improve rest and vitality.</span>
-                                <ul class="iconlist ms-3 mt-3 mb-0">
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Fatigue</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Low energy</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Jet lag</li>
-                                </ul>
-                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
 
-                    <article class="portfolio-item col-12 col-sm-6 col-md-2 pf-graphics pf-illustrations">
-                    </article>
-                
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-illustrations">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/6.webp" alt="Digestive & Gut Health">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
-                                </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3>Digestive & Gut Health</h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                <span>Acupuncture may help regulate digestion and support gut function.</span>
-                                <ul class="iconlist ms-3 mt-3 mb-0">
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> IBS (Irritable Bowel Syndrome)</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Bloating and gas</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Acid reflux</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Constipation</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Diarrhea</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Nausea</li>
-                                </ul>
-                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/2.webp" alt="Stress & Anxiety Support" class="object-cover" />
                                 </div>
                             </div>
                         </div>
-                    </article>
-                
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 pf-graphics pf-illustrations">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <img src="/build/img/works/7.webp" alt="Whole-Body Wellness">
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn" data-hover-speed="500">
-                                        <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeIn" data-hover-speed="500"><i class="uil uil-ellipsis-h"></i></a>
+                        <div class="tab-pane fade" id="pills-headaches" role="tabpanel" aria-labelledby="pills-headaches-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Headaches & Neurological Support</h3>
                                     </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn" data-hover-speed="500"></div>
+                                    <p>
+                                        Acupuncture may help reduce the frequency and intensity of headaches and nerve-related conditions.
+                                    </p>
+
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Migraines</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Tension headaches</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Nerve pain</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Trigeminal neuralgia</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Bell’s palsy</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Peripheral neuropathy</li>
+                                    </ul>
                                 </div>
-                            </div>
-                            <div class="portfolio-desc">
-                                <h3>Whole-Body Wellness</h3>
-                                <div data-readmore="true" data-readmore-maskcolor="#F8F9FA" data-readmore-masksize="50%" data-readmore-size="10rem" data-readmore-trigger-open="Read More <i class='bi-chevron-down'></i>" data-readmore-trigger-close="Read Less <i class='bi-chevron-up'></i>">
-                                <span>Even without a specific condition, acupuncture can help maintain balance and prevent future illness.</span>
-                                <ul class="iconlist ms-3 mt-3 mb-0">
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Overall wellness care</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Stress prevention</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Mind-body balance</li>
-                                    <li><i class="fa-solid fa-check text-smaller color"></i> Improved circulation</li>
-                                </ul>
-                                <a href="#" class="button button-small button-rounded text-transform-none read-more-trigger"></a>
+
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/3.webp" alt="Headaches & Neurological Support" class="object-cover" />
                                 </div>
                             </div>
                         </div>
-                    </article>
-                
+                        <div class="tab-pane fade" id="pills-immune" role="tabpanel" aria-labelledby="pills-immune-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Immune & Respiratory Support</h3>
+                                    </div>
+                                    <p>
+                                        Acupuncture can help strengthen the immune system and support respiratory health.
+                                    </p>
+
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Seasonal allergies</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sinus congestion</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Asthma support</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Frequent colds and flu</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Long-term immune weakness</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/4.webp" alt="Immune & Respiratory Support" class="object-cover" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-sleep" role="tabpanel" aria-labelledby="pills-sleep-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Sleep & Energy</h3>
+                                    </div>
+                                    <p>
+                                        By restoring balance in the body, acupuncture may improve rest and vitality.
+                                    </p>
+
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fatigue</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Low energy</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Jet lag</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/5.webp" alt="Sleep & Energy" class="object-cover" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-digestive" role="tabpanel" aria-labelledby="pills-digestive-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Digestive & Gut Health</h3>
+                                    </div>
+                                    <p>
+                                        Acupuncture may help regulate digestion and support gut function.
+                                    </p>
+
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> IBS (Irritable Bowel Syndrome)</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Bloating and gas</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Acid reflux</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Constipation</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Diarrhea</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Nausea</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/6.webp" alt="Digestive & Gut Health" class="object-cover" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-wellness" role="tabpanel" aria-labelledby="pills-wellness-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Whole-Body Wellness</h3>
+                                    </div>
+                                    <p>
+                                        Even without a specific condition, acupuncture can help maintain balance and prevent future illness.
+                                    </p>
+
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Overall wellness care</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Stress prevention</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Mind-body balance</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Improved circulation</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/7.webp" alt="Whole-Body Wellness" class="object-cover" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
             </div>
         </div>
 
@@ -663,7 +691,7 @@
             </div>
         </div>
 
-        
+
 
         <!-- Promo/Contact
         ============================================= -->
