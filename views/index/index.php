@@ -2,6 +2,12 @@
 ============================================= -->
 <section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
     <div class="slider-inner" style="background: var(--cnvs-contrast-0) url('/build/img/hero/hero-1.webp') center center no-repeat; background-size: cover;">
+        <div class="video-wrap no-placeholder">
+            <video preload="auto" loop autoplay muted playsinline>
+                <source src='/build/img/videos/home.webm' type='video/webm'>
+            </video>
+            <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(170, 104, 170,0.5), #39384dbe);"></div>
+        </div>    
         <div class="vertical-middle slider-element-fade">
             <div class="container dark py-5">
                 <div class="row pt-5">
