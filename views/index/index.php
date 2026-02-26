@@ -6,7 +6,7 @@
             <video preload="auto" loop autoplay muted playsinline>
                 <source src='/build/img/videos/home.webm' type='video/webm'>
             </video>
-            <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(170, 104, 170,0.5), #39384dbe);"></div>
+            <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(95, 85, 95, 0.5), #39384dbe);"></div>
         </div>    
         <div class="vertical-middle slider-element-fade">
             <div class="container dark py-5">
@@ -42,19 +42,6 @@
 <section id="content">
 
     <div class="content-wrap pt-0">
-
-        <!-- Client Carousel
-        ============================================= -->
-        <div class="section bg-transparent m-0 border-bottom py-5">
-            <div class="container">
-                <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="100" data-loop="true" data-autoplay="5000" data-nav="false" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="6">
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide0.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide1.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide2.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
-                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide4.webp" alt="Brands" style="filter: grayscale(1) brightness(2.8) contrast(0);"></a></div>
-                </div>
-            </div>
-        </div>
 
         <!-- Features
         ============================================= -->
@@ -618,6 +605,128 @@
                         </div>
                     </div>
 
+                </div>
+            </div>
+        </div>
+
+        <div class="section m-0 parallax" style="padding: 100px 0; background-color: #844792">
+            <div class="container dark">
+                <div class="heading-block border-bottom-0 text-center">
+                    <div class="badge rounded-pill border-light text-light badge-default">Our Schedule</div>
+                    <h3 class="text-transform-none ls-0">Hours and Info</h3>
+                </div>
+                <div class="row justify-content-between">
+                    <div class="col-xl-4 col-lg-5 col-md-6 dotted-bg">
+                        <div class="fancy-title title-border">
+                            <h3 class="text-transform-none">Opening Hours</h3>
+                        </div>
+                        <ul class="iconlist nobottommargin">
+							<li><i class="bi-clock-fill text-light"></i> <strong>Mondays-Fridays:</strong> 8:00 AM - 7:00 PM</li>
+							<li><i class="bi-clock-fill text-light"></i> <strong>Saturdays:</strong> By Appointment Only</li>
+							<li><i class="bi-clock-fill text-light"></i> <strong>Sundays:</strong> Closed</li>
+						</ul>
+                        <div class="fancy-title title-border">
+                            <h3 class="text-transform-none">Information & Appointments</h3>
+                        </div>
+                        <ul class="iconlist nobottommargin">
+							<li><i class="bi-telephone-fill text-light"></i> <strong>Call us:</strong>(954) 200 - 4587</li>
+						</ul>
+                        <div class="fw-normal lead">Reception staff will be glad to advise you.</div>
+
+                    </div>
+                    <div class="col-lg-7 col-md-6">
+                        <div class="toggle-wrap">
+                            <div class="toggle">
+                                <div class="toggle-header">
+                                    <div class="toggle-icon">
+                                        <i class="toggle-closed fa-solid fa-angle-right"></i>
+                                        <i class="toggle-open fa-solid fa-angle-down"></i>
+                                    </div>
+                                    <div class="toggle-title">
+                                        Appointments
+                                    </div>
+                                </div>
+                                <div class="toggle-content">We recommend that you get to the meeting point ten minutes before your appointment. We try to start all treatments on time. If you are late for your appointment, we will unfortunately have to shorten your treatment accordingly.</div>
+                            </div>
+
+                            <div class="toggle" data-collapsible="true">
+                                <div class="toggle-header">
+                                    <div class="toggle-icon">
+                                        <i class="toggle-closed fa-solid fa-angle-right"></i>
+                                        <i class="toggle-open fa-solid fa-angle-down"></i>
+                                    </div>
+                                    <div class="toggle-title">
+                                        Insurances
+                                    </div>
+                                </div>
+                                <div class="toggle-content">We accept insurance as method of payment such as: Memorial Health Care, United Health Care, Cigna, Blue Cross Blue Shield, and Aetna. Please, call us to find out your elegibility, no fee, no obligations!.</div>
+                            </div>
+
+                            <div class="toggle">
+                                <div class="toggle-header">
+                                    <div class="toggle-icon">
+                                        <i class="toggle-closed fa-solid fa-angle-right"></i>
+                                        <i class="toggle-open fa-solid fa-angle-down"></i>
+                                    </div>
+                                    <div class="toggle-title">
+                                        Acknoledgment of Privacy Practices
+                                    </div>
+                                </div>
+                                <div class="toggle-content">Our practice is in compliance with the Health Insurance Portability and Accountability Act (HIPAA law) in order to protect the privacy of your personal health information. Please Click here to see PDF form of the document.</div>
+                            </div>
+
+                            <div class="toggle">
+                                <div class="toggle-header">
+                                    <div class="toggle-icon">
+                                        <i class="toggle-closed fa-solid fa-angle-right"></i>
+                                        <i class="toggle-open fa-solid fa-angle-down"></i>
+                                    </div>
+                                    <div class="toggle-title">
+                                        Cancellations/Changes
+                                    </div>
+                                </div>
+                                <div class="toggle-content">If you have to cancel or change an appointment for personal reasons, please let us know in good time (24 hours in advance).</div>
+                            </div>
+
+                            <div class="toggle">
+                                <div class="toggle-header">
+                                    <div class="toggle-icon">
+                                        <i class="toggle-closed fa-solid fa-angle-right"></i>
+                                        <i class="toggle-open fa-solid fa-angle-down"></i>
+                                    </div>
+                                    <div class="toggle-title">
+                                        Pregnancy
+                                    </div>
+                                </div>
+                                <div class="toggle-content">Certain rules apply during this special time. We will advise you personally on appropriate treatments that you can also enjoy during your pregnancy and after giving birth..</div>
+                            </div>
+
+                            <div class="toggle">
+                                <div class="toggle-header">
+                                    <div class="toggle-icon">
+                                        <i class="toggle-closed fa-solid fa-angle-right"></i>
+                                        <i class="toggle-open fa-solid fa-angle-down"></i>
+                                    </div>
+                                    <div class="toggle-title">
+                                        General Information
+                                    </div>
+                                </div>
+                                <div class="toggle-content">Please note that smoking is not permitted in the treatment area. Our facilities are places of peace and relaxation. Out of consideration for other guests, smartphones and cameras may notbe used in the entire treatment areas.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Client Carousel
+        ============================================= -->
+        <div class="section bg-transparent m-0 border-bottom py-5">
+            <div class="container">
+                <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="100" data-loop="true" data-autoplay="5000" data-nav="false" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="6">
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide0.webp" alt="Brands" ></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide1.webp" alt="Brands" ></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide2.webp" alt="Brands" ></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide4.webp" alt="Brands" ></a></div>
                 </div>
             </div>
         </div>
