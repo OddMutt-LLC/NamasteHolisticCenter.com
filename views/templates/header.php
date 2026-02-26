@@ -73,7 +73,7 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                         <li class="menu-item <?php echo $current_page == 'about' ? 'current' : ''; ?>"><a class="menu-link" href="/about"><div>About Us</div></a></li>
                         <li class="menu-item">
                             <a class="menu-link" <?php echo $current_page == '' ? "data-scrollto='#section-services'" : "href='/#section-services'"; ?> >
-                                <div>Services</div>
+                                <div>Treatments</div>
                             </a>
                         </li>
                         <li class="menu-item mega-menu <?php echo strpos($current_path, 'specialties') === 0 ? 'current' : ''; ?>"><a class="menu-link" href="#"><div>Specialties</div></a>

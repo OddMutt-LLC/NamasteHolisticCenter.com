@@ -1,7 +1,7 @@
 <!-- Slider
 ============================================= -->
 <section id="slider" class="slider-element slider-parallax min-vh-60 min-vh-md-100 include-header">
-    <div class="slider-inner" style="background: var(--cnvs-contrast-0) url('/build/img/hero/hero-1.webp') center center no-repeat; background-size: cover;">
+    <div class="slider-inner">
         <div class="video-wrap no-placeholder">
             <video preload="auto" loop autoplay muted playsinline>
                 <source src='/build/img/videos/home.webm' type='video/webm'>
@@ -34,10 +34,6 @@
                 </div>
             </div>
         </div>
-        <div class="video-wrap">
-            <div class="video-overlay" style="background: rgba(0,0,0,0.45);"></div>
-        </div>
-    </div>
     </div>
 </section><!-- #slider end -->
 
@@ -251,77 +247,6 @@
                     </div>
 
                 </div>
-            </div>
-        </div>
-
-
-        <!-- Form Section
-        ============================================= -->
-        <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">
-            <div class="container">
-                <div class="row justify-content-between align-items-center">
-
-                    <div class="col-md-4">
-                        <div class="heading-block border-bottom-0 mb-4">
-                            <div class="badge rounded-pill badge-default">Book a Session Today</div>
-                            <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
-                        </div>
-                        <p>
-                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
-                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
-                            practice to support your body’s innate ability to heal.
-                        </p>
-                        <p>
-                            Whether you’re managing chronic pain or preparing for conception Namaste Acupuncture is
-                            here for you every step of the way
-                        </p>
-                    </div>
-
-                    <div class="col-lg-3 col-md-4">
-                        <div class="card shadow-sm">
-                            <div class="card-body">
-                                <h3 class="text-transform-none ls-0">Schedule Your Appointment</h4>
-                                <div class="form-widget">
-                                    <div class="form-result"></div>
-                                    <form class="row mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
-                                        <div class="form-process">
-                                            <div class="css3-spinner" style="--cnvs-loader-color:var(--cnvs-themecolor);">
-                                                <div class="css3-spinner-scaler"></div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-12 form-group mb-3">
-                                            <label for="template-contactform-name">Name:*</label>
-                                            <input type="text" id="template-contactform-name" name="template-contactform-name" class="form-control input-sm required" value="">
-                                        </div>
-                                        <div class="col-12 form-group mb-3">
-                                            <label for="template-contactform-email">Email Address:*</label>
-                                            <input type="email" id="template-contactform-email" name="template-contactform-email" class="form-control input-sm required" value="">
-                                        </div>
-                                        <div class="col-12 form-group mb-4">
-                                            <label for="template-contactform-phone">Phone:*</label>
-                                            <input type="text" id="template-contactform-phone" name="template-contactform-phone" class="form-control input-sm required" value="">
-                                        </div>
-                                        <div class="col-12 form-group d-none">
-                                            <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="form-control">
-                                        </div>
-                                        <div class="col-12 form-group mb-0">
-                                            <button class="button button-rounded w-100 text-transform-none ls-0 m-0" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send</button>
-                                        </div>
-
-                                        <input type="hidden" name="prefix" value="template-contactform-">
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-4 mt-5 mt-md-0 text-center">
-                        <!-- <a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon shadow"><i class="bi-play"></i></a> -->
-                    </div>
-
-                </div>
-
             </div>
         </div>
 
@@ -613,7 +538,7 @@
 
         <!-- Testimonials
         ============================================= -->
-        <div class="section mt-0" style="background: url('/build/img/sections/3.webp') no-repeat top center; background-size: cover; padding: 80px 0 70px;">
+        <div class="section m-0" style="background: url('/build/img/sections/3.webp') no-repeat top center; background-size: cover; padding: 80px 0 70px;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Testimonials</div>
@@ -694,6 +619,76 @@
                     </div>
 
                 </div>
+            </div>
+        </div>
+
+        <!-- Form Section
+        ============================================= -->
+        <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+
+                    <div class="col-md-6">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <div class="badge rounded-pill badge-default">Book a Session Today</div>
+                            <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
+                        </div>
+                        <p>
+                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
+                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
+                            practice to support your body’s innate ability to heal.
+                        </p>
+                        <p>
+                            Whether you’re managing chronic pain or preparing for conception Namaste Acupuncture is
+                            here for you every step of the way
+                        </p>
+                    </div>
+
+                    <!-- <div class="col-lg-3 col-md-4">
+                        <div class="card shadow-sm">
+                            <div class="card-body">
+                                <h3 class="text-transform-none ls-0">Schedule Your Appointment</h4>
+                                <div class="form-widget">
+                                    <div class="form-result"></div>
+                                    <form class="row mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
+                                        <div class="form-process">
+                                            <div class="css3-spinner" style="--cnvs-loader-color:var(--cnvs-themecolor);">
+                                                <div class="css3-spinner-scaler"></div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-12 form-group mb-3">
+                                            <label for="template-contactform-name">Name:*</label>
+                                            <input type="text" id="template-contactform-name" name="template-contactform-name" class="form-control input-sm required" value="">
+                                        </div>
+                                        <div class="col-12 form-group mb-3">
+                                            <label for="template-contactform-email">Email Address:*</label>
+                                            <input type="email" id="template-contactform-email" name="template-contactform-email" class="form-control input-sm required" value="">
+                                        </div>
+                                        <div class="col-12 form-group mb-4">
+                                            <label for="template-contactform-phone">Phone:*</label>
+                                            <input type="text" id="template-contactform-phone" name="template-contactform-phone" class="form-control input-sm required" value="">
+                                        </div>
+                                        <div class="col-12 form-group d-none">
+                                            <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="form-control">
+                                        </div>
+                                        <div class="col-12 form-group mb-0">
+                                            <button class="button button-rounded w-100 text-transform-none ls-0 m-0" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send</button>
+                                        </div>
+
+                                        <input type="hidden" name="prefix" value="template-contactform-">
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+
+                    <div class="col-md-4 mt-5 mt-md-0 text-center">
+                        <!-- <a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon shadow"><i class="bi-play"></i></a> -->
+                    </div>
+
+                </div>
+
             </div>
         </div>
 
