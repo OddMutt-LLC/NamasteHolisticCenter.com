@@ -5,6 +5,7 @@
         <video preload="auto" loop autoplay muted playsinline>
             <source src='/build/img/videos/fertility.webm' type='video/webm'>
         </video>
+        <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(132, 71, 146, 0.5), #2d2d2d);"></div>
     </div>
 
 

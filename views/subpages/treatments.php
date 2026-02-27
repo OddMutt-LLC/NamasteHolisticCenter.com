@@ -1,11 +1,7 @@
 <!-- Page Title
 ============================================= -->
 <section class="page-title page-title-parallax parallax page-title-video scroll-detect page-title-center dark include-header include-topbar min-vh-50">
-    <div class="video-wrap no-placeholder">
-        <video preload="auto" loop autoplay muted playsinline>
-            <source src='/build/img/videos/fertility.webm' type='video/webm'>
-        </video>
-    </div>
+    <img src="/build/img/sections/1.webp" class="parallax-bg">
 
 
     <div class="container">
