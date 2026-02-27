@@ -83,7 +83,6 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                                                 </div>
                                                 <div class="fbox-content">
                                                     <h3 class="text-transform-none ls-0">Pain Management & Functional Wellness</h3>
-                                                    <p>Acupuncture is widely recognized as a safe, effective non-pharmacologic option to manage chronic pain, headaches, joint issues, sciatica, and more.</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -94,7 +93,6 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                                                 </div>
                                                 <div class="fbox-content">
                                                     <h3 class="text-transform-none ls-0">Fertility Support for Women & Men</h3>
-                                                    <p>We provide targeted acupuncture treatments to support hormonal balance, cycle regulation, stress reduction, and fertility journeys for women and men.</p>
                                                 </div>
                                             </div>
                                         </a>

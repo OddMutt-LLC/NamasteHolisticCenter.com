@@ -1,12 +1,7 @@
 <!-- Page Title
 ============================================= -->
 <section class="page-title page-title-parallax parallax page-title-video scroll-detect page-title-center dark include-header include-topbar min-vh-50">
-    <div class="video-wrap no-placeholder">
-        <video preload="auto" loop autoplay muted playsinline>
-            <source src='/build/img/videos/fertility.webm' type='video/webm'>
-        </video>
-        <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(170, 104, 170,0.5), #39384dbe);"></div>
-    </div>
+    <img src="/build/img/sections/6.webp" class="parallax-bg">
 
 
     <div class="container">
@@ -29,6 +24,7 @@
 
         </div>
     </div>
+    <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(132, 71, 146,0.5), #39384dbe);"></div>
 </section><!-- .page-title end -->
 
 <!-- Content

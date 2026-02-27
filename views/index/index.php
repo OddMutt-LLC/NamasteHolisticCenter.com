@@ -14,7 +14,7 @@
                     <div class="col-lg-6 col-md-8">
                         <div class="slider-title">
                             <div class="badge rounded-pill badge-default border-light text-light">Welcome to Namaste</div>
-                            <h1>Fertility & Pain Management Specialists</h1>
+                            <h1>Pain Management & Fertility Specialists</h1>
                             <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">
                                 Personalized <span class="t-rotate">Healing,Wellness,Balance,Natural Care</span> Through Acupuncture.
                             </h3>
@@ -23,11 +23,11 @@
                                 support fertility, and restore whole-body balance. Our personalized approach integrates
                                 traditional Chinese medicine with modern clinical care to help you feel your best—naturally.
                             </p>
-                            <a href="/about" class="button button-rounded button-large text-transform-none ls-0">
-                                Learn More About Us
+                            <a href="/pain-management" class="button button-rounded button-large text-transform-none ls-0">
+                                Pain Management Services
                             </a>
-                            <a href="tel:+19542004587" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">
-                                Schedule a Consultation
+                            <a href="/fertility" class="button button-rounded button-large button-light text-dark bg-white border-light text-transform-none ls-0">
+                                Fertility Support & Care
                             </a>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                     <div class="col-lg-6">
                         <div class="badge rounded-pill badge-default">A Little About Us</div>
                         <h2 class="display-4 fw-bold">Natural Healing for Mind, Body & Balance</h2>
-                        <p> Namaste Acupuncture offers holistic, personalized acupuncture treatments focused on pain relief,
+                        <p> Namaste Pembroke Pines Acupuncture offers holistic, personalized acupuncture treatments focused on pain relief,
                             improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
                             Traditional Chinese Medicine, our approach supports the body’s natural healing process in a
                             calm, welcoming environment. We understand how deeply pain and fertility challenges affect
@@ -67,7 +67,7 @@
                             Whether you’re seeking relief from chronic discomfort, stress, or internal imbalances, our
                             personalized treatments focus on treating the whole person, not just symptoms.
                         </p>
-                        <a href="tel:+19542004587" class="button button-rounded button-large text-transform-none ls-0">Get Started</a>
+                        <a href="/about" class="button button-rounded button-large text-transform-none ls-0">More About Us</a>
                         <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0">
@@ -540,8 +540,8 @@
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum repellendus!</p>
-                                        <h4 class="h6 mb-0 fw-bold">John Doe</h4>
+                                        <p class="mb-4 font-primary fst-normal">I had the good fortune to be on a retreat with Shahida. She was so kind to offer me acupuncture for a painful condition in my shoulder. I had already had many sessions Of acupuncture with another practitioner without success. One session with Shahida and I was pain-free and without numbness for the rest of the day. So grateful for the little time that I got with her. Truly knowledgeable and takes the time to understand what’s going on in your body.</p>
+                                        <h4 class="h6 mb-0 fw-bold">Robert Ragonese</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -554,8 +554,8 @@
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Collis Ta'eed</h4>
+                                        <p class="mb-4 font-primary fst-normal">I’ve been having sciatica pains. I found great relief in acupuncture with Dr Sandra Mora. I highly recommend her. It’s amazing how my pain went from a good 8/10 to just an intermittent soreness. I’m able to enjoy walking and gardening now!</p>
+                                        <h4 class="h6 mb-0 fw-bold">Matea Saavedra</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -568,8 +568,8 @@
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Cyan Ta'eed</h4>
+                                        <p class="mb-4 font-primary fst-normal">Dr. Mora has magic hands. I went to see her for my 6th ivf transfer after losses and she has listened to me, advised and my body has felt completely different this time around with no inflammation and all the other benefits. She has been an essential part of my fertility team!</p>
+                                        <h4 class="h6 mb-0 fw-bold">Karen Romero</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -582,8 +582,8 @@
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Mary Jane</h4>
+                                        <p class="mb-4 font-primary fst-normal">When I had trouble with my shoulder and back I turned to Namaste Acupuncture for help. Dr. Sandra took her time to explain the different process being utilized and to identify the exact issue impacting my health. Within a couple of sessions I noticed a significant improvement in my condition and was able to go about my normal activities without any pain once again!!</p>
+                                        <h4 class="h6 mb-0 fw-bold">George Baclu</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -596,8 +596,8 @@
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Steve Jobs</h4>
+                                        <p class="mb-4 font-primary fst-normal">I cannot recommend enough. From my very first session, I felt genuinely seen, heard, and cared for — not rushed or treated like a checklist of symptoms. Their depth of knowledge, intuition, and calming presence immediately put me at ease.</p>
+                                        <h4 class="h6 mb-0 fw-bold">Stacey Schwartz</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -748,8 +748,8 @@
                             practice to support your body’s innate ability to heal.
                         </p>
                         <p>
-                            Whether you’re managing chronic pain or preparing for conception Namaste Acupuncture is
-                            here for you every step of the way
+                            Whether you’re managing chronic pain or preparing for conception <span class="color">Namaste Pembroke Pines Acupuncture is
+                            here for you every step of the way<span>
                         </p>
                     </div>
 

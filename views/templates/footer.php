@@ -68,7 +68,7 @@
 
                         <div class="form-result"></div>
 
-                        <form id="quick-contact-form" name="quick-contact-form" action="include/form.php" method="post" class="quick-contact-form mb-0">
+                        <form id="quick-contact-form" name="quick-contact-form" action="/include/form.php" method="post" class="quick-contact-form mb-0">
 
                             <div class="form-process">
                                 <div class="css3-spinner">

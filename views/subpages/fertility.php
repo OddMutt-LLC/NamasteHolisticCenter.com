@@ -5,7 +5,7 @@
         <video preload="auto" loop autoplay muted playsinline>
             <source src='/build/img/videos/fertility.webm' type='video/webm'>
         </video>
-        <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(170, 104, 170,0.5), #39384dbe);"></div>
+        <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(132, 71, 146,0.5), #39384dbe);"></div>
     </div>
 
 
@@ -42,7 +42,8 @@
             <div class="row align-items-end">
                 <div class="col-lg-6">
                     <div class="badge rounded-pill badge-default">Reproductive Health</div>
-                    <h2 class="display-4 fw-bold">Compassionate Fertility Support for Your Unique Journey</h2>
+                    <h2 class="display-4 fw-bold">We honor your fertility journey and are here to walk with you every step of
+the way.</h2>
                     <p>
                     At Namaste Acupuncture, fertility care is about more than getting pregnant — it’s about supporting 
                     your whole body, your hormones, and your emotional well-being.
@@ -133,7 +134,7 @@
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Our Approach</div>
-                    <h3 class="text-transform-none ls-0">How We Support Fertility:</h3>
+                    <h3 class="text-transform-none ls-0">How Acupuncture Support Fertility:</h3>
                 </div>
                 <div class="clear"></div>
                 <div class="row mt-4 col-mb-50 mb-0">
