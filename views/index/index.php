@@ -616,7 +616,7 @@
                     <h3 class="text-transform-none ls-0">Hours and Info</h3>
                 </div>
                 <div class="row justify-content-between">
-                    <div class="col-xl-4 col-lg-5 col-md-6 dotted-bg">
+                    <div class="col-xl-4 col-lg-5 col-md-6 dotted-bg p-2">
                         <div class="fancy-title title-border">
                             <h3 class="text-transform-none">Opening Hours</h3>
                         </div>

@@ -27,6 +27,17 @@ class SubpagesController {
         ]);
     }
 
+    public static function treatments(Router $router) {
+
+        $alertas = [];
+
+        // Render a la vista 
+        $router->render('subpages/treatments', [
+            'titulo' => 'Treatments',
+            'alertas' => $alertas
+        ]);
+    }
+
     public static function contact(Router $router) {
 
         $alertas = [];

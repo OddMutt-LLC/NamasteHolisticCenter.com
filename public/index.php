@@ -25,6 +25,9 @@ $router->post('/faq', [SubpagesController::class, 'faq']);
 $router->get('/contact', [SubpagesController::class, 'contact']);
 $router->post('/contact', [SubpagesController::class, 'contact']);
 
+$router->get('/treatments', [SubpagesController::class, 'treatments']);
+$router->post('/treatments', [SubpagesController::class, 'treatments']);
+
 $router->get('/specialties/fertility', [SubpagesController::class, 'fertility']);
 $router->post('/specialties/fertility', [SubpagesController::class, 'fertility']);
 
