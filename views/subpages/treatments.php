@@ -3,14 +3,13 @@
 <section class="page-title page-title-parallax parallax page-title-video scroll-detect page-title-center dark include-header include-topbar min-vh-50">
     <img src="/build/img/sections/1.webp" class="parallax-bg">
 
-
     <div class="container">
 
         <div class="page-title-row mt-6 pt-6">
 
             <div class="page-title-content">
-                <div class="badge rounded-pill border border-light text-light" data-animate="fadeInUp">About Us</div>
-                <h1 data-animate="fadeInUp" data-delay="300">Namaste Pembroke Pines Acupuncture</h1>
+                <div class="badge rounded-pill border border-light text-light" data-animate="fadeInUp">Our Treatments</div>
+                <h1 data-animate="fadeInUp" data-delay="300">Comprehensive Acupuncture & Physical Therapy Services</h1>
                 <p data-animate="fadeInUp" data-delay="600" class="lead mb-0">Acupuncture Clinic Specializing in Pain Management, Fertility & Prenatal Care</p>
 
             </div>
@@ -18,7 +17,7 @@
             <nav aria-label="breadcrumb" data-animate="fadeInUp" data-delay="900">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">About Us</li>
+                    <li class="breadcrumb-item active" aria-current="page">Treatments</li>
                 </ol>
             </nav>
 
@@ -32,118 +31,240 @@
 
     <div class="content-wrap pb-0">
 
-        <div class="container">
-            <div class="row align-items-end">
-                <div class="col-lg-6">
-                    <div class="badge rounded-pill badge-default">Pembroke Pines Acupuncture & Physical Therapy</div>
-                    <h2 class="display-4 fw-bold">Holistic Healing with Experience and Compassion</h2>
-                    <p>
-                        At Namaste Pembroke Pines Acupuncture & Physical Therapy, we combine the wisdom of Traditional Chinese Medicine with the precision of Western Medicine to provide comprehensive, patient-centered care in Pembroke Pines, Florida.
-                    </p>
-                    <p>
-                        Inspired by the meaning of “Namaste”: <strong>“The Spirit Within Me, Greets and Honors, The Spirit Within You”.</strong> Our clinic is founded on love, compassion, service, and excellence in integrative healthcare.
-                    </p>
-                    <a href="tel:+19542237000" class="button button-rounded button-large text-transform-none ls-0">
-                        Call Us Today
-                    </a>
-                    <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">
-                        Schedule Appointment
-                    </a>
-                </div>
-                <div class="col-lg-6 mt-4 mt-lg-0">
-                    <img src="/build/img/services/spotlight-8.webp" alt="Image">
-                </div>
-            </div>
-        </div>
-
-        <div class="clear"></div>
-
-        <div class="section mt-5">
+        <!-- Pain Management & Functional Wellness -->
+        <div class="section py-5">
             <div class="container">
-                <div class="row align-items-end">
-                    <div class="col-lg-6 order-1 order-lg-2">
-                        <div class="badge rounded-pill badge-default">Our Mission</div>
-                        <h2 class="display-4 fw-bold">To Empower Wellness Through Integrative Healthcare</h2>
-                        <p>
-                            Our mission is to provide safe, natural, and evidence-informed acupuncture and physical therapy services that restore balance, relieve pain, and improve quality of life for our patients in Pembroke Pines and surrounding Broward County communities.
-                        </p>
-                        <p>We are committed to delivering personalized treatment plans that address the root cause of imbalance, not just the symptoms.</p>
-                    </div>
-                    <div class="col-lg-6 mt-4 mt-lg-0 order-2 order-lg-1 align-items-center">
-                        <img src="/build/img/services/spotlight-10.webp" alt="Image">
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="section mt-5 p-5 bg-white" style="padding: 100px 0; overflow: visible">
-            <div class="container">
-                <div class="heading-block border-bottom-0 text-center">
-                    <div class="badge rounded-pill badge-default">Our Approach</div>
-                    <h3 class="text-transform-none ls-0">Meet Our Founder</h3>
-                </div>
-
-                <div class="clear"></div>
-
-                <div class="col-lg-12">
-                    <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
-
-                        <!-- Image -->
-                        <div class="col-md-4 team-image col-sm-5 d-flex align-self-stretch">
-                            <img src="/build/img/staff/1.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Pain Management & Functional Wellness</h3>
                         </div>
-
-                        <!-- Content -->
-                        <div class="col-md-8 col-sm-7 p-5 bg-white">
-                            <div class="team-desc text-start">
-
-                                <div class="team-title pt-0 mb-3">
-                                    <h4 class="mb-1">Dr. Sandra Mora-Viera, A.P., D.O.M., MD (Colombia)</h4>
-                                    <span class="d-block">Licensed Acupuncture Physician & Doctor of Oriental Medicine</span>
-                                </div>
-
-                                <p>
-                                    She is a Licensed Acupuncture Physician in the State of Florida and a Diplomate in Oriental Medicine, 
-                                    as designated by the NCCAOM (National Certification Commission for Acupuncture and Oriental Medicine), 
-                                    holding diplomat status in both Acupuncture and Chinese Herbology.
-                                </p>
-
-                                <!-- Education -->
-                                <h5 class="mt-4 mb-2">Education & Credentials</h5>
-                                <ul class="iconlist ms-3">
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Master’s Degree in Oriental Medicine (Valedictorian Award of Excellence)
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Graduate of Acupuncture and Massage College of Miami (Oldest Acupuncture School in Florida)
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Certified in Acupuncture Injection Therapy
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Certified in Acupuncture Facial Rejuvenation
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Former Acupuncture Clinic Supervisor at AMC
-                                    </li>
-                                    <li class="text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Scholarship recipient from the Asian Medicine Institute (California) for leadership and academic excellence
-                                    </li>
+                        <p>
+                            Acupuncture is commonly used to help reduce pain and inflammation by stimulating the nervous system and improving circulation. Acupuncture is widely used to manage both acute and chronic pain conditions, including:
+                        </p>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <ul class="list-unstyled">
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Low back pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Neck and shoulder pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sciatica and nerve pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Knee, hip, and joint pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Arthritis and inflammatory pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Migraines and tension headaches</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (Jaw pain)</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Myofascial pain and trigger points</li>
                                 </ul>
-
-                                <p class="mt-3">
-                                    Her deep understanding of both Western and Eastern medicine allows her to create comprehensive 
-                                    and personalized treatment plans tailored to each patient.
-                                </p>
-
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="list-unstyled">
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sports Injuries</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fibromialgia</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Post-surgical pain and recovery</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Trigeminal Neuralgia</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Dental pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Abdominal pain</li>
+                                </ul>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/8.webp" alt="Pain Management" class="object-cover w-100 rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Women’s Health & Hormonal Balance -->
+        <div class="section py-5 bg-light">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Women’s Health & Hormonal Balance</h3>
+                        </div>
+                        <p>
+                            Many women use acupuncture to support hormonal health throughout different life stages.
+                        </p>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <ul class="list-unstyled">
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Menstrual cramps (PMS)</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Endometriosis-associated pain</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic floor tension</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Irregular cycles</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="list-unstyled">
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fertility support</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pregnancy discomfort</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Postpartum recovery</li>
+                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Menopause symptoms (hot flashes, night sweats, mood swings)</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/1.webp" alt="Women’s Health & Hormonal Balance" class="object-cover w-100 rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Stress, Anxiety & Emotional Well-Being -->
+        <div class="section py-5">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Stress, Anxiety & Emotional Well-Being</h3>
+                        </div>
+                        <p>
+                            By calming the nervous system, acupuncture may help regulate mood and promote relaxation.
+                        </p>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Chronic stress and burnout</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Anxiety</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Depression</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Emotional imbalance</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> PTSD support</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/2.webp" alt="Stress & Anxiety Support" class="object-cover w-100 rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Headaches & Neurological Support -->
+        <div class="section py-5 bg-light">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Headaches & Neurological Support</h3>
+                        </div>
+                        <p>
+                            Acupuncture may help reduce the frequency and intensity of headaches and nerve-related conditions.
+                        </p>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Migraines</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Tension headaches</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Nerve pain</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Trigeminal neuralgia</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Bell’s palsy</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Peripheral neuropathy</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/3.webp" alt="Headaches & Neurological Support" class="object-cover w-100 rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Immune & Respiratory Support -->
+        <div class="section py-5">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Immune & Respiratory Support</h3>
+                        </div>
+                        <p>
+                            Acupuncture can help strengthen the immune system and support respiratory health.
+                        </p>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Seasonal allergies</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sinus congestion</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Asthma support</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Frequent colds and flu</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Long-term immune weakness</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/4.webp" alt="Immune & Respiratory Support" class="object-cover w-100 rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Sleep & Energy -->
+        <div class="section py-5 bg-light">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Sleep & Energy</h3>
+                        </div>
+                        <p>
+                            By restoring balance in the body, acupuncture may improve rest and vitality.
+                        </p>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Insomnia</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fatigue</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Low energy</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Jet lag</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/5.webp" alt="Sleep & Energy" class="object-cover w-100 rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Digestive & Gut Health -->
+        <div class="section py-5">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Digestive & Gut Health</h3>
+                        </div>
+                        <p>
+                            Acupuncture may help regulate digestion and support gut function.
+                        </p>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> IBS (Irritable Bowel Syndrome)</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Bloating and gas</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Acid reflux</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Constipation</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Diarrhea</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Nausea</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/6.webp" alt="Digestive & Gut Health" class="object-cover w-100 rounded shadow">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Whole-Body Wellness -->
+        <div class="section py-5 bg-light">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-7">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <h3 class="text-transform-none ls-0">Whole-Body Wellness</h3>
+                        </div>
+                        <p>
+                            Even without a specific condition, acupuncture can help maintain balance and prevent future illness.
+                        </p>
+                        <ul class="list-unstyled">
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Overall wellness care</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Stress prevention</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Mind-body balance</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Improved circulation</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <img src="/build/img/works/7.webp" alt="Whole-Body Wellness" class="object-cover w-100 rounded shadow">
                     </div>
                 </div>
             </div>
