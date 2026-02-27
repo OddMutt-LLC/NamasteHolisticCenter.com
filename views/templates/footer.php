@@ -13,7 +13,7 @@
 
                         <img src="/build/img/logo.webp" alt="Image" class="footer-logo" style="padding: 0 5rem 0 0;">
 
-                        <p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards with a Retina &amp; Responsive Approach. Browse the amazing Features this template offers.</p>
+                        <p>"The Spirit Within Me, Greets and Honors, The Spirit Within You"</p>
 
                         <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
                             <address>

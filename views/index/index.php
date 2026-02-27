@@ -51,7 +51,7 @@
                     <div class="col-lg-6">
                         <div class="badge rounded-pill badge-default">A Little About Us</div>
                         <h2 class="display-4 fw-bold">Natural Healing for Mind, Body & Balance</h2>
-                        <p> Namaste Pembroke Pines Acupuncture offers holistic, personalized acupuncture treatments focused on pain relief,
+                        <p> <span class="color">Namaste Pembroke Pines Acupuncture</span> offers holistic, personalized acupuncture treatments focused on pain relief,
                             improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
                             Traditional Chinese Medicine, our approach supports the body’s natural healing process in a
                             calm, welcoming environment. We understand how deeply pain and fertility challenges affect
@@ -808,7 +808,7 @@
         <div class="section mt-5 p-5 footer-stick promo-section bg-transparent" style="padding: 100px 0; overflow: visible">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
-                    <h5 class="text-uppercase ls-1 mb-1">Grab your Free Trail and Explore the Options</h5>
+                    <h5 class="text-uppercase ls-1 mb-1">Give us a call today to explore your options</h5>
                     <h2 class="text-transform-none ls-0">Book your <span>acupuncture session today</span> and reconnect with your body’s natural flow.</h2>
                     <a href="tel:+19542004587" class="button button-large button-rounded text-transform-none ms-0 ls-0 mt-4">Schedule Your Appointment</a>
                 </div>

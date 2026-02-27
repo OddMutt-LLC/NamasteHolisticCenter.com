@@ -24,7 +24,6 @@
 
         </div>
     </div>
-    <div class="video-overlay z-1" style="background-image: linear-gradient(to top, rgba(132, 71, 146,0.5), #39384dbe);"></div>
 </section><!-- .page-title end -->
 
 <!-- Content
