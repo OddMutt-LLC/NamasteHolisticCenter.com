@@ -489,63 +489,23 @@ the way.</h2>
             <div class="container">
                 <div class="row justify-content-between align-items-center">
 
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <div class="heading-block border-bottom-0 mb-4">
                             <div class="badge rounded-pill badge-default">Book a Session Today</div>
                             <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
                         </div>
                         <p>
-                        Our goal is to partner with you — to listen, understand, and tailor treatments based on your
-                        unique history, symptoms, and goals. We combine clinical experience with evidence-informed
-                        practice to support your body’s innate ability to heal.
+                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
+                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
+                            practice to support your body’s innate ability to heal.
                         </p>
                         <p>
-                        Whether you’re managing chronic pain or preparing for conception Namaste Acupuncture is
-                        here for you every step of the way
+                            Whether you’re managing chronic pain or preparing for conception <span class="color">Namaste Pembroke Pines Acupuncture is
+                            here for you every step of the way<span>
                         </p>
                     </div>
-
-                    <div class="col-lg-3 col-md-4">
-                        <div class="card shadow-sm">
-                            <div class="card-body">
-                                <h4 class="mb-3">Schedule Your Appointment</h4>
-                                <div class="form-widget">
-                                    <div class="form-result"></div>
-                                    <form class="row mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
-                                        <div class="form-process">
-                                            <div class="css3-spinner" style="--cnvs-loader-color:var(--cnvs-themecolor);">
-                                                <div class="css3-spinner-scaler"></div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-12 form-group mb-3">
-                                            <label for="template-contactform-name">Name:*</label>
-                                            <input type="text" id="template-contactform-name" name="template-contactform-name" class="form-control input-sm required" value="">
-                                        </div>
-                                        <div class="col-12 form-group mb-3">
-                                            <label for="template-contactform-email">Email Address:*</label>
-                                            <input type="email" id="template-contactform-email" name="template-contactform-email" class="form-control input-sm required" value="">
-                                        </div>
-                                        <div class="col-12 form-group mb-4">
-                                            <label for="template-contactform-phone">Phone:*</label>
-                                            <input type="text" id="template-contactform-phone" name="template-contactform-phone" class="form-control input-sm required" value="">
-                                        </div>
-                                        <div class="col-12 form-group d-none">
-                                            <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="form-control">
-                                        </div>
-                                        <div class="col-12 form-group mb-0">
-                                            <button class="button button-rounded w-100 text-transform-none ls-0 m-0" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send</button>
-                                        </div>
-
-                                        <input type="hidden" name="prefix" value="template-contactform-">
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                    
                     <div class="col-md-4 mt-5 mt-md-0 text-center">
-                        <!-- <a href="https://www.youtube.com/watch?v=P3Huse9K6Xs" data-lightbox="iframe" class="play-icon shadow"><i class="bi-play"></i></a> -->
                     </div>
 
                 </div>
@@ -570,8 +530,8 @@ the way.</h2>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum repellendus!</p>
-                                        <h4 class="h6 mb-0 fw-bold">John Doe</h4>
+                                        <p class="mb-4 font-primary fst-normal">I had the good fortune to be on a retreat with Shahida. She was so kind to offer me acupuncture for a painful condition in my shoulder. I had already had many sessions Of acupuncture with another practitioner without success. One session with Shahida and I was pain-free and without numbness for the rest of the day. So grateful for the little time that I got with her. Truly knowledgeable and takes the time to understand what’s going on in your body.</p>
+                                        <h4 class="h6 mb-0 fw-bold">Robert Ragonese</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -584,8 +544,8 @@ the way.</h2>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Collis Ta'eed</h4>
+                                        <p class="mb-4 font-primary fst-normal">I’ve been having sciatica pains. I found great relief in acupuncture with Dr Sandra Mora. I highly recommend her. It’s amazing how my pain went from a good 8/10 to just an intermittent soreness. I’m able to enjoy walking and gardening now!</p>
+                                        <h4 class="h6 mb-0 fw-bold">Matea Saavedra</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -598,8 +558,8 @@ the way.</h2>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Cyan Ta'eed</h4>
+                                        <p class="mb-4 font-primary fst-normal">Dr. Mora has magic hands. I went to see her for my 6th ivf transfer after losses and she has listened to me, advised and my body has felt completely different this time around with no inflammation and all the other benefits. She has been an essential part of my fertility team!</p>
+                                        <h4 class="h6 mb-0 fw-bold">Karen Romero</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -612,8 +572,8 @@ the way.</h2>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Mary Jane</h4>
+                                        <p class="mb-4 font-primary fst-normal">When I had trouble with my shoulder and back I turned to Namaste Acupuncture for help. Dr. Sandra took her time to explain the different process being utilized and to identify the exact issue impacting my health. Within a couple of sessions I noticed a significant improvement in my condition and was able to go about my normal activities without any pain once again!!</p>
+                                        <h4 class="h6 mb-0 fw-bold">George Baclu</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -626,8 +586,8 @@ the way.</h2>
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Steve Jobs</h4>
+                                        <p class="mb-4 font-primary fst-normal">I cannot recommend enough. From my very first session, I felt genuinely seen, heard, and cared for — not rushed or treated like a checklist of symptoms. Their depth of knowledge, intuition, and calming presence immediately put me at ease.</p>
+                                        <h4 class="h6 mb-0 fw-bold">Stacey Schwartz</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
