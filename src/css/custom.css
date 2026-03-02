@@ -268,3 +268,27 @@
 }
 
 .toggle:hover { background-color: rgba(255,255,255,0.15); }
+
+/* Asegura que el fondo parallax cubra el alto real del page-title */
+.page-title.parallax,
+.page-title .simpleParallax,
+.page-title .parallax-bg {
+    height: 100%;
+    min-height: 100%;
+    max-height: 100%;
+}
+
+.page-title .simpleParallax {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.page-title .parallax-bg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

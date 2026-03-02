@@ -181,19 +181,17 @@
                                                 </div>
                                                 <div class="fbox-content">
                                                     <h3 class="text-transform-none ls-0 text-larger">Pain Management & Functional Wellness</h3>
-                                                    <p class="text-smaller">
-                                                        Acupuncture is widely recognized as a safe, effective non-pharmacologic option to manage:
-                                                    </p>
+                                                    <p>Acupuncture is widely recognized as a safe, effective non-pharmacologic option to manage:</p>
                                                 </div>
-                                                <ul class="iconlist ms-3 mt-4 mb-0">
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Chronic back and neck pain</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Headaches & migraines</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Joint pain (shoulder, knee, hip)</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Sciatica</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Arthritis & inflammatory pain</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (jaw pain)</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Fibromyalgia</li>
-                                                    <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Post-surgical recovery</li>
+                                                <ul class="list-unstyled">
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Chronic back and neck pain</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Headaches & migraines</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Joint pain (shoulder, knee, hip)</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sciatica</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Arthritis & inflammatory pain</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (jaw pain)</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fibromyalgia</li>
+                                                    <li class=""><i class="fa-solid fa-check text-smaller color"></i> Post-surgical recovery</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -209,18 +207,16 @@
                                                 </div>
                                                 <div class="fbox-content">
                                                     <h3 class="text-transform-none ls-0 text-larger">Fertility Support for Women & Men</h3>
-                                                    <p class="text-smaller">
-                                                        We provide targeted acupuncture treatments to support:
-                                                    </p>
+                                                    <p>We provide targeted acupuncture treatments to support:</p>
                                                 </div>
                                                 <ul class="iconlist ms-3 mt-4 mb-0">
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Hormonal balance</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Regular ovulation & cycle regulation</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Improved uterine blood flow</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Stress reduction during fertility journeys</li>
-                                                    <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Support alongside IVF, IUI, FET</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Hormonal balance</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Regular ovulation & cycle regulation</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Improved uterine blood flow</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Stress reduction during fertility journeys</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Support alongside IVF, IUI, FET</li>
                                                 </ul>
-                                                <p class="text-smaller mt-3">
+                                                <p class="mt-3">
                                                     Our approach integrates acupuncture with lifestyle and nutritional guidance
                                                     to create a nurturing environment for conception.
                                                 </p>

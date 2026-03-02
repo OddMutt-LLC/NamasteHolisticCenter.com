@@ -1,7 +1,7 @@
 <!-- Page Title
 ============================================= -->
 <section class="page-title page-title-parallax parallax page-title-video scroll-detect page-title-center dark include-header include-topbar min-vh-50">
-    <img src="/build/img/sections/1.webp" class="parallax-bg">
+    <img src="/build/img/sections/8.webp" class="parallax-bg">
 
 
     <div class="container">
@@ -35,7 +35,7 @@
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-lg-6">
-                    <div class="badge rounded-pill badge-default">Pembroke Pines Acupuncture & Physical Therapy</div>
+                    <div class="badge rounded-pill badge-default">Who We Are and Our Approach to Healing</div>
                     <h2 class="display-4 fw-bold">Holistic Healing with Experience and Compassion</h2>
                     <p>
                         At Namaste Pembroke Pines Acupuncture & Physical Therapy, we combine the wisdom of Traditional Chinese Medicine with the precision of Western Medicine to provide comprehensive, patient-centered care in Pembroke Pines, Florida.
@@ -79,8 +79,8 @@
         <div class="section mt-5 p-5 bg-white" style="padding: 100px 0; overflow: visible">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
-                    <div class="badge rounded-pill badge-default">Our Approach</div>
-                    <h3 class="text-transform-none ls-0">Meet Our Founder</h3>
+                    <div class="badge rounded-pill badge-default">Our Specialists</div>
+                    <h3 class="text-transform-none ls-0">Meet Our Staff</h3>
                 </div>
 
                 <div class="clear"></div>
@@ -89,59 +89,103 @@
                     <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
 
                         <!-- Image -->
-                        <div class="col-md-4 team-image col-sm-5 d-flex align-self-stretch">
+                        <div class="col-md-5 team-image col-sm-5 d-flex align-self-stretch">
                             <img src="/build/img/staff/1.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
                         </div>
 
                         <!-- Content -->
-                        <div class="col-md-8 col-sm-7 p-5 bg-white">
+                        <div class="col-md-7 col-sm-7 p-5 bg-white">
                             <div class="team-desc text-start">
 
                                 <div class="team-title pt-0 mb-3">
                                     <h4 class="mb-1">Dr. Sandra Mora-Viera, A.P., D.O.M., MD (Colombia)</h4>
                                     <span class="d-block">Licensed Acupuncture Physician & Doctor of Oriental Medicine</span>
                                 </div>
-
                                 <p>
-                                    She is a Licensed Acupuncture Physician in the State of Florida and a Diplomate in Oriental Medicine, 
-                                    as designated by the NCCAOM (National Certification Commission for Acupuncture and Oriental Medicine), 
-                                    holding diplomat status in both Acupuncture and Chinese Herbology.
-                                </p>
+                                Dr. Sandra Mora, A.P., D.O.M., MD (Colombia) is the Founder of Namaste Pembroke Pines Acupuncture & Physical Therapy and a Licensed Acupuncture Physician in the state of Florida. She is a Diplomate in Oriental Medicine through the NCCAOM, with certifications in Acupuncture, Chinese Herbology, Acupuncture Injection Therapy, and Acupuncture Facial Rejuvenation.</p>
 
-                                <!-- Education -->
-                                <h5 class="mt-4 mb-2">Education & Credentials</h5>
-                                <ul class="iconlist ms-3">
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Master’s Degree in Oriental Medicine (Valedictorian Award of Excellence)
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Graduate of Acupuncture and Massage College of Miami (Oldest Acupuncture School in Florida)
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Certified in Acupuncture Injection Therapy
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Certified in Acupuncture Facial Rejuvenation
-                                    </li>
-                                    <li class="mb-2 text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Former Acupuncture Clinic Supervisor at AMC
-                                    </li>
-                                    <li class="text-muted">
-                                        <i class="fa-solid fa-check text-smaller color"></i>
-                                        Scholarship recipient from the Asian Medicine Institute (California) for leadership and academic excellence
-                                    </li>
-                                </ul>
+                                <p>Dr. Mora earned her Master’s Degree in Oriental Medicine with honors from the Acupuncture and Massage College of Miami, the oldest acupuncture school in Florida. During her training, she completed advanced internships under the supervision of Chinese physicians from Beijing and Shanghai Medical Universities and was selected as one of three national U.S. recipients of a prestigious Asian Medicine Institute scholarship for academic excellence, leadership, and student performance.</p>
 
-                                <p class="mt-3">
-                                    Her deep understanding of both Western and Eastern medicine allows her to create comprehensive 
-                                    and personalized treatment plans tailored to each patient.
-                                </p>
+                                <p>With a unique background bridging Eastern and Western medicine, Dr. Mora practiced as a Medical Doctor for 10 years in Colombia and later worked in the United States as a Cardiac Sonographer, certified by the ARDMS. She is also a former Acupuncture Clinic Supervisor at the Acupuncture and Massage College of Miami.</p>
 
+                                <p>Today, Dr. Mora practices at her clinic in Pembroke Pines, Florida, where she is known for her compassionate, patient-centered approach, combining clinical expertise with a deep commitment to healing, service, and holistic care.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div id="oc-images" class="owl-carousel image-carousel carousel-widget mt-5" data-items-xs="2" data-items-sm="3" data-items-lg="4" data-items-xl="5" data-loop="true" data-nav="false" data-autoplay="3000">
+                    <div class="oc-item">
+                        <a href="#"><img src="/build/img/gallery/spotlight-1.webp" alt="Image 1"></a>
+                    </div>
+                    <div class="oc-item">
+                        <a href="#"><img src="/build/img/gallery/spotlight-5.webp" alt="Image 2"></a>
+                    </div>
+                    <div class="oc-item">
+                        <a href="#"><img src="/build/img/gallery/spotlight-6.webp" alt="Image 3"></a>
+                    </div>
+                    <div class="oc-item">
+                        <a href="#"><img src="/build/img/gallery/spotlight-7.webp" alt="Image 4"></a>
+                    </div>
+                    <div class="oc-item">
+                        <a href="#"><img src="/build/img/gallery/spotlight-8.webp" alt="Image 5"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row mt-5">
+                    <div class="col-lg-6">
+                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+
+                            <!-- Image -->
+                            <div class="team-image d-flex align-self-stretch">
+                                <img src="/build/img/staff/3.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
+                            </div>
+
+                            <!-- Content -->
+                            <div class="p-5 bg-white">
+                                <div class="team-desc text-start">
+
+                                    <div class="team-title pt-0 mb-3">
+                                        <h4 class="mb-1">Dr. Evelyn Mora, PT, DPT</h4>
+                                        <span class="d-block">Doctor of Physical Therapy</span>
+                                    </div>
+
+                                    <p>Evelyn Mora earned her Master’s Degree in Physical Therapy in Colombia and later graduated from Shenandoah University (USA) with a Doctor of Physical Therapy degree.</p>
+
+                                    <p>In 2013, she completed advanced training in Washington, DC, specializing in the Leduc Method for Lymphedema Management. Her areas of expertise include breast cancer rehabilitation and temporomandibular joint dysfunction (TMD).</p>
+
+                                    <p>Dr. Mora brings nine years of clinical experience from Memorial Hospital West in Broward County, Florida. She is also the Founder of Healers of Motion Physical Therapy, where she is committed to delivering evidence-based, compassionate care focused on restoring movement and improving quality of life.</p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+
+                            <!-- Image -->
+                            <div class=" team-image d-flex align-self-stretch">
+                                <img src="/build/img/staff/2.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
+                            </div>
+
+                            <!-- Content -->
+                            <div class=" p-5 bg-white">
+                                <div class="team-desc text-start">
+
+                                    <div class="team-title pt-0 mb-3">
+                                        <h4 class="mb-1">Melissa De Souza, L.Ac.</h4>
+                                        <span class="d-block">Licensed Acupuncture and Oriental Medicine</span>
+                                    </div>
+
+                                    <p>Melissa is a Licensed Acupuncturist and Front Desk Assistant at Namaste Pembroke Pines Acupuncture & Physical Therapy. She completed her training at the Acupuncture and Oriental Medicine College in Miami and is dedicated to providing compassionate, patient-centered care.</p>
+
+                                    <p>In 2019, Melissa founded Zen Elephant, a crystal healing brand inspired by her family’s journey from Brazil to Miami and their long-standing belief in the healing properties of crystals. She is also a Reiki practitioner and thoughtfully incorporates energetic and crystal-based techniques into her holistic approach.</p>
+
+                                    <p>Melissa brings warmth, professionalism, and mindful intention to both her clinical and administrative roles, helping create a welcoming and supportive environment for every patient.</p>
+                                </div>
                             </div>
                         </div>
                     </div>

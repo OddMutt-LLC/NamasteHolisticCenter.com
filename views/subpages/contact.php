@@ -1,7 +1,7 @@
 <!-- Page Title
 ============================================= -->
 <section class="page-title page-title-parallax parallax page-title-video scroll-detect page-title-center dark include-header include-topbar min-vh-50">
-    <img src="/build/img/sections/1.webp" class="parallax-bg">
+    <img src="/build/img/sections/8.webp" class="parallax-bg">
 
 
     <div class="container">
