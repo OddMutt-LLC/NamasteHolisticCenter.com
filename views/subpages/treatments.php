@@ -34,12 +34,12 @@
             <div class="row align-items-end">
                 <div class="col-lg-6 order-1 order-lg-2">
                     <div class="badge rounded-pill badge-default">What We Treat</div>
-                    <h2 class="display-4 fw-bold">Holistic Healing & Physical Rehab</h2>
-                    <p>At Namaste Acupuncture & Physical Therapy, we provide comprehensive, patient-centered treatments designed to restore balance, reduce pain, and enhance overall well-being. Our approach integrates the wisdom of Traditional Chinese Medicine with evidence-based Western medical practices, allowing us to treat not only symptoms, but the underlying root causes of imbalance and dysfunction.</p>
+                    <h2 class="display-4 fw-bold">Acupuncture Treatments & Holistic Wellness</h2>
+                    <p>At Namaste Pembroke Pines Acupuncture, we offer personalized treatments designed to relieve pain, restore balance, and support the body’s natural healing abilities. Our approach combines the ancient principles of Traditional Chinese Medicine with modern therapeutic techniques to address both the symptoms and the underlying causes of health concerns.</p>
 
-                    <p>Each treatment plan is carefully tailored to the individual, taking into consideration your health history, lifestyle, and long-term wellness goals. Whether you are seeking relief from chronic pain, support during rehabilitation, stress reduction, or improved physical performance, our therapies are designed to promote natural healing, optimize body function, and support sustainable recovery.</p>
+                    <p>Each treatment plan is thoughtfully customized based on your health history, lifestyle, and individual wellness goals. Whether you are seeking relief from chronic pain, support for stress management, improved mobility, or enhanced overall wellness, our acupuncture therapies are designed to help the body regain balance and function naturally.</p>
 
-                    <p>We invite you to explore our full range of services and discover how integrative care can help you move, feel, and live better.</p>
+                    <p>We invite you to explore our treatment options and discover how acupuncture and integrative care can help you achieve lasting relief, improved health, and a greater sense of well-being.</p>
 
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0 order-2 order-lg-1 align-items-center">
