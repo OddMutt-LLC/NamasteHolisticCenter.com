@@ -21,11 +21,11 @@ $toemails = array();
 $toemails[] = array(
 				'email' => 'hello@oddmutt.com', // Your Email Address
 				'name' => 'Contact Us Form - Namaste Pembroke Pines Acupuncture' // Your Name
-			);
-$toemails[] = array(
-				'email' => 'fgalarconc@gmail.com', // Your Email Address
-				'name' => 'Contact Us Form - Namaste Pembroke Pines Acupuncture' // Your Name
-			);
+ 			);
+// $toemails[] = array(
+// 				'email' => 'hello@oddmutt.com', // Your Email Address
+// 				'name' => 'Contact Us Form - Namaste Pembroke Pines Acupuncture' // Your Name
+// 			);
 
 /*-------------------------------------------------
 	Sender's Email
@@ -40,7 +40,7 @@ $fromemail = array(
 ---------------------------------------------------*/
 
 // Add this only if you use reCaptcha with your Contact Forms
-$recaptcha_secret = '6LcxdqQpAAAAAJ3-kK_ph0dBK6dMuW9Lr0VM3Gj_'; // Your reCaptcha Secret
+$recaptcha_secret = '6LdeGYIsAAAAAEZRibQ69z_WFiYUpeoAWZUuXMuL'; // Your reCaptcha Secret
 
 
 /*-------------------------------------------------
@@ -134,7 +134,7 @@ if( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 	}
 
 	$template	= !empty( $submits['template'] ) ? $submits['template'] : 'html';
-	$html_title	= !empty( $submits['html_title'] ) ? $submits['html_title'] : 'Auto-Praise Contact Us Form';
+	$html_title	= !empty( $submits['html_title'] ) ? $submits['html_title'] : 'Namaste Pembroke Pines Acupuncture Contact Us Form';
 	$forcerecap	= ( !empty( $submits['force_recaptcha'] ) && $submits['force_recaptcha'] != 'false' ) ? true : false;
 	$replyto	= !empty( $submits['replyto'] ) ? explode( ',', $submits['replyto'] ) : false;
 

@@ -41,6 +41,8 @@
 
     <!-- Document Title -->
     <title><?php if (isset($titulo)) echo $titulo; ?> | Namaste Pembroke Pines Acupuncture</title>
+    
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body class="stretched page-transition" data-loader-html="<img class='infinite animated pulse' src='/build/img/logo.webp' width='300' loading='eager' style='padding: 1rem; z-index:1000; !important'>">
 

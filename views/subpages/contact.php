@@ -70,6 +70,10 @@
                                     <div class="col-12 form-group d-none">
                                         <input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="form-control">
                                     </div>
+                                    
+                                    <div class="col-12 form-group">
+                                        <div class="g-recaptcha" class="form-control" data-sitekey="6LdeGYIsAAAAAEYgzrVFJ_6k5-KYMvo_pVEeJs-V"></div>
+                                    </div>
 
                                     <div class="col-12 form-group text-end">
                                         <button class="button button-rounded button-small m-0" type="submit" id="template-contactform-submit" name="template-contactform-submit" value="submit">Send Message</button>
