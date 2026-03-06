@@ -43,7 +43,7 @@
 
                             <div class="form-result"></div>
 
-                            <form class="mb-0" id="template-contactform" name="template-contactform" action="include/form.php" method="post">
+                            <form class="mb-0" id="template-contactform" name="template-contactform" action="/build/include/form.php" method="post">
 
                                 <div class="form-process">
                                     <div class="css3-spinner">
