@@ -42,8 +42,7 @@
             <div class="row align-items-end">
                 <div class="col-lg-6">
                     <div class="badge rounded-pill badge-default">Reproductive Health</div>
-                    <h2 class="display-4 fw-bold">We honor your fertility journey and are here to walk with you every step of
-the way.</h2>
+                    <h2 class="display-4 fw-bold">We honor your fertility journey and are here to walk with you every step of the way.</h2>
                     <p>
                     At Namaste Acupuncture, fertility care is about more than getting pregnant — it’s about supporting 
                     your whole body, your hormones, and your emotional well-being.

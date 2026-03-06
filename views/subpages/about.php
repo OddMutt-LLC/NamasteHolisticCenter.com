@@ -62,28 +62,34 @@
         ============================================= -->
         <div class="container mt-5 ">
             <div class="row mt-lg-6 mx-auto">
-                <div class="col-md-5 min-vh-25" style="background: url('/build/img/services/spotlight-10.webp') no-repeat center / cover;"></div>
+                <div class="col-md-5 min-vh-25" style="background: url('/build/img/services/spotlight-2.webp') no-repeat center / cover;">
+                    <div class="bg-overlay">
+                        <div class="bg-overlay-content justify-content-start align-items-end">
+                            <div class="h3 py-2 px-3 bg-light text-dark ms-3 mb-3 rounded">Dr. Richard Tan & Dr. Sandra Mora</div>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-7"  style="background-color: #F8F9FA">
                     <div class="p-lg-6 py-5 px-4">
                         <div class="badge rounded-pill badge-default">Our Approach to Healing</div>
-                        <h2 class="display-4 fw-bold">Balance Method Acupuncture</h2>
+                        <h2 class="display-4 fw-bold">Acupuncture Balance Method</h2>
                         <div class="fslider testimonial bg-transparent border-0 shadow-none p-0" data-arrows="false" data-autoplay="5000" data-speed="1000" data-loop="true">
                             <div class="flexslider">
                                 <div class="slider-wrap">
                                     <div class="slide">
                                         <h3 class="mb-3">A Unique System of Healing</h3>
-                                        <p class="mb-3">
-                                        The Balance Method is a specialized system within Oriental Medicine developed by the late Dr. Richard Teh-Fu Tan, a Chinese Medical Doctor and Ph.D. Industrial Engineer. Dr. Tan combined traditional Chinese medicine teachings with a logical, systematic approach to treatment. The method is based on the classical concept “Li Gan Jian Ying” — “Stand a pole and see its shadow” — meaning that placing a needle can produce rapid and often immediate therapeutic results.</p>
+                                        <p class="mb-3 pb-3">
+                                        The Balance Method is a specialized acupuncture system developed by the late Dr. Richard Teh-Fu Tan, a Chinese Medical Doctor and Ph.D. Industrial Engineer. He combined traditional Chinese medicine teachings with a logical and structured approach to treatment. The system follows the classical principle “Li Gan Jian Ying”, meaning “stand a pole and see its shadow.”</p>
                                     </div>
                                     <div class="slide">
                                         <h3 class="mb-3">Why the Balance Method Is Unique?</h3>
-                                        <p class="mb-3">
-                                        This acupuncture system is especially known for its effectiveness in treating pain and restoring balance in the body. Treatments are highly personalized and often involve needling on the arms, legs, or head, allowing patients to remain fully clothed during the session. Many patients experience fast relief, improved function, and faster recovery times through a structured series of treatments.</p>
+                                        <p class="mb-3 pb-3">
+                                        This acupuncture approach is known for its effectiveness in treating pain and restoring balance in the body. Treatments are personalized and typically involve needling on the arms, legs, or head, allowing patients to remain fully clothed. Many patients experience noticeable relief quickly and improved recovery through structured treatments.</p>
                                     </div>
                                     <div class="slide">
                                         <h3 class="mb-3">How the Balance Method Works?</h3>
-                                        <p class="mb-3">
-                                        Oriental Medicine is based on an energetic model of health, where organs and meridians are connected through a complex network. By understanding these relationships, practitioners can treat one area of the body to influence another, creating efficient and powerful treatments. The Balance Method can help address many conditions, including pain, stress, fertility challenges, and internal imbalances, while complementing conventional medical care when appropriate.</p>
+                                        <p class="mb-3 pb-3">
+                                        Oriental medicine is based on an energetic model where organs and meridians interact through complex relationships. By understanding these connections, practitioners can treat one area of the body to influence another. This method can support conditions such as pain, stress, fertility concerns, and internal imbalances.</p>
                                     </div>
                                 </div>
                             </div>
