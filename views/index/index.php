@@ -179,10 +179,8 @@
                                                 <div class="fbox-image mb-5 text-center">
                                                     <img src="/build/img/services/pain-management.webp" alt="Pain Management Icon">
                                                 </div>
-                                                <div class="fbox-content">
-                                                    <h3 class="text-transform-none ls-0 text-larger">Pain Management & Functional Wellness</h3>
-                                                    <p>Acupuncture is widely recognized as a safe, effective non-pharmacologic option to manage:</p>
-                                                </div>
+                                                <h3 class="text-transform-none ls-0 text-larger">Pain Management & Functional Wellness</h3>
+                                                <p>Acupuncture is widely recognized as a safe, effective non-pharmacologic option to manage:</p>
                                                 <ul class="list-unstyled">
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Chronic back and neck pain</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Headaches & migraines</li>
@@ -205,11 +203,10 @@
                                                 <div class="fbox-image mb-5 text-center">
                                                     <img src="/build/img/services/fertility.webp" alt="Fertility Support Icon">
                                                 </div>
-                                                <div class="fbox-content">
-                                                    <h3 class="text-transform-none ls-0 text-larger">Fertility Support for Women & Men</h3>
-                                                    <p>We provide targeted acupuncture treatments to support:</p>
-                                                </div>
-                                                <ul class="iconlist ms-3 mt-4 mb-0">
+                                                <h3 class="text-transform-none ls-0 text-larger">Fertility Support for Women & Men</h3>
+                                                <p>We provide targeted acupuncture treatments to support:</p>
+                                              
+                                                <ul class="iconlist ms-3 mb-0">
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Hormonal balance</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Regular ovulation & cycle regulation</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Improved uterine blood flow</li>

@@ -296,7 +296,7 @@
 
         <div class="clear"></div>
 
-        <!-- Features
+       <!-- Features
         ============================================= -->
         <div class="section mb-0 bg-white">
             <div class="container">
@@ -304,157 +304,115 @@
                     <div class="badge rounded-pill badge-default">Education</div>
                     <h3 class="text-transform-none ls-0">Understanding Infertility in Women & Men</h3>
                 </div>
+
                 <div class="row col-mb-30 align-content-stretch">
 
+                    <!-- Male and Female Contributions -->
                     <div class="col-lg-4 col-md-6 d-flex">
                         <div class="card">
                             <div class="card-body p-5">
                                 <div class="feature-box flex-column">
-                                    <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/fertility.webp" alt="Feature Icon" class="bg-transparent rounded-0">
-                                    </div>
-                                    <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Common Female Factors</h3>
-                                        <p class="text-smaller">
-                                        Ovulatory dysfunction (PCOS), endometriosis, diminished ovarian reserve, thin uterine lining, hormonal imbalance, stress, and recurrent miscarriage.
-                                        </p>
-                                    </div>
-                                    <ul class="iconlist ms-3 mt-4 mb-0">
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Ovulatory disorders</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Endometriosis</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Age-related egg quality decline</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Thin endometrial lining</li>
-                                        <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Hormonal imbalance</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex">
-                        <div class="card">
-                            <div class="card-body p-5">
-                                <div class="feature-box flex-column">
-                                    <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/male.webp" alt="Feature Icon" class="bg-transparent rounded-0">
-                                    </div>
-                                    <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Common Male Factors</h3>
-                                        <p class="text-smaller">
-                                        Male factor infertility contributes to approximately 30–50% of infertility cases.
-                                        </p>
-
-                                    </div>
-                                    <ul class="iconlist ms-3 mt-4 mb-0">
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Low sperm count</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Poor motility</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Abnormal morphology</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Varicocele</li>
-                                        <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Lifestyle & environmental stressors</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex">
-                        <div class="card">
-                            <div class="card-body p-5">
-                                <div class="feature-box flex-column">
                                     <div class="fbox-icon mb-3">
                                         <img src="/build/img/icons/health.webp" alt="Feature Icon" class="bg-transparent rounded-0">
                                     </div>
+
                                     <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Acupuncture & Assisted Reproduction</h3>
-                                        <p class="text-smaller">
-                                        We support patients undergoing IVF, IUI, FET, and monitored cycles with protocols tailored to each stage.
-                                        </p>
+                                        <h3 class="text-transform-none ls-0 text-larger">Male and Female Contributions</h3>
+
+                                        <ul class="list-unstyled mt-4">
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Male factor infertility is a significant and often overlooked component of reproductive challenges.
+                                            </li>
+
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Clinical data indicate that male factors contribute to approximately 30–50% of all infertility cases.
+                                            </li>
+
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Infertility is not exclusively a female condition and should be evaluated in both partners.
+                                            </li>
+
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Roughly one-third of infertility cases are male-related and one-third female-related.
+                                            </li>
+
+                                            <li class="">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                The remaining cases involve a combination of factors or unexplained infertility.
+                                            </li>
+                                        </ul>
                                     </div>
-                                    <ul class="iconlist ms-3 mt-4 mb-0">
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Pre-stimulation support</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Transfer-day treatments</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Implantation support</li>
-                                        <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Early pregnancy support</li>
-                                    </ul>
+
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- <div class="col-lg-4 col-md-6 d-flex">
-                        <div class="card">
-                            <div class="card-body p-5">
-                                <div class="feature-box flex-column">
-                                    <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/analysis.svg" alt="Feature Icon" class="bg-transparent rounded-0">
-                                    </div>
-                                    <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Digital Analysis</h3>
-                                        <p class="text-smaller">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, dolore, voluptates!</p>
-                                    </div>
-                                    <ul class="iconlist ms-3 mt-4 mb-0">
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Unlimited Pages</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> UI/UX Design</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Speed Optimized</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Graphics Banner</li>
-                                        <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Advertisement</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+                    <!-- Female Infertility -->
                     <div class="col-lg-4 col-md-6 d-flex">
                         <div class="card">
                             <div class="card-body p-5">
                                 <div class="feature-box flex-column">
+
                                     <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/experience.svg" alt="Feature Icon" class="bg-transparent rounded-0">
+                                        <img src="/build/img/icons/fertility.webp" alt="Feature Icon" class="bg-transparent rounded-0">
                                     </div>
+
                                     <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Customer Experience</h3>
-                                        <p class="text-smaller">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, dolore, voluptates!</p>
+                                        <h3 class="text-transform-none ls-0 text-larger">Common Causes of Female Infertility</h3>
                                     </div>
-                                    <ul class="iconlist ms-3 mt-4 mb-0">
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Unlimited Pages</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> UI/UX Design</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Speed Optimized</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Graphics Banner</li>
-                                        <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Advertisement</li>
+
+                                    <ul class="list-unstyled mt-4">
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Ovulatory dysfunction (PCOS)</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Recurrent miscarriage</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Uterine or fallopian tube issues</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Endometriosis</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Diminished ovarian reserve or age-related egg quality decline (low Anti-Mullerian Hormone - AMH)</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Hormonal imbalances</li>
+                                        <li class=""><i class="fa-solid fa-check text-smaller color"></i> Severe stress causing anxiety and insomnia</li>
                                     </ul>
+
                                 </div>
                             </div>
                         </div>
                     </div>
 
+                    <!-- Male Infertility -->
                     <div class="col-lg-4 col-md-6 d-flex">
                         <div class="card">
                             <div class="card-body p-5">
                                 <div class="feature-box flex-column">
+
                                     <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/content_marketing.svg" alt="Feature Icon" class="bg-transparent rounded-0">
+                                        <img src="/build/img/icons/male.webp" alt="Feature Icon" class="bg-transparent rounded-0">
                                     </div>
+
                                     <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Content Marketing</h3>
-                                        <p class="text-smaller">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, dolore, voluptates!</p>
+                                        <h3 class="text-transform-none ls-0 text-larger">Common Causes of Male Infertility</h3>
                                     </div>
-                                    <ul class="iconlist ms-3 mt-4 mb-0">
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Unlimited Pages</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> UI/UX Design</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Speed Optimized</li>
-                                        <li class="mb-2 text-muted"><i class="fa-solid fa-check text-smaller color"></i> Graphics Banner</li>
-                                        <li class="text-muted"><i class="fa-solid fa-check text-smaller color"></i> Advertisement</li>
+
+                                    <ul class="list-unstyled mt-4">
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Decreased sperm count, motility, and morphology</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Varicocele</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Infections and inflammation</li>
+                                        <li class=""><i class="fa-solid fa-check text-smaller color"></i> Environmental & lifestyle factors such as heat exposure (laptops / hot tubs), smoking, alcohol, obesity, and stress</li>
                                     </ul>
+
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
 
                 </div>
             </div>
         </div>
 
-        <div class="section my-0 my-lg-5">
+        <!-- <div class="section my-0 my-lg-5">
             <div class="container">
                 <div class="heading-block text-center border-bottom-0">
                     <div class="badge rounded-pill badge-default">How It Works</div>
@@ -513,7 +471,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         
         <div class="section bg-white">
             <div class="container">
@@ -527,24 +485,24 @@
                         </div>
                         <div class="col-lg-6">
                             <h2>Integrating Acupuncture with Nutrition & Lifestyle</h2>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda qui praesentium facere quam?</p>
-                            <a href="#" class="text-primary fw-bold">Call us now<i class="fa-solid fa-chevron-right ms-1" style="position: relative; top: 1px;"></i></a>
+                            <p>At Namaste Acupuncture, we don’t just needle—we treat the <strong>whole person</strong> with:</p>
+                            <!-- <a href="#" class="text-primary fw-bold">Call us now<i class="fa-solid fa-chevron-right ms-1" style="position: relative; top: 1px;"></i></a> -->
                         </div>
                     </div>
                     <div class="row justify-content-between col-mb-30">
                         <div class="col-sm-6 col-lg-4 pe-lg-4">
-                            <h3 class="text-transform-none ls-0 h6 fw-semibold">Herbal Medicine</h3>
-                            <p class="text-dark mt-3 op-07 fw-normal">Dramatically fashion premier e-commerce with superior technology.</p>
+                            <h3 class="text-transform-none ls-0 h6 fw-semibold">Chinese Herbal Medicine</h3>
+                            <p class="text-dark mt-3 op-07 fw-normal">Customized herbal formulas designed to support hormonal balance, improve circulation, and strengthen overall reproductive vitality.</p>
                         </div>
 
                         <div class="col-sm-6 col-lg-4 pe-lg-4">
                             <h3 class="text-transform-none ls-0 h6 fw-semibold">Nutritional Guidance</h3>
-                            <p class="text-dark mt-3 op-07 fw-normal">Professionally fashion prospective technologies for business content.</p>
+                            <p class="text-dark mt-3 op-07 fw-normal">Personalized dietary recommendations that nourish reproductive health, reduce inflammation, and support hormone balance and energy levels.</p>
                         </div>
 
                         <div class="col-sm-6 col-lg-4 pe-lg-4">
-                            <h3 class="text-transform-none ls-0 h6 fw-semibold">Stress & Sleep Optimization</h3>
-                            <p class="text-dark mt-3 op-07 fw-normal">Conveniently morph enterprise-wide relationships whereas technologies.</p>
+                            <h3 class="text-transform-none ls-0 h6 fw-semibold">Lifestyle Strategies</h3>
+                            <p class="text-dark mt-3 op-07 fw-normal">Practical lifestyle guidance to improve sleep quality, reduce stress, and promote overall well-being during the fertility journey.</p>
                         </div>
                     </div>
                 </div>
