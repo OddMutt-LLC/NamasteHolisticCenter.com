@@ -68,7 +68,7 @@
         
         <div class="clear"></div>
 
-        <div class="section bg-light">
+        <!-- <div class="section bg-light">
             <div class="container">
                 <div class="heading-block text-center border-bottom-0">
                     <div class="badge rounded-pill badge-default">Why Choose Us</div>
@@ -125,11 +125,11 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
-        <div class="clear"></div>
+        <!-- <div class="clear"></div> -->
 
-        <div class="section mt-5 p-5 footer-stick promo-section bg-transparent" style="padding: 100px 0; overflow: visible">
+       <div class="section mt-5 p-5 footer-stick bg-light" style="padding: 100px 0; overflow: visible">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Our Approach</div>
@@ -217,10 +217,79 @@
                                 <p>
                                 We integrate acupuncture, herbal medicine, nutrition, and lifestyle strategies to address both physical and emotional aspects of fertility.
                                 </p>
-
                             </div>
                         </div>
                     </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="feature-box">
+                            <div class="fbox-icon mb-4">
+                                <a href="#"><i class="bi-heart-pulse text-white bg-secondary"></i></a>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="text-transform-none">Preventing Recurrent Miscarriages</h3>
+                                <p>
+                                Improving blood flow to the uterus and placenta may support implantation and early pregnancy, helping prevent recurrent miscarriages. Research suggests acupuncture used alongside IVF may improve pregnancy outcomes.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="feature-box">
+                            <div class="fbox-icon mb-4">
+                                <a href="#"><i class="bi-person-hearts text-white bg-secondary"></i></a>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="text-transform-none">Supports Pregnancy Health</h3>
+                                <p>
+                                Acupuncture may help relieve symptoms associated with pregnancy such as morning sickness, fatigue, pain, low back discomfort, and swelling while supporting overall maternal wellness.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="feature-box">
+                            <div class="fbox-icon mb-4">
+                                <a href="#"><i class="bi-arrow-repeat text-white bg-secondary"></i></a>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="text-transform-none">Breech Presentation Support</h3>
+                                <p>
+                                Breech presentation may be treated with acupuncture and moxibustion techniques that support the baby's natural repositioning. For best results, treatment is recommended before 36 weeks of pregnancy.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="feature-box">
+                            <div class="fbox-icon mb-4">
+                                <a href="#"><i class="bi-hourglass-split text-white bg-secondary"></i></a>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="text-transform-none">Prepares for Labor</h3>
+                                <p>
+                                Toward full term, acupuncture may help support cervical ripening and relaxation of muscles, preparing the body naturally for labor.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="feature-box">
+                            <div class="fbox-icon mb-4">
+                                <a href="#"><i class="bi-arrow-repeat text-white bg-secondary"></i></a>
+                            </div>
+                            <div class="fbox-content">
+                                <h3 class="text-transform-none">Postnatal Treatment</h3>
+                                <p>
+                                After childbirth, acupuncture may support recovery by restoring energy levels and helping increase breastmilk production for breastfeeding mothers.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>

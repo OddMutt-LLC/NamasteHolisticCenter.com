@@ -64,9 +64,9 @@
             <div class="row mt-lg-6 mx-auto">
                 <div class="col-md-5 min-vh-25" style="background: url('/build/img/services/spotlight-2.webp') no-repeat center / cover;">
                     <div class="bg-overlay">
-                        <div class="bg-overlay-content justify-content-start align-items-end">
+                        <!-- <div class="bg-overlay-content justify-content-start align-items-end">
                             <div class="h3 py-2 px-3 bg-light text-dark ms-3 mb-3 rounded">Dr. Richard Tan & Dr. Sandra Mora</div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-md-7"  style="background-color: #F8F9FA">
