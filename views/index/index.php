@@ -15,19 +15,15 @@
                         <div class="slider-title">
                             <div class="badge rounded-pill badge-default border-light text-light">Welcome to Namaste</div>
                             <h1>Pain Management & Fertility Specialists</h1>
-                            <h3 class="text-rotater mb-2" data-separator="," data-rotate="fadeIn" data-speed="3500">
-                                Personalized <span class="t-rotate">Healing,Wellness,Balance,Natural Care</span> Through Acupuncture.
-                            </h3>
                             <p>
-                                We specialize in evidence-informed acupuncture treatments designed to relieve pain,
-                                support fertility, and restore whole-body balance. Our personalized approach integrates
-                                traditional Chinese medicine with modern clinical care to help you feel your best—naturally.
+                                We specialize in acupuncture treatments designed to relieve pain,
+                                support fertility, and restore whole-body balance.
                             </p>
-                            <a href="/pain-management" class="button button-rounded button-large text-transform-none ls-0">
-                                Pain Management Services
+                            <a href="/pain-management" class="button button-rounded button-large button-light text-dark bg-white text-transform-none ls-0">
+                                Pain Management
                             </a>
                             <a href="/fertility" class="button button-rounded button-large button-light text-dark bg-white border-light text-transform-none ls-0">
-                                Fertility Support & Care
+                                Fertility Support
                             </a>
                         </div>
                     </div>
@@ -50,7 +46,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="badge rounded-pill badge-default">A Little About Us</div>
-                        <h2 class="display-4 fw-bold">Natural Healing for Mind, Body & Balance</h2>
+                        <h2 class="display-4 fw-bold">Natural Healing & Wellness</h2>
                         <p> <span class="color">Namaste Pembroke Pines Acupuncture</span> offers holistic, personalized acupuncture treatments focused on pain relief,
                             improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
                             Traditional Chinese Medicine, our approach supports the body’s natural healing process in a
@@ -71,12 +67,20 @@
                         <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0">
-                        <img src="/build/img/services/home-1.webp" alt="Image">
+                        <iframe 
+                            title="vimeo-player"
+                            src="https://player.vimeo.com/video/770493562?h=a9760e50c1&background=1&title=0&byline=0&portrait=0"
+                            width="640"
+                            height="360"
+                            frameborder="0"
+                            allow="autoplay; fullscreen; picture-in-picture"
+                            allowfullscreen>
+                        </iframe>
                     </div>
                 </div>
 
                 <div class="clear line my-6"></div>
-                <div class="heading-block border-bottom-0 text-center mx-auto mb-0" style="max-width: 550px">
+                <!-- <div class="heading-block border-bottom-0 text-center mx-auto mb-0" style="max-width: 550px">
                     <div class="badge rounded-pill badge-default">Why Acupuncture?</div>
                     <h3 class="text-transform-none ls-0 mb-3">Why Acupuncture Is a Valuable Part of Your Care Plan</h3>
                     <p></p>
@@ -147,7 +151,7 @@
 
                     </div>
 
-                </div>
+                </div> -->
             </div>
         </div>
 
@@ -173,7 +177,7 @@
                             <div class="row col-mb-30 align-content-stretch">
 
                                 <div class="col-lg-6 col-md-12 d-flex">
-                                    <a href="#" class="card h-shadow h-translate-y-sm all-ts">
+                                    <a href="/specialties/pain-management" class="card h-shadow h-translate-y-sm all-ts">
                                         <div class="card-body p-5">
                                             <div class="feature-box flex-column">
                                                 <div class="fbox-image mb-5 text-center">
@@ -197,7 +201,7 @@
                                 </div>
 
                                 <div class="col-lg-6 col-md-12 d-flex">
-                                    <a href="#" class="card h-shadow h-translate-y-sm all-ts">
+                                    <a href="/specialties/fertility" class="card h-shadow h-translate-y-sm all-ts">
                                         <div class="card-body p-5">
                                             <div class="feature-box flex-column">
                                                 <div class="fbox-image mb-5 text-center">
@@ -236,7 +240,7 @@
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Acupucture Treatments</div>
-                    <h3 class="text-transform-none ls-0">What Conditions Can Acupuncture Treat?</h3>
+                    <h3 class="text-transform-none ls-0">Different Conditions Can Acupuncture Treat</h3>
                 </div>
                 <div class="container">
                     <div class="row justify-content-center mb-5">
@@ -347,7 +351,7 @@
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain</li>
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Endometriosis-associated pain</li>
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic floor tension</li>
-                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Irregular cycles</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Irregular mestrual cycles</li>
                                             </ul>
                                         </div>
                                         <div class="col-md-6">
@@ -533,22 +537,8 @@
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">I had the good fortune to be on a retreat with Shahida. She was so kind to offer me acupuncture for a painful condition in my shoulder. I had already had many sessions Of acupuncture with another practitioner without success. One session with Shahida and I was pain-free and without numbness for the rest of the day. So grateful for the little time that I got with her. Truly knowledgeable and takes the time to understand what’s going on in your body.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Robert Ragonese</h4>
-                                    </div>
-                                </div>
-                                <div class="bg-icon bi-quote op-02"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="oc-item">
-                        <div class="card rounded-6 shadow border-0">
-                            <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
-                            <div class="card-body p-4 pt-2 position-relative overflow-hidden">
-                                <div class="row">
-                                    <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">I’ve been having sciatica pains. I found great relief in acupuncture with Dr Sandra Mora. I highly recommend her. It’s amazing how my pain went from a good 8/10 to just an intermittent soreness. I’m able to enjoy walking and gardening now!</p>
-                                        <h4 class="h6 mb-0 fw-bold">Matea Saavedra</h4>
+                                        <h4 class="h6 mb-0 fw-bold">Matea S.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -562,7 +552,7 @@
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">Dr. Mora has magic hands. I went to see her for my 6th ivf transfer after losses and she has listened to me, advised and my body has felt completely different this time around with no inflammation and all the other benefits. She has been an essential part of my fertility team!</p>
-                                        <h4 class="h6 mb-0 fw-bold">Karen Romero</h4>
+                                        <h4 class="h6 mb-0 fw-bold">Karen R.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -576,7 +566,7 @@
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">When I had trouble with my shoulder and back I turned to Namaste Acupuncture for help. Dr. Sandra took her time to explain the different process being utilized and to identify the exact issue impacting my health. Within a couple of sessions I noticed a significant improvement in my condition and was able to go about my normal activities without any pain once again!!</p>
-                                        <h4 class="h6 mb-0 fw-bold">George Baclu</h4>
+                                        <h4 class="h6 mb-0 fw-bold">George B.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -590,7 +580,7 @@
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">I cannot recommend enough. From my very first session, I felt genuinely seen, heard, and cared for — not rushed or treated like a checklist of symptoms. Their depth of knowledge, intuition, and calming presence immediately put me at ease.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Stacey Schwartz</h4>
+                                        <h4 class="h6 mb-0 fw-bold">Stacey S.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -602,10 +592,10 @@
             </div>
         </div>
 
-        <div class="section m-0 parallax" style="padding: 100px 0; background-color: #844792">
-            <div class="container dark">
+        <div class="section m-0 parallax" style="padding: 100px 0;">
+            <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
-                    <div class="badge rounded-pill border-light text-light badge-default">Our Schedule</div>
+                    <div class="badge rounded-pill badge-default">Our Schedule</div>
                     <h3 class="text-transform-none ls-0">Hours and Info</h3>
                 </div>
                 <div class="row justify-content-between">
@@ -652,7 +642,7 @@
                                         Insurances
                                     </div>
                                 </div>
-                                <div class="toggle-content">We accept insurance as method of payment such as: Memorial Health Care, United Health Care, Cigna, Blue Cross Blue Shield, and Aetna. Please, call us to find out your elegibility, no fee, no obligations!.</div>
+                                <div class="toggle-content">We accept insurance as method of payment such as: Memorial Health Care, United Health Care, PPO for Blue Cross Blue Shield and Aetna. Please, call us to find out your elegibility, no fee, no obligations!.</div>
                             </div>
 
                             <div class="toggle">

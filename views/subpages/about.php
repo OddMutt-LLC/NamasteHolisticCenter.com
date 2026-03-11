@@ -38,7 +38,7 @@
                     <div class="badge rounded-pill badge-default">Who We Are</div>
                     <h2 class="display-4 fw-bold">Holistic Healing with Experience and Compassion</h2>
                     <p>
-                        At Namaste Pembroke Pines Acupuncture & Physical Therapy, we combine the wisdom of Traditional Chinese Medicine with the precision of Western Medicine to provide comprehensive, patient-centered care in Pembroke Pines, Florida.
+                        At Namaste Pembroke Pines Acupuncture, we combine the wisdom of Traditional Chinese Medicine with the precision of Western Medicine to provide comprehensive, patient-centered care in Pembroke Pines, Florida.
                     </p>
                     <p>
                         Inspired by the meaning of “Namaste”: <strong>“The Spirit Within Me, Greets and Honors, The Spirit Within You”.</strong> Our clinic is founded on love, compassion, service, and excellence in integrative healthcare.
@@ -125,13 +125,15 @@
                                     <span class="d-block">Licensed Acupuncture Physician & Doctor of Oriental Medicine</span>
                                 </div>
                                 <p>
-                                Dr. Sandra Mora, A.P., D.O.M., MD (Colombia) is the Founder of Namaste Pembroke Pines Acupuncture & Physical Therapy and a Licensed Acupuncture Physician in the state of Florida. She is a Diplomate in Oriental Medicine through the NCCAOM, with certifications in Acupuncture, Chinese Herbology, Acupuncture Injection Therapy, and Acupuncture Facial Rejuvenation.</p>
+                                Dr. Sandra Mora, A.P., D.O.M., MD (Colombia) is the Founder of Namaste Pembroke Pines Acupuncture and a Licensed Acupuncture Physician in the state of Florida. She is a Diplomate in Oriental Medicine through the NCCAOM, with certifications in Acupuncture, Chinese Herbology, Acupuncture Injection Therapy, and Acupuncture Facial Rejuvenation.</p>
 
                                 <p>Dr. Mora earned her Master’s Degree in Oriental Medicine with honors from the Acupuncture and Massage College of Miami, the oldest acupuncture school in Florida. During her training, she completed advanced internships under the supervision of Chinese physicians from Beijing and Shanghai Medical Universities and was selected as one of three national U.S. recipients of a prestigious Asian Medicine Institute scholarship for academic excellence, leadership, and student performance.</p>
 
                                 <p>With a unique background bridging Eastern and Western medicine, Dr. Mora practiced as a Medical Doctor for 10 years in Colombia and later worked in the United States as a Cardiac Sonographer, certified by the ARDMS. She is also a former Acupuncture Clinic Supervisor at the Acupuncture and Massage College of Miami.</p>
 
-                                <p>Today, Dr. Mora practices at her clinic in Pembroke Pines, Florida, where she is known for her compassionate, patient-centered approach, combining clinical expertise with a deep commitment to healing, service, and holistic care.</p>
+                                <p>Dr. Sandra Mora has dedicated herself to this field, practicing with Love, Compassion, and Service.</p>
+
+                                <p><strong>"I feel blessed having the opportunity of getting the knowledge of both, western and Chinese medicine in this life, and I thank god because this is the path I am walking on"</strong></p>
 
                             </div>
                         </div>
@@ -203,7 +205,7 @@
                                         <span class="d-block">Licensed Acupuncture and Oriental Medicine</span>
                                     </div>
 
-                                    <p>Melissa is a Licensed Acupuncturist and Front Desk Assistant at Namaste Pembroke Pines Acupuncture & Physical Therapy. She completed her training at the Acupuncture and Oriental Medicine College in Miami and is dedicated to providing compassionate, patient-centered care.</p>
+                                    <p>Melissa is a Licensed Acupuncturist at Namaste Pembroke Pines Acupuncture. She completed her training at the Acupuncture and Oriental Medicine College in Miami and is dedicated to providing compassionate, patient-centered care.</p>
 
                                     <p>In 2019, Melissa founded Zen Elephant, a crystal healing brand inspired by her family’s journey from Brazil to Miami and their long-standing belief in the healing properties of crystals. She is also a Reiki practitioner and thoughtfully incorporates energetic and crystal-based techniques into her holistic approach.</p>
 
@@ -263,22 +265,8 @@
                             <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                                 <div class="row">
                                     <div class="col-12 text-center">
-                                        <p class="mb-4 font-primary fst-normal">I had the good fortune to be on a retreat with Shahida. She was so kind to offer me acupuncture for a painful condition in my shoulder. I had already had many sessions Of acupuncture with another practitioner without success. One session with Shahida and I was pain-free and without numbness for the rest of the day. So grateful for the little time that I got with her. Truly knowledgeable and takes the time to understand what’s going on in your body.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Robert Ragonese</h4>
-                                    </div>
-                                </div>
-                                <div class="bg-icon bi-quote op-02"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="oc-item">
-                        <div class="card rounded-6 shadow border-0">
-                            <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
-                            <div class="card-body p-4 pt-2 position-relative overflow-hidden">
-                                <div class="row">
-                                    <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">I’ve been having sciatica pains. I found great relief in acupuncture with Dr Sandra Mora. I highly recommend her. It’s amazing how my pain went from a good 8/10 to just an intermittent soreness. I’m able to enjoy walking and gardening now!</p>
-                                        <h4 class="h6 mb-0 fw-bold">Matea Saavedra</h4>
+                                        <h4 class="h6 mb-0 fw-bold">Matea S.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -292,7 +280,7 @@
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">Dr. Mora has magic hands. I went to see her for my 6th ivf transfer after losses and she has listened to me, advised and my body has felt completely different this time around with no inflammation and all the other benefits. She has been an essential part of my fertility team!</p>
-                                        <h4 class="h6 mb-0 fw-bold">Karen Romero</h4>
+                                        <h4 class="h6 mb-0 fw-bold">Karen R.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -306,7 +294,7 @@
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">When I had trouble with my shoulder and back I turned to Namaste Acupuncture for help. Dr. Sandra took her time to explain the different process being utilized and to identify the exact issue impacting my health. Within a couple of sessions I noticed a significant improvement in my condition and was able to go about my normal activities without any pain once again!!</p>
-                                        <h4 class="h6 mb-0 fw-bold">George Baclu</h4>
+                                        <h4 class="h6 mb-0 fw-bold">George B.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
@@ -320,7 +308,7 @@
                                 <div class="row">
                                     <div class="col-12 text-center">
                                         <p class="mb-4 font-primary fst-normal">I cannot recommend enough. From my very first session, I felt genuinely seen, heard, and cared for — not rushed or treated like a checklist of symptoms. Their depth of knowledge, intuition, and calming presence immediately put me at ease.</p>
-                                        <h4 class="h6 mb-0 fw-bold">Stacey Schwartz</h4>
+                                        <h4 class="h6 mb-0 fw-bold">Stacey S.</h4>
                                     </div>
                                 </div>
                                 <div class="bg-icon bi-quote op-02"></div>
