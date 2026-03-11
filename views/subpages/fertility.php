@@ -208,20 +208,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-sm-6 col-lg-4">
-                        <div class="feature-box">
-                            <div class="fbox-icon mb-4">
-                                <a href="#"><i class="bi-diagram-3 text-white bg-secondary"></i></a>
-                            </div>
-                            <div class="fbox-content">
-                                <h3 class="text-transform-none">Holistic Whole-Person Care</h3>
-                                <p>
-                                We integrate acupuncture, herbal medicine, nutrition, and lifestyle strategies to address both physical and emotional aspects of fertility.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-sm-6 col-lg-4">
                         <div class="feature-box">
                             <div class="fbox-icon mb-4">
@@ -250,19 +236,6 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-6 col-lg-4">
-                        <div class="feature-box">
-                            <div class="fbox-icon mb-4">
-                                <a href="#"><i class="bi-arrow-repeat text-white bg-secondary"></i></a>
-                            </div>
-                            <div class="fbox-content">
-                                <h3 class="text-transform-none">Breech Presentation Support</h3>
-                                <p>
-                                Breech presentation may be treated with acupuncture and moxibustion techniques that support the baby's natural repositioning. For best results, treatment is recommended before 36 weeks of pregnancy.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
 
                     <div class="col-sm-6 col-lg-4">
                         <div class="feature-box">

@@ -77,8 +77,8 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                                 <div class="container">
                                     <div class="row">
                                         <a href="/specialties/pain-management" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-4">
-                                            <div class="feature-box">
-                                                <div class="fbox-icon mb-2">
+                                            <div class="feature-box d-flex align-items-center fbox-sm">
+                                                <div class="fbox-icon">
                                                     <img src="/build/img/icons/pain.webp" alt="Feature Icon" class="bg-transparent rounded-0">
                                                 </div>
                                                 <div class="fbox-content">
@@ -87,8 +87,8 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                                             </div>
                                         </a>
                                         <a href="/specialties/fertility" class="mega-menu-column sub-menu-container col-lg-6 border-bottom h-bg-light py-4">
-                                            <div class="feature-box">
-                                                <div class="fbox-icon mb-2">
+                                            <div class="feature-box d-flex align-items-center fbox-sm">
+                                                <div class="fbox-icon">
                                                     <img src="/build/img/icons/fertility.webp" alt="Feature Icon" class="bg-transparent rounded-0">
                                                 </div>
                                                 <div class="fbox-content">

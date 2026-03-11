@@ -38,7 +38,7 @@
                         <a href="mailto:info@pembrokepinesacupuncture.com" class="button button-rounded ms-0">Email Us</a>
                     </div>
 
-                    <div class="col-xl-4 col-md-4">
+                    <!-- <div class="col-xl-4 col-md-4">
                         <div class="form-widget">
 
                             <div class="form-result"></div>
@@ -84,9 +84,9 @@
 
                             </form>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-xl-4 col-md-4">
+                    <div class="col-xl-3 col-md-3">
                         <div class="feature-box fbox-plain mb-4 fbox-sm">
                             <div class="fbox-icon mt-1">
                                 <i class="bi-geo-alt"></i>
@@ -99,6 +99,8 @@
                                 </address>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-xl-2 col-md-2">
                         <div class="feature-box fbox-plain mb-4 fbox-sm">
                             <div class="fbox-icon mt-1">
                                 <i class="bi-telephone-outbound"></i>
@@ -108,6 +110,8 @@
                                 <a href="tel:+19542004587">(954) 200-4587</a>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-xl-2 col-md-2">
                         <div class="feature-box fbox-plain mb-4 fbox-sm">
                             <div class="fbox-icon mt-1">
                                 <i class="bi-envelope"></i>
