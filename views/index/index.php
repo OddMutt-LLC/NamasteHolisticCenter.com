@@ -46,7 +46,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="badge rounded-pill badge-default">A Little About Us</div>
-                        <h2 class="display-4 fw-bold">Natural Healing & Wellness</h2>
+                        <h2 class="display-4 fw-bold">Holistic Healing & Wellness</h2>
                         <p> <span class="color">Namaste Pembroke Pines Acupuncture</span> offers holistic, personalized acupuncture treatments focused on pain relief,
                             improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
                             Traditional Chinese Medicine, our approach supports the body’s natural healing process in a
@@ -240,7 +240,7 @@
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Acupucture Treatments</div>
-                    <h3 class="text-transform-none ls-0">Different Conditions Can Acupuncture Treat</h3>
+                    <h3 class="text-transform-none ls-0">Conditions Treated by Acupuncture</h3>
                 </div>
                 <div class="container">
                     <div class="row justify-content-center mb-5">

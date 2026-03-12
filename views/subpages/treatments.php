@@ -60,7 +60,7 @@
     <div class="container">
         <div class="heading-block border-bottom-0 text-center">
             <div class="badge rounded-pill badge-default">Acupucture Treatments</div>
-            <h3 class="text-transform-none ls-0">Conditions Can Acupuncture Treat</h3>
+            <h3 class="text-transform-none ls-0">Conditions Treated By Acupuncture</h3>
         </div>
         <div class="container">
             <div class="row justify-content-center mb-5">
