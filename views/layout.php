@@ -71,6 +71,7 @@
     <script src="/build/js/bundle.min.js" defer></script>
 	<script src="/build/js/plugins.min.js"></script>
 	<script src="/build/js/functions.bundle.js"></script>
+    <script src="https://player.vimeo.com/api/player.js"></script>
 
     <!-- Parallax Script
 	============================================= -->

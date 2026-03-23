@@ -67,14 +67,22 @@
                         <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
                     </div>
                     <div class="col-lg-6 mt-4 mt-lg-0">
-                        <iframe 
-                            title="vimeo-player"
-                            src="https://player.vimeo.com/video/770493562?h=a9760e50c1&background=1&title=0&byline=0&portrait=0"
-                            width="640"
-                            height="360"
-                            frameborder="0"
-                            allow="autoplay; fullscreen; picture-in-picture">
-                        </iframe>
+                        <div class="position-relative">
+
+                            <iframe 
+                                id="vimeo-player"
+                                src="https://player.vimeo.com/video/770493562?h=a9760e50c1&background=1&autoplay=1&loop=1&muted=1"
+                                width="640"
+                                height="360"
+                                frameborder="0"
+                                allow="autoplay; fullscreen; picture-in-picture">
+                            </iframe>
+                            <div style="position:absolute; bottom:15px; left:15px; z-index:10;">
+                                <button id="playPause" class="btn btn-light btn-sm"><i class="bi-pause-fill"></i></button>
+                                <button id="muteToggle" class="btn btn-light btn-sm"><i class="bi-volume-mute-fill"></i></button>
+                            </div>
+
+                        </div>
                     </div>
                 </div>
 
