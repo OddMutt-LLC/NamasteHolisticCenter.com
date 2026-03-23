@@ -10,5 +10,30 @@
 </IfModule>
 
 <IfModule mod_headers.c>
-    Header always set Content-Security-Policy "frame-src 'self' https://www.dropbox.com https://*.dropbox.com https://www.dropboxusercontent.com https://*.dropboxusercontent.com https://www.google.com/ https://*.google.com/; child-src 'self' https://www.dropbox.com https://*.dropbox.com https://www.dropboxusercontent.com https://*.dropboxusercontent.com https://www.google.com/ https://*.google.com/; frame-ancestors 'self' https://www.dropbox.com https://*.dropbox.com https://www.dropboxusercontent.com https://*.dropboxusercontent.com https://www.google.com/ https://*.google.com/ https://player.vimeo.com/' https://*.vimeo.com/'; upgrade-insecure-requests;"
+    Header always set Content-Security-Policy "
+    frame-src 'self' 
+    https://www.dropbox.com 
+    https://*.dropbox.com 
+    https://www.dropboxusercontent.com 
+    https://*.dropboxusercontent.com 
+    https://www.google.com 
+    https://*.google.com 
+    https://player.vimeo.com 
+    https://*.vimeo.com;
+
+    child-src 'self' 
+    https://www.dropbox.com 
+    https://*.dropbox.com 
+    https://www.dropboxusercontent.com 
+    https://*.dropboxusercontent.com 
+    https://www.google.com 
+    https://*.google.com 
+    https://player.vimeo.com 
+    https://*.vimeo.com;
+
+    frame-ancestors 'self';
+
+    upgrade-insecure-requests;
+    "
 </IfModule>
+
