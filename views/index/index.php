@@ -716,6 +716,7 @@
                     <div class="oc-item"><a href="#"><img src="/build/img/clients/slide0.webp" alt="Brands" ></a></div>
                     <div class="oc-item"><a href="#"><img src="/build/img/clients/slide1.webp" alt="Brands" ></a></div>
                     <div class="oc-item"><a href="#"><img src="/build/img/clients/slide2.webp" alt="Brands" ></a></div>
+                    <div class="oc-item"><a href="#"><img src="/build/img/clients/slide3.webp" alt="Brands" ></a></div>
                     <div class="oc-item"><a href="#"><img src="/build/img/clients/slide4.webp" alt="Brands" ></a></div>
                 </div>
             </div>
