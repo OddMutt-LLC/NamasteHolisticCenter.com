@@ -171,37 +171,37 @@
         </div>
 
         <!-- SCIENCE EXPANDED -->
-        <div class="section bg-light">
-    <div class="container">
-        <div class="row align-items-center">
+        <div class="section bg-light mb-0">
+            <div class="container">
+                <div class="row align-items-center">
 
-            <div class="col-lg-6">
-                <img src="/build/img/services/pain-2.webp" class="rounded-4 shadow-lg" alt="">
-            </div>
+                    <div class="col-lg-6">
+                        <img src="/build/img/services/pain-2.webp" class="rounded-4 shadow-lg" alt="">
+                    </div>
 
-            <div class="col-lg-6">
-                <div class="heading-block border-bottom-0 mb-3">
-                    <div class="badge rounded-pill badge-default">Why It Works</div>
-                    <h3 class="text-transform-none">Real Results, Backed by Science</h3>
+                    <div class="col-lg-6">
+                        <div class="heading-block border-bottom-0 mb-3">
+                            <div class="badge rounded-pill badge-default">Why It Works</div>
+                            <h3 class="text-transform-none">Real Results, Backed by Science</h3>
+                        </div>
+
+                        <p>
+                            Acupuncture works by activating your body’s natural healing systems—helping reduce pain, inflammation, and stress while improving recovery.
+                        </p>
+
+                        <ul class="iconlist iconlist-large">
+                            <li><i class="bi-check-circle-fill color"></i> Natural pain relief without medication</li>
+                            <li><i class="bi-check-circle-fill color"></i> Faster recovery and tissue healing</li>
+                            <li><i class="bi-check-circle-fill color"></i> Improved sleep and reduced stress</li>
+                            <li><i class="bi-check-circle-fill color"></i> Long-term results, not temporary fixes</li>
+                        </ul>
+
+                        <a href="/contact" class="button button-rounded mt-3">Get Started</a>
+                    </div>
+
                 </div>
-
-                <p>
-                    Acupuncture works by activating your body’s natural healing systems—helping reduce pain, inflammation, and stress while improving recovery.
-                </p>
-
-                <ul class="iconlist iconlist-large">
-                    <li><i class="bi-check-circle-fill color"></i> Natural pain relief without medication</li>
-                    <li><i class="bi-check-circle-fill color"></i> Faster recovery and tissue healing</li>
-                    <li><i class="bi-check-circle-fill color"></i> Improved sleep and reduced stress</li>
-                    <li><i class="bi-check-circle-fill color"></i> Long-term results, not temporary fixes</li>
-                </ul>
-
-                <a href="/contact" class="button button-rounded mt-3">Get Started</a>
             </div>
-
         </div>
-    </div>
-</div>
         <!-- CTA FINAL -->
         <div class="section m-0 text-center" style="padding: 90px 0;">
             <div class="container">
