@@ -383,7 +383,7 @@
 
             <div class="oc-item">
                 <div class="card rounded-6 shadow border-0">
-                    <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
+                    <i class="bi-chat-quote-fill testimonial-image p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                     <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                         <div class="row">
                             <div class="col-12 text-center">
@@ -397,7 +397,7 @@
             </div>
             <div class="oc-item">
                 <div class="card rounded-6 shadow border-0">
-                    <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
+                    <i class="bi-chat-quote-fill testimonial-image p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                     <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                         <div class="row">
                             <div class="col-12 text-center">
@@ -411,7 +411,7 @@
             </div>
             <div class="oc-item">
                 <div class="card rounded-6 shadow border-0">
-                    <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
+                    <i class="bi-chat-quote-fill testimonial-image p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                     <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                         <div class="row">
                             <div class="col-12 text-center">
@@ -425,7 +425,7 @@
             </div>
             <div class="oc-item">
                 <div class="card rounded-6 shadow border-0">
-                    <i class="fa-solid fa-user-circle testimonial-image rounded-circle p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
+                    <i class="bi-chat-quote-fill testimonial-image p-2 bg-white" style="font-size: 64px; color: #bbb;"></i>
                     <div class="card-body p-4 pt-2 position-relative overflow-hidden">
                         <div class="row">
                             <div class="col-12 text-center">
