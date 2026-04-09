@@ -211,7 +211,7 @@
                         </div>
 
                         <div class="col-md-5">
-                            <img src="/build/img/works/2.webp" alt="Stress & Anxiety Support" class="object-cover" />
+                            <img src="/build/img/works/3.webp" alt="Stress & Anxiety Support" class="object-cover" />
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                         </div>
 
                         <div class="col-md-5">
-                            <img src="/build/img/works/3.webp" alt="Headaches & Neurological Support" class="object-cover" />
+                            <img src="/build/img/works/2.webp" alt="Headaches & Neurological Support" class="object-cover" />
                         </div>
                     </div>
                 </div>
