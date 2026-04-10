@@ -34,7 +34,7 @@
                 <div class="row">
                     <div class="col-xl-4 col-md-4">
                         <h2 class="h2 mb-4 fw-semibold">Contact Us</h2>
-                        <p class="text-black-50">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia aperiam, labore cum ullam, optio ducimus provident corrupti placeat veritatis.</p>
+                        <p class="text-black-50">We’d love to hear from you. Whether you have questions, need support, or want to learn more about our services, our team is here to help. Reach out to us and we’ll get back to you as soon as possible.</p>
                         <a href="mailto:info@pembrokepinesacupuncture.com" class="button button-rounded ms-0">Email Us</a>
                     </div>
 
