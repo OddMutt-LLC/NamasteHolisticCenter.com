@@ -14,7 +14,7 @@
                     <div class="col-lg-6 col-md-8">
                         <div class="slider-title">
                             <div class="badge rounded-pill badge-default border-light text-light">Welcome to Namaste</div>
-                            <h1>Pain Management & Fertility Specialists</h1>
+                            <h1>Acupuncture Pain Management & Fertility Specialists</h1>
                             <p>
                                 We specialize in acupuncture treatments designed to relieve pain,
                                 support fertility, and restore whole-body balance.

@@ -49,7 +49,7 @@
                 </div>
 
                 <div class="col-lg-6 mt-4 mt-lg-0">
-                    <img src="/build/img/services/pain.webp" class="rounded-4 shadow-lg" alt="">
+                    <img src="/build/img/services/feel.webp" class="rounded-4 shadow-lg" alt="">
                 </div>
             </div>
         </div>
