@@ -46,7 +46,7 @@
         </div>
 
         <div class="col-lg-6">
-            <img src="/build/img/services/pain.webp" class="rounded-5 shadow" alt="">
+            <img src="/build/img/services/feel.webp" class="rounded-5 shadow" alt="">
         </div>
     </div>
 </div>
