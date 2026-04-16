@@ -13,7 +13,6 @@
                 <div class="badge rounded-pill border border-light text-light">Specialties</div>
                 <h1>Pain Management in Pembroke Pines, Florida</h1>
                 <p class="lead mb-0">Namaste Acupuncture Clinic</p>
-                <p class="lead mb-0">Natural. Effective. Personalized Pain Relief.</p>
             </div>
         </div>
     </div>
@@ -111,6 +110,11 @@
             </div>
 
         </div>
+        <div class="text-center mt-6">
+            <p class="lead mb-0" style="max-width: 700px; margin:auto;">
+                Acupuncture is widely used to manage both acute and chronic pain conditions.
+            </p>
+        </div>
     </div>
 </div>
 
@@ -120,11 +124,8 @@
             <div class="col-lg-6 mt-4">
                 <div class="heading-block border-bottom-0 mb-4">
                     <div class="badge rounded-pill badge-default">Our Specialties</div>
-                    <h3 class="text-transform-none ls-0">Acupuncture is widely used to manage both acute and chronic pain conditions.</h3>
+                    <h3 class="text-transform-none ls-0">Furthermore, acupuncture addresses functional and stress-related conditions that can trigger or worsen pain:</h3>
                 </div>
-                <p>
-                    Furthermore, acupuncture addresses functional and stress-related conditions that can trigger or worsen pain:
-                </p>
             </div>
 
             <div class="col-lg-6">
