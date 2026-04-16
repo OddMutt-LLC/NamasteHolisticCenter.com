@@ -8,7 +8,7 @@
         <div class="page-title-row mt-6 pt-6">
 
             <div class="page-title-content">
-                <div class="badge rounded-pill border border-light text-light" data-animate="fadeInUp">Our Treatments</div>
+                <div class="badge rounded-pill border border-light text-light" data-animate="fadeInUp">Conditions We Treat</div>
                 <h1 data-animate="fadeInUp" data-delay="300">Chinese Medicine & Acupuncture Services</h1>
                 <p data-animate="fadeInUp" data-delay="600" class="lead mb-0">Acupuncture Clinic Specializing in Pain Management, Fertility & Prenatal Care</p>
 
@@ -31,10 +31,10 @@
 
     <div class="content-wrap">
         <div class="container">
-            <div class="row align-items-end">
+            <div class="row align-items-center">
                 <div class="col-lg-6 order-1 order-lg-2">
                     <div class="badge rounded-pill badge-default">What We Treat</div>
-                    <h2 class="display-4 fw-bold">Chinese Medicine & Acupuncture for Holistic Wellness</h2>
+                    <h2 class="display-4 fw-bold">Our Approach to Chinese Medicine & Acupuncture for Holistic Wellness</h2>
                     <p>At Namaste Pembroke Pines Acupuncture, we offer personalized treatments designed to relieve pain, restore balance, and support the body’s natural healing abilities. Our approach combines the ancient principles of Traditional Chinese Medicine with modern therapeutic techniques to address both the symptoms and the underlying causes of health concerns.</p>
 
                     <p>Each treatment plan is thoughtfully customized based on your health history, lifestyle, and individual wellness goals. Whether you are seeking relief from chronic pain, support for stress management, improved mobility, or enhanced overall wellness, our acupuncture therapies are designed to help the body regain balance and function naturally.</p>
@@ -42,7 +42,7 @@
                     <p>We invite you to explore our treatment options and discover how acupuncture and integrative care can help you achieve lasting relief, improved health, and a greater sense of well-being.</p>
 
                 </div>
-                <div class="col-lg-6 mt-4 mt-lg-0 order-2 order-lg-1 align-items-center">
+                <div class="col-lg-6 mt-0 mt-lg-0 order-2 order-lg-1 align-items-center">
                     <img src="/build/img/services/treatments.webp" alt="Image">
                 </div>
             </div>
@@ -70,7 +70,7 @@
                             <button aria-label="button" class="nav-link active" id="pills-pain-management-tab" data-bs-toggle="pill"
                                 data-bs-target="#pills-pain-management" type="button" role="tab" aria-controls="pills-pain-management"
                                 aria-selected="false">
-                                Pain Management
+                                Chronic Pain
                             </button>
                         </div>
                         <div class="nav-item">
@@ -108,6 +108,11 @@
                                 Whole-Body Wellness
                             </button>
                         </div>
+                        <div class="nav-item">
+                            <button class="nav-link" id="pills-chemotherapy-tab" data-bs-toggle="pill" data-bs-target="#pills-chemotherapy" type="button" role="tab" aria-controls="pills-chemotherapy" aria-selected="false">
+                                Chemotherapy Side-effects
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -117,7 +122,7 @@
                         <div class="col-md-7">
                             <img class="position-absolute top-0 start-0 translate-middle d-none d-md-block" width="36" />
                             <div class="heading-block border-bottom-0 mb-4">
-                                    <h3 class="text-transform-none ls-0">Pain Management</h3>
+                                    <h3 class="text-transform-none ls-0">Chronic Pain</h3>
                             </div>
                                 <p>
                                 Acupuncture is commonly used to help reduce pain and inflammation by stimulating the nervous system and improving circulation. Acupuncture is widely used to manage both acute and chronic pain conditions, including:
@@ -144,6 +149,7 @@
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Dental pain</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Abdominal pain</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Cancer-related Pain</li>
                                     </ul>
                                 </div>
                             </div>
@@ -171,7 +177,7 @@
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Endometriosis-associated pain</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic floor tension</li>
-                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Irregular cycles</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Irregular mestrual cycles</li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
@@ -180,6 +186,7 @@
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pregnancy discomfort</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Postpartum recovery</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Menopause symptoms</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Recurrent Miscarriage</li>
                                     </ul>
                                 </div>
                             </div>
@@ -211,7 +218,7 @@
                         </div>
 
                         <div class="col-md-5">
-                            <img src="/build/img/works/3.webp" alt="Stress & Anxiety Support" class="object-cover" />
+                            <img src="/build/img/services/pain-2.webp" alt="Stress & Anxiety Support" class="object-cover" />
                         </div>
                     </div>
                 </div>
@@ -232,6 +239,7 @@
                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Trigeminal neuralgia</li>
                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Bell’s palsy</li>
                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Peripheral neuropathy</li>
+                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Occipital neuralgia</li>
                             </ul>
                         </div>
 
@@ -335,11 +343,43 @@
                         </div>
                     </div>
                 </div>
+                <div class="tab-pane fade" id="pills-chemotherapy" role="tabpanel" aria-labelledby="pills-chemotherapy-tab" tabindex="0">
+                    <div class="row justify-content-between align-items-stretch">
+                        <div class="col-md-7">
+                            <div class="heading-block border-bottom-0 mb-4">
+                                <h3 class="text-transform-none ls-0">Chemotherapy Side-effects</h3>
+                            </div>
+                            <p>
+                                Acupuncture is a valuable complementary therapy for individuals undergoing chemotherapy. It can help manage common side effects and improve overall quality of life during cancer treatment.
+                            </p>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Nausea and vomiting</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fatigue and low energy</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Neuropathy (numbness/tingling in hands and feet)</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sleep disturbances</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Anxiety and emotional support</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Immune system support</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pain Management</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-5">
+                            <img src="/build/img/works/9.webp" alt="Chemotherapy Side-effects" class="object-cover" />
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
-
 <!-- Form Section
 ============================================= -->
 <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">

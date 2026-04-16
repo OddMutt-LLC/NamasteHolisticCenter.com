@@ -36,7 +36,7 @@
             <div class="row align-items-end">
                 <div class="col-lg-6">
                     <div class="badge rounded-pill badge-default">Who We Are</div>
-                    <h2 class="display-4 fw-bold">Holistic Healing with Experience and Compassion</h2>
+                    <h2 class="display-4 fw-bold">The Team Behind Namaste Pembroke Pines Acupuncture</h2>
                     <p>
                         At Namaste Pembroke Pines Acupuncture, we combine the wisdom of Traditional Chinese Medicine with the precision of Western Medicine to provide comprehensive, patient-centered care in Pembroke Pines, Florida.
                     </p>

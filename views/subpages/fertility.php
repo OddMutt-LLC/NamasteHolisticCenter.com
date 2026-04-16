@@ -459,7 +459,7 @@
                             <img src="/build/img/services/fertility-2.webp" alt="Image" class="shadow-lg">
                         </div>
                         <div class="col-lg-6">
-                            <h2>Integrating Acupuncture with Nutrition & Lifestyle</h2>
+                            <h2>Integrating Acupuncture, Nutrition, and Chinese Herbal Medicine</h2>
                             <p>At Namaste Acupuncture, we don’t just needle—we treat the <strong>whole person</strong> with:</p>
                             <!-- <a href="#" class="text-primary fw-bold">Call us now<i class="fa-solid fa-chevron-right ms-1" style="position: relative; top: 1px;"></i></a> -->
                         </div>
