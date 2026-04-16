@@ -83,6 +83,18 @@
                             </div>
 
                         </div>
+                        <div class="row d-flex justify-content-center mt-4">
+                            <div class="col-4 mt-4 mt-lg-0">
+                                <div class="position-relative">
+                                    <img src="/build/img/services/spotlight-3.webp" alt="Namaste Acupuncture Clinic">
+                                </div>
+                            </div>
+                            <div class="col-4 mt-4 mt-lg-0">
+                                <div class="position-relative">
+                                    <img src="/build/img/services/spotlight-4.webp" alt="Namaste Acupuncture Clinic">
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
