@@ -165,6 +165,32 @@
                         <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
 
                             <!-- Image -->
+                            <div class=" team-image d-flex align-self-stretch">
+                                <img src="/build/img/staff/2.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
+                            </div>
+
+                            <!-- Content -->
+                            <div class=" p-5 bg-white">
+                                <div class="team-desc text-start">
+
+                                    <div class="team-title pt-0 mb-3">
+                                        <h4 class="mb-1">Melissa De Souza, L.Ac.</h4>
+                                        <span class="d-block">Licensed Acupuncture and Oriental Medicine</span>
+                                    </div>
+
+                                    <p>Melissa is a Licensed Acupuncturist at Namaste Pembroke Pines Acupuncture. She completed her training at the Acupuncture and Oriental Medicine College in Miami and is dedicated to providing compassionate, patient-centered care.</p>
+
+                                    <p>In 2019, Melissa founded Zen Elephant, a crystal healing brand inspired by her family’s journey from Brazil to Miami and their long-standing belief in the healing properties of crystals. She is also a Reiki practitioner and thoughtfully incorporates energetic and crystal-based techniques into her holistic approach.</p>
+
+                                    <p>Melissa brings warmth, professionalism, and mindful intention to both her clinical and administrative roles, helping create a welcoming and supportive environment for every patient.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+
+                            <!-- Image -->
                             <div class="team-image d-flex align-self-stretch">
                                 <img src="/build/img/staff/3.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
                             </div>
@@ -184,32 +210,6 @@
 
                                     <p>Dr. Mora brings nine years of clinical experience from Memorial Hospital West in Broward County, Florida. She is also the Founder of Healers of Motion Physical Therapy, where she is committed to delivering evidence-based, compassionate care focused on restoring movement and improving quality of life.</p>
 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
-
-                            <!-- Image -->
-                            <div class=" team-image d-flex align-self-stretch">
-                                <img src="/build/img/staff/2.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
-                            </div>
-
-                            <!-- Content -->
-                            <div class=" p-5 bg-white">
-                                <div class="team-desc text-start">
-
-                                    <div class="team-title pt-0 mb-3">
-                                        <h4 class="mb-1">Melissa De Souza, L.Ac.</h4>
-                                        <span class="d-block">Licensed Acupuncture and Oriental Medicine</span>
-                                    </div>
-
-                                    <p>Melissa is a Licensed Acupuncturist at Namaste Pembroke Pines Acupuncture. She completed her training at the Acupuncture and Oriental Medicine College in Miami and is dedicated to providing compassionate, patient-centered care.</p>
-
-                                    <p>In 2019, Melissa founded Zen Elephant, a crystal healing brand inspired by her family’s journey from Brazil to Miami and their long-standing belief in the healing properties of crystals. She is also a Reiki practitioner and thoughtfully incorporates energetic and crystal-based techniques into her holistic approach.</p>
-
-                                    <p>Melissa brings warmth, professionalism, and mindful intention to both her clinical and administrative roles, helping create a welcoming and supportive environment for every patient.</p>
                                 </div>
                             </div>
                         </div>

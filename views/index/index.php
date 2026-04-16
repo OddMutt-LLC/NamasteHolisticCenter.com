@@ -46,8 +46,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="badge rounded-pill badge-default">A Little About Us</div>
-                        <h2 class="display-4 fw-bold">Holistic Healing & Wellness</h2>
-                        <p> <span class="color">Namaste Pembroke Pines Acupuncture</span> offers holistic, personalized acupuncture treatments focused on pain relief,
+                        <h2 class="display-4 fw-bold">We Are Namaste Pembroke Pines Acupuncture</h2>
+                        <p> We offer holistic, personalized acupuncture treatments focused on pain relief,
                             improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
                             Traditional Chinese Medicine, our approach supports the body’s natural healing process in a
                             calm, welcoming environment. We understand how deeply pain and fertility challenges affect
@@ -190,7 +190,7 @@
                                                 <div class="fbox-image mb-5 text-center">
                                                     <img src="/build/img/services/pain-management.webp" alt="Pain Management Icon">
                                                 </div>
-                                                <h3 class="text-transform-none ls-0 text-larger">Pain Management & Functional Wellness</h3>
+                                                <h3 class="text-transform-none ls-0 text-larger">Pain Management</h3>
                                                 <p>Acupuncture is widely recognized as a safe, effective non-pharmacologic option to manage:</p>
                                                 <ul class="list-unstyled">
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Chronic back and neck pain</li>
@@ -200,7 +200,7 @@
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Arthritis & inflammatory pain</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (jaw pain)</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fibromyalgia</li>
-                                                    <li class=""><i class="fa-solid fa-check text-smaller color"></i> Post-surgical recovery</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Post-surgical recovery</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -223,6 +223,7 @@
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Improved uterine blood flow</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Stress reduction during fertility journeys</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Support alongside IVF, IUI, FET</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pre-natal Care</li>
                                                 </ul>
                                                 <p class="mt-3">
                                                     Our approach integrates acupuncture with lifestyle and nutritional guidance
@@ -257,7 +258,7 @@
                                     <button aria-label="button" class="nav-link active" id="pills-pain-management-tab" data-bs-toggle="pill"
                                         data-bs-target="#pills-pain-management" type="button" role="tab" aria-controls="pills-pain-management"
                                         aria-selected="false">
-                                        Pain Management
+                                        Chronic Pain
                                     </button>
                                 </div>
                                 <div class="nav-item">
@@ -295,6 +296,11 @@
                                         Whole-Body Wellness
                                     </button>
                                 </div>
+                                <div class="nav-item">
+                                    <button class="nav-link" id="pills-chemotherapy-tab" data-bs-toggle="pill" data-bs-target="#pills-chemotherapy" type="button" role="tab" aria-controls="pills-chemotherapy" aria-selected="false">
+                                        Chemotherapy Side-effects
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -304,7 +310,7 @@
                                 <div class="col-md-7">
                                     <img class="position-absolute top-0 start-0 translate-middle d-none d-md-block" width="36" />
                                     <div class="heading-block border-bottom-0 mb-4">
-                                            <h3 class="text-transform-none ls-0">Pain Management</h3>
+                                            <h3 class="text-transform-none ls-0">Chronic Pain</h3>
                                     </div>
                                         <p>
                                         Acupuncture is commonly used to help reduce pain and inflammation by stimulating the nervous system and improving circulation. Acupuncture is widely used to manage both acute and chronic pain conditions, including:
@@ -331,6 +337,7 @@
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Dental pain</li>
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Abdominal pain</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Cancer-related Pain</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -367,6 +374,7 @@
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pregnancy discomfort</li>
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Postpartum recovery</li>
                                                 <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Menopause symptoms</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Recurrent Miscarriage</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -398,7 +406,7 @@
                                 </div>
 
                                 <div class="col-md-5">
-                                    <img src="/build/img/works/3.webp" alt="Stress & Anxiety Support" class="object-cover" />
+                                    <img src="/build/img/services/pain-2.webp" alt="Stress & Anxiety Support" class="object-cover" />
                                 </div>
                             </div>
                         </div>
@@ -419,6 +427,7 @@
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Trigeminal neuralgia</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Bell’s palsy</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Peripheral neuropathy</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Occipital neuralgia</li>
                                     </ul>
                                 </div>
 
@@ -519,6 +528,39 @@
 
                                 <div class="col-md-5">
                                     <img src="/build/img/works/7.webp" alt="Whole-Body Wellness" class="object-cover" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="pills-chemotherapy" role="tabpanel" aria-labelledby="pills-chemotherapy-tab" tabindex="0">
+                            <div class="row justify-content-between align-items-stretch">
+                                <div class="col-md-7">
+                                    <div class="heading-block border-bottom-0 mb-4">
+                                        <h3 class="text-transform-none ls-0">Chemotherapy Side-effects</h3>
+                                    </div>
+                                    <p>
+                                        Acupuncture is a valuable complementary therapy for individuals undergoing chemotherapy. It can help manage common side effects and improve overall quality of life during cancer treatment.
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <ul class="list-unstyled">
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Nausea and vomiting</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fatigue and low energy</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Neuropathy (numbness/tingling in hands and feet)</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sleep disturbances</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <ul class="list-unstyled">
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Anxiety and emotional support</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Immune system support</li>
+                                                <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pain Management</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-5">
+                                    <img src="/build/img/works/9.webp" alt="Chemotherapy Side-effects" class="object-cover" />
                                 </div>
                             </div>
                         </div>

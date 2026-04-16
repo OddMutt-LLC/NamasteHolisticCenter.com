@@ -82,7 +82,7 @@ $current_path = trim($_SERVER['REQUEST_URI'], '/');
                                                     <img src="/build/img/icons/pain.webp" alt="Feature Icon" class="bg-transparent rounded-0">
                                                 </div>
                                                 <div class="fbox-content">
-                                                    <h3 class="text-transform-none ls-0">Pain Management & Functional Wellness</h3>
+                                                    <h3 class="text-transform-none ls-0">Pain Management</h3>
                                                 </div>
                                             </div>
                                         </a>

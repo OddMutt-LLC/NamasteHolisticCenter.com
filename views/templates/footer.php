@@ -7,7 +7,7 @@
         <div class="footer-widgets-wrap">
 
             <div class="row col-mb-50">
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-5">
 
                     <div class="widget">
 
@@ -29,12 +29,12 @@
 
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-7">
 
                     <div class="widget">
                         <h4>Our Location</h4>
 
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.6951178358872!2d-80.39860122374286!3d26.01080287719614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9a6a8c146f211%3A0xf043e0a536940bfe!2sNAMASTE%20ACUPUNCTURE!5e0!3m2!1sen!2sco!4v1771265572253!5m2!1sen!2sco" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.6951178358872!2d-80.39860122374286!3d26.01080287719614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9a6a8c146f211%3A0xf043e0a536940bfe!2sNAMASTE%20ACUPUNCTURE!5e0!3m2!1sen!2sco!4v1771265572253!5m2!1sen!2sco" width="600" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>
 
@@ -60,40 +60,6 @@
 
                 </div>
 
-                <div class="col-md-6 col-lg-4">
-
-                    <div class="widget quick-contact-widget form-widget">
-
-                        <h4>Send Message</h4>
-
-                        <div class="form-result"></div>
-
-                        <form id="quick-contact-form" name="quick-contact-form" action="/include/form.php" method="post" class="quick-contact-form mb-0">
-
-                            <div class="form-process">
-                                <div class="css3-spinner">
-                                    <div class="css3-spinner-scaler"></div>
-                                </div>
-                            </div>
-
-                            <div class="input-group mx-auto">
-                                <div class="input-group-text"><i class="uil uil-user"></i></div>
-                                <input type="text" class="required form-control" id="quick-contact-form-name" name="quick-contact-form-name" value="" placeholder="Full Name">
-                            </div>
-                            <div class="input-group mx-auto">
-                                <div class="input-group-text"><i class="bi-envelope-plus"></i></div>
-                                <input type="text" class="required form-control email" id="quick-contact-form-email" name="quick-contact-form-email" value="" placeholder="Email Address">
-                            </div>
-                            <textarea class="required form-control mb-2 short-textarea" id="quick-contact-form-message" name="quick-contact-form-message" rows="4" cols="30" placeholder="Message"></textarea>
-                            <input type="text" class="d-none" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="">
-                            <input type="hidden" name="prefix" value="quick-contact-form-">
-                            <button type="submit" id="quick-contact-form-submit" name="quick-contact-form-submit" class="button button-large button-rounded text-transform-none ms-0 ls-0" value="submit">Send Email</button>
-
-                        </form>
-
-                    </div>
-
-                </div>
             </div>
 
         </div><!-- .footer-widgets-wrap end -->
