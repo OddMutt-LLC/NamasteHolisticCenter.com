@@ -70,68 +70,54 @@
         
         <div class="clear"></div>
 
-        <!-- <div class="section bg-light">
+        <div class="section bg-white">
             <div class="container">
-                <div class="heading-block text-center border-bottom-0">
-                    <div class="badge rounded-pill badge-default">Why Choose Us</div>
-                    <h3 class="text-transform-none">Why Choose Namaste Acupuncture for Fertility Support?</h3>
-                </div>
+                <div class="row align-items-center">
+                    <div class="col-lg-6 order-1 order-lg-2">
+                        <div class="badge rounded-pill badge-default">What We Treat</div>
+                        <h2 class="display-4 fw-bold">Prenatal Care & Support</h2>
+                        <p>At our clinic, we provide personalized acupuncture treatments to support fertility and assist with conception by promoting hormonal balance and overall reproductive health.</p>
+                        <p>During pregnancy, acupuncture offers a safe and natural way to help manage common concerns such as morning sickness, constipation, and back or pelvic pain. It may also support optimal fetal positioning (including breech and shoulder presentations) and help address post-term (overdue) pregnancy, promoting a more comfortable and balanced pregnancy experience.</p>
 
-                <div class="row mt-4 col-mb-30">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="feature-box fbox-plain">
-                            <div class="fbox-icon">
-                                <i class="bi-heart"></i>
-                            </div>
-                            <div class="fbox-content">
-                                <h4>Specialized Focus</h4>
-                                <p>Dedicated experience in fertility and reproductive health care.</p>
-                            </div>
-                        </div>
                     </div>
-
-                    <div class="col-md-6 col-lg-3">
-                        <div class="feature-box fbox-plain">
-                            <div class="fbox-icon">
-                                <i class="bi-flower1"></i>
-                            </div>
-                            <div class="fbox-content">
-                                <h4>IVF & IUI Support</h4>
-                                <p>Care integrated with assisted reproductive technologies.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-3">
-                        <div class="feature-box fbox-plain">
-                            <div class="fbox-icon">
-                                <i class="bi-activity"></i>
-                            </div>
-                            <div class="fbox-content">
-                                <h4>Whole-Person Approach</h4>
-                                <p>Addressing hormonal, physical, and emotional balance.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6 col-lg-3">
-                        <div class="feature-box fbox-plain">
-                            <div class="fbox-icon">
-                                <i class="bi-stars"></i>
-                            </div>
-                            <div class="fbox-content">
-                                <h4>Calm Environment</h4>
-                                <p>A nurturing, professional space that honors your journey.</p>
-                            </div>
-                        </div>
+                    <div class="col-lg-6 mt-0 mt-lg-0 order-2 order-lg-1 align-items-center">
+                        <img src="/build/img/services/fertility2.webp" alt="Image">
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
 
-        <!-- <div class="clear"></div> -->
+        <div class="clear"></div>
 
-       <div class="section mt-5 p-5 footer-stick bg-light" style="padding: 100px 0; overflow: visible">
+        <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+
+                    <div class="col-md-6">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <div class="badge rounded-pill badge-default">Book a Session Today</div>
+                            <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
+                        </div>
+                        <p>
+                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
+                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
+                            practice to support your body’s innate ability to heal.
+                        </p>
+                        <p>
+                            Whether you’re managing chronic pain or preparing for conception <span class="color">Namaste Pembroke Pines Acupuncture is
+                            here for you every step of the way<span>
+                        </p>
+                    </div>
+                    
+                    <div class="col-md-4 mt-5 mt-md-0 text-center">
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+       <div class="section mt-0 p-5 footer-stick bg-light" style="padding: 100px 0; overflow: visible">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Our Approach</div>
@@ -273,120 +259,6 @@
 
        <!-- Features
         ============================================= -->
-        <div class="section mb-0 bg-white">
-            <div class="container">
-                <div class="heading-block border-bottom-0 text-center">
-                    <div class="badge rounded-pill badge-default">Education</div>
-                    <h3 class="text-transform-none ls-0">Understanding Infertility in Women & Men</h3>
-                </div>
-
-                <div class="row col-mb-30 align-content-stretch">
-
-                    <!-- Male and Female Contributions -->
-                    <div class="col-lg-4 col-md-6 d-flex">
-                        <div class="card">
-                            <div class="card-body p-5">
-                                <div class="feature-box flex-column">
-
-                                    <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/health.webp" alt="Feature Icon" class="bg-transparent rounded-0">
-                                    </div>
-
-                                    <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Male and Female Contributions</h3>
-
-                                        <ul class="list-unstyled mt-4">
-                                            <li class="mb-2 ">
-                                                <i class="fa-solid fa-check text-smaller color"></i>
-                                                Male factor infertility is a significant and often overlooked component of reproductive challenges.
-                                            </li>
-
-                                            <li class="mb-2 ">
-                                                <i class="fa-solid fa-check text-smaller color"></i>
-                                                Clinical data indicate that male factors contribute to approximately 30–50% of all infertility cases.
-                                            </li>
-
-                                            <li class="mb-2 ">
-                                                <i class="fa-solid fa-check text-smaller color"></i>
-                                                Infertility is not exclusively a female condition and should be evaluated in both partners.
-                                            </li>
-
-                                            <li class="mb-2 ">
-                                                <i class="fa-solid fa-check text-smaller color"></i>
-                                                Roughly one-third of infertility cases are male-related and one-third female-related.
-                                            </li>
-
-                                            <li class="">
-                                                <i class="fa-solid fa-check text-smaller color"></i>
-                                                The remaining cases involve a combination of factors or unexplained infertility.
-                                            </li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Female Infertility -->
-                    <div class="col-lg-4 col-md-6 d-flex">
-                        <div class="card">
-                            <div class="card-body p-5">
-                                <div class="feature-box flex-column">
-
-                                    <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/fertility.webp" alt="Feature Icon" class="bg-transparent rounded-0">
-                                    </div>
-
-                                    <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Common Causes of Female Infertility</h3>
-                                    </div>
-
-                                    <ul class="list-unstyled mt-4">
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Ovulatory dysfunction (PCOS)</li>
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Recurrent miscarriage</li>
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Uterine or fallopian tube issues</li>
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Endometriosis</li>
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Diminished ovarian reserve or age-related egg quality decline (low Anti-Mullerian Hormone - AMH)</li>
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Hormonal imbalances</li>
-                                        <li class=""><i class="fa-solid fa-check text-smaller color"></i> Severe stress causing anxiety and insomnia</li>
-                                    </ul>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Male Infertility -->
-                    <div class="col-lg-4 col-md-6 d-flex">
-                        <div class="card">
-                            <div class="card-body p-5">
-                                <div class="feature-box flex-column">
-
-                                    <div class="fbox-icon mb-3">
-                                        <img src="/build/img/icons/male.webp" alt="Feature Icon" class="bg-transparent rounded-0">
-                                    </div>
-
-                                    <div class="fbox-content">
-                                        <h3 class="text-transform-none ls-0 text-larger">Common Causes of Male Infertility</h3>
-                                    </div>
-
-                                    <ul class="list-unstyled mt-4">
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Decreased sperm count, motility, and morphology</li>
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Varicocele</li>
-                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Infections and inflammation</li>
-                                        <li class=""><i class="fa-solid fa-check text-smaller color"></i> Environmental & lifestyle factors such as heat exposure (laptops / hot tubs), smoking, alcohol, obesity, and stress</li>
-                                    </ul>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
         <!-- <div class="section my-0 my-lg-5">
             <div class="container">
                 <div class="heading-block text-center border-bottom-0">
@@ -476,51 +348,136 @@
                         </div>
 
                         <div class="col-sm-6 col-lg-4 pe-lg-4">
-                            <h3 class="text-transform-none ls-0 h6 fw-semibold">Lifestyle Strategies</h3>
-                            <p class="text-dark mt-3 op-07 fw-normal">Practical lifestyle guidance to improve sleep quality, reduce stress, and promote overall well-being during the fertility journey.</p>
+                            <h3 class="text-transform-none ls-0 h6 fw-semibold">Metabolic Nutrition</h3>
+                            <p class="text-dark mt-3 op-07 fw-normal">Personalized nutrition strategies to support metabolism, regulate blood sugar, and improve energy balance for overall wellness.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- Form Section
-        ============================================= -->
-        <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">
+        <div class="section m-0 bg-white">
             <div class="container">
-                <div class="row justify-content-between align-items-center">
+                <div class="heading-block border-bottom-0 text-center">
+                    <div class="badge rounded-pill badge-default">Education</div>
+                    <h3 class="text-transform-none ls-0">Understanding Infertility in Women & Men</h3>
+                </div>
 
-                    <div class="col-md-6">
-                        <div class="heading-block border-bottom-0 mb-4">
-                            <div class="badge rounded-pill badge-default">Book a Session Today</div>
-                            <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
+                <div class="row col-mb-30 align-content-stretch">
+
+                    <!-- Male and Female Contributions -->
+                    <div class="col-lg-4 col-md-6 d-flex">
+                        <div class="card">
+                            <div class="card-body p-5">
+                                <div class="feature-box flex-column">
+
+                                    <div class="fbox-icon mb-3">
+                                        <img src="/build/img/icons/health.webp" alt="Feature Icon" class="bg-transparent rounded-0">
+                                    </div>
+
+                                    <div class="fbox-content">
+                                        <h3 class="text-transform-none ls-0 text-larger">Male and Female Contributions</h3>
+
+                                        <ul class="list-unstyled mt-4">
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Male factor infertility is a significant and often overlooked component of reproductive challenges.
+                                            </li>
+
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Clinical data indicate that male factors contribute to approximately 30–50% of all infertility cases.
+                                            </li>
+
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Infertility is not exclusively a female condition and should be evaluated in both partners.
+                                            </li>
+
+                                            <li class="mb-2 ">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                Roughly one-third of infertility cases are male-related and one-third female-related.
+                                            </li>
+
+                                            <li class="">
+                                                <i class="fa-solid fa-check text-smaller color"></i>
+                                                The remaining cases involve a combination of factors or unexplained infertility.
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </div>
                         </div>
-                        <p>
-                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
-                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
-                            practice to support your body’s innate ability to heal.
-                        </p>
-                        <p>
-                            Whether you’re managing chronic pain or preparing for conception <span class="color">Namaste Pembroke Pines Acupuncture is
-                            here for you every step of the way<span>
-                        </p>
                     </div>
-                    
-                    <div class="col-md-4 mt-5 mt-md-0 text-center">
+
+                    <!-- Female Infertility -->
+                    <div class="col-lg-4 col-md-6 d-flex">
+                        <div class="card">
+                            <div class="card-body p-5">
+                                <div class="feature-box flex-column">
+
+                                    <div class="fbox-icon mb-3">
+                                        <img src="/build/img/icons/fertility.webp" alt="Feature Icon" class="bg-transparent rounded-0">
+                                    </div>
+
+                                    <div class="fbox-content">
+                                        <h3 class="text-transform-none ls-0 text-larger">Common Causes of Female Infertility</h3>
+                                    </div>
+
+                                    <ul class="list-unstyled mt-4">
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Ovulatory dysfunction (PCOS)</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Recurrent miscarriage</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Uterine or fallopian tube issues</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Endometriosis</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Diminished ovarian reserve or age-related egg quality decline (low Anti-Mullerian Hormone - AMH)</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Hormonal imbalances</li>
+                                        <li class=""><i class="fa-solid fa-check text-smaller color"></i> Severe stress causing anxiety and insomnia</li>
+                                        <li class=""><i class="fa-solid fa-check text-smaller color"></i> Other Metabolic Disorders (Hypothyroidism)</li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Male Infertility -->
+                    <div class="col-lg-4 col-md-6 d-flex">
+                        <div class="card">
+                            <div class="card-body p-5">
+                                <div class="feature-box flex-column">
+
+                                    <div class="fbox-icon mb-3">
+                                        <img src="/build/img/icons/male.webp" alt="Feature Icon" class="bg-transparent rounded-0">
+                                    </div>
+
+                                    <div class="fbox-content">
+                                        <h3 class="text-transform-none ls-0 text-larger">Common Causes of Male Infertility</h3>
+                                    </div>
+
+                                    <ul class="list-unstyled mt-4">
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Decreased sperm count, motility, and morphology</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Varicocele</li>
+                                        <li class="mb-2 "><i class="fa-solid fa-check text-smaller color"></i> Infections and inflammation</li>
+                                        <li class=""><i class="fa-solid fa-check text-smaller color"></i> Environmental & lifestyle factors such as heat exposure (laptops / hot tubs), smoking, alcohol, obesity, and stress</li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                 </div>
-
             </div>
         </div>
 
-         <!-- Testimonials
+        <!-- Testimonials
         ============================================= -->
         <div class="section mt-0" style="background: url('/build/img/sections/3.webp') no-repeat top center; background-size: cover; padding: 80px 0 70px;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Testimonials</div>
-                    <h3 class="text-transform-none ls-0">What Clients Says</h3>
+                    <h3 class="text-transform-none ls-0">What Patients Says</h3>
                 </div>
 
                 <div id="oc-testi" class="owl-carousel testimonials-carousel carousel-widget" data-margin="0" data-pagi="true" data-loop="true" data-center="true" data-autoplay="5000" data-items-xs="1" data-items-sm="1" data-items-md="2" data-items-xl="3">

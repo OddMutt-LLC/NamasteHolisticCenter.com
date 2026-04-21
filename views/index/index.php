@@ -14,7 +14,7 @@
                     <div class="col-lg-6 col-md-8">
                         <div class="slider-title">
                             <div class="badge rounded-pill badge-default border-light text-light">Welcome to Namaste</div>
-                            <h1>Acupuncture Pain Management & Fertility Specialists</h1>
+                            <h1>Acupuncture Pain Management, Fertility Support & Prenatal Care</h1>
                             <p>
                                 We specialize in acupuncture treatments designed to relieve pain,
                                 support fertility, and restore whole-body balance.
@@ -182,7 +182,7 @@
                     <div class="col-lg-4 mt-4">
                         <div class="heading-block border-bottom-0 mb-4">
                             <div class="badge rounded-pill badge-default">Our Specialties</div>
-                            <h3 class="text-transform-none ls-0">Comprehensive Acupuncture Care <br>For Pain & Fertility Support</h3>
+                            <h3 class="text-transform-none ls-0">Comprehensive Acupuncture Care <br> For Pain, Fertility Support & Prenatal care</h3>
                         </div>
                         <p>
                             Acupuncture has been used for thousands of years to support physical, emotional, and internal health concerns.
@@ -213,6 +213,7 @@
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> TMJ pain (jaw pain)</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Fibromyalgia</li>
                                                     <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Post-surgical recovery</li>
+                                                    <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Cancer Related Pain</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -226,7 +227,7 @@
                                                 <div class="fbox-image mb-5 text-center">
                                                     <img src="/build/img/services/fertility.webp" alt="Fertility Support Icon">
                                                 </div>
-                                                <h3 class="text-transform-none ls-0 text-larger">Fertility Support for Women & Men</h3>
+                                                <h3 class="text-transform-none ls-0 text-larger">Fertility Support & Prenatal Care</h3>
                                                 <p>We provide targeted acupuncture treatments to support:</p>
                                               
                                                 <ul class="iconlist ms-3 mb-0">
@@ -265,7 +266,7 @@
                 <div class="container">
                     <div class="row justify-content-center mb-5">
                         <div class="col-12">
-                            <div id="carousel-tabs" class="owl-carousel owl-nav-hover-fixed carousel-widget nav tabs nav-tabs mb-3 carousel-blur-right nav-fill" data-pagi="false" data-nav="true" role="tablist">
+                            <div id="carousel-tabs" class="owl-carousel owl-nav-hover-fixed carousel-widget nav tabs nav-tabs mb-3 carousel-blur-right nav-fill" data-pagi="false" data-nav="true" data-items-xs="2" data-items-lg="4"  role="tablist">
                                 <div class="nav-item">
                                     <button aria-label="button" class="nav-link active" id="pills-pain-management-tab" data-bs-toggle="pill"
                                         data-bs-target="#pills-pain-management" type="button" role="tab" aria-controls="pills-pain-management"
@@ -532,7 +533,7 @@
 
                                     <ul class="list-unstyled">
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Overall wellness care</li>
-                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Stress prevention</li>
+                                        <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Stress management</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Mind-body balance</li>
                                         <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Improved circulation</li>
                                     </ul>
@@ -587,7 +588,7 @@
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Testimonials</div>
-                    <h3 class="text-transform-none ls-0">What Clients Says</h3>
+                    <h3 class="text-transform-none ls-0">What Patients Says</h3>
                 </div>
 
                 <div id="oc-testi" class="owl-carousel testimonials-carousel carousel-widget" data-margin="0" data-pagi="true" data-loop="true" data-center="true" data-autoplay="5000" data-items-xs="1" data-items-sm="1" data-items-md="2" data-items-xl="3">
@@ -666,7 +667,7 @@
                         </div>
                         <ul class="iconlist nobottommargin">
 							<li><i class="bi-clock-fill text-light"></i> <strong>Mondays-Fridays:</strong> 8:00 AM - 7:00 PM</li>
-							<li><i class="bi-clock-fill text-light"></i> <strong>Saturdays:</strong> By Appointment Only</li>
+							<li><i class="bi-clock-fill text-light"></i> <strong>Saturdays:</strong> 8:00 AM - 2:00 PM</li>
 							<li><i class="bi-clock-fill text-light"></i> <strong>Sundays:</strong> Closed</li>
 						</ul>
                         <div class="fancy-title title-border">

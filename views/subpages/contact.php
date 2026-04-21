@@ -138,7 +138,7 @@
         <div class="container">
             <div class="heading-block border-bottom-0 text-center">
                 <div class="badge rounded-pill badge-default">Testimonials</div>
-                <h3 class="text-transform-none ls-0">What Clients Says</h3>
+                <h3 class="text-transform-none ls-0">What Patients Says</h3>
             </div>
 
             <div id="oc-testi" class="owl-carousel testimonials-carousel carousel-widget" data-margin="0" data-pagi="true" data-loop="true" data-center="true" data-autoplay="5000" data-items-xs="1" data-items-sm="1" data-items-md="2" data-items-xl="3">
