@@ -57,7 +57,7 @@ function imagenes() {
 
 function versionWebp() {
     return src(paths.imagenes)
-        .pipe(webp({ quality: 50 }))
+        .pipe(webp({ quality: 30 }))
         .pipe(dest('public/build/img'));
 }
 
