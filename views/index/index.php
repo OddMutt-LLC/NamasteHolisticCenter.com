@@ -582,13 +582,55 @@
             </div>
         </div>
 
+        <!-- Form Section
+        ============================================= -->
+        <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+
+                    <div class="col-md-6">
+                        <div class="heading-block border-bottom-0 mb-4">
+                            <div class="badge rounded-pill badge-default">Book a Session Today</div>
+                            <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
+                        </div>
+                        <p>
+                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
+                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
+                            practice to support your body’s innate ability to heal.
+                        </p>
+                        <p>
+                            Whether you’re managing chronic pain or preparing for conception <span class="color">Namaste Pembroke Pines Acupuncture is
+                            here for you every step of the way<span>
+                        </p>
+                    </div>
+                    
+                    <div class="col-md-4 mt-5 mt-md-0 text-center">
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Promo/Contact
+        ============================================= -->
+        <div class="section mt-5 p-5 footer-stick promo-section bg-transparent" style="padding: 100px 0; overflow: visible">
+            <div class="container">
+                <div class="heading-block border-bottom-0 text-center">
+                    <h5 class="text-uppercase ls-1 mb-1">Give us a call today to explore your options</h5>
+                    <h2 class="text-transform-none ls-0">Book your <span>acupuncture session today</span> and reconnect with your body’s natural flow.</h2>
+                    <a href="tel:+19542004587" class="button button-large button-rounded text-transform-none ms-0 ls-0 mt-4">Schedule Your Appointment</a>
+                </div>
+            </div>
+        </div>
+
         <!-- Testimonials
         ============================================= -->
         <div class="section m-0" style="background: url('/build/img/sections/3.webp') no-repeat top center; background-size: cover; padding: 80px 0 70px;">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Testimonials</div>
-                    <h3 class="text-transform-none ls-0">What Patients Says</h3>
+                    <h3 class="text-transform-none ls-0">What Patients Say</h3>
                 </div>
 
                 <div id="oc-testi" class="owl-carousel testimonials-carousel carousel-widget" data-margin="0" data-pagi="true" data-loop="true" data-center="true" data-autoplay="5000" data-items-xs="1" data-items-sm="1" data-items-md="2" data-items-xl="3">
@@ -776,47 +818,4 @@
                 </div>
             </div>
         </div>
-
-        <!-- Form Section
-        ============================================= -->
-        <div class="section m-0" style="background: linear-gradient(to right, rgba(255,255,255,1) 50%, rgba(255,255,255,5) 60%, rgba(255,255,255, 0.0) 100%), url('/build/img/sections/1.webp') no-repeat center right / auto 100%; padding: 100px 0;">
-            <div class="container">
-                <div class="row justify-content-between align-items-center">
-
-                    <div class="col-md-6">
-                        <div class="heading-block border-bottom-0 mb-4">
-                            <div class="badge rounded-pill badge-default">Book a Session Today</div>
-                            <h3 class="text-transform-none ls-0">Begin Your Healing Journey</h3>
-                        </div>
-                        <p>
-                            Our goal is to partner with you — to listen, understand, and tailor treatments based on your
-                            unique history, symptoms, and goals. We combine clinical experience with evidence-informed
-                            practice to support your body’s innate ability to heal.
-                        </p>
-                        <p>
-                            Whether you’re managing chronic pain or preparing for conception <span class="color">Namaste Pembroke Pines Acupuncture is
-                            here for you every step of the way<span>
-                        </p>
-                    </div>
-                    
-                    <div class="col-md-4 mt-5 mt-md-0 text-center">
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-
-        <!-- Promo/Contact
-        ============================================= -->
-        <div class="section mt-5 p-5 footer-stick promo-section bg-transparent" style="padding: 100px 0; overflow: visible">
-            <div class="container">
-                <div class="heading-block border-bottom-0 text-center">
-                    <h5 class="text-uppercase ls-1 mb-1">Give us a call today to explore your options</h5>
-                    <h2 class="text-transform-none ls-0">Book your <span>acupuncture session today</span> and reconnect with your body’s natural flow.</h2>
-                    <a href="tel:+19542004587" class="button button-large button-rounded text-transform-none ms-0 ls-0 mt-4">Schedule Your Appointment</a>
-                </div>
-            </div>
-        </div>
-    </div>
 </section><!-- #content end -->
