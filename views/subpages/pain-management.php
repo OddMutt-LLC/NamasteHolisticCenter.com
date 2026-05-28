@@ -257,9 +257,11 @@
 
         <div class="heading-block text-center border-bottom-0 mb-5">
             <div class="badge rounded-pill badge-default">Our Approach</div>
-            <h2 class="text-transform-none fw-bold">Acupuncture and Chinese Herbal Medicine</h2>
+            <h2 class="text-transform-none fw-bold">Our Holistic Approach to Pain Management</h2>
             <p class="lead mx-auto" style="max-width: 750px;">
-                Traditional Chinese Medicine views pain as a sign of imbalance or blocked energy flow within the body. Through acupuncture and carefully selected Chinese herbal therapies, we work to restore circulation, reduce inflammation, relax muscle tension, and support the body’s natural healing process. By restoring internal balance, we support long-term pain reduction rather than temporary relief. Acupuncture not only helps relieve acute and chronic pain, but also promotes overall wellness by improving sleep, reducing stress, enhancing energy, and supporting physical and emotional balance from within.
+                At Namaste Acupuncture Clinic, we believe true healing goes beyond symptom relief. 
+                Our holistic pain management approach focuses on restoring balance to the entire body—addressing inflammation, 
+                muscle imbalances, stress, nutrition, and movement patterns that may be contributing to pain.
             </p>
         </div>
 
@@ -270,12 +272,11 @@
                 <div class="card border-0 shadow-sm p-5 h-100 rounded-5">
                     
                     <div class="d-flex align-items-center mb-4">
-                        <h4 class="mb-0 text-transform-none">1. Acupuncture for Nervous System Regulation</h4>
+                        <h4 class="mb-0 text-transform-none">1. Acupuncture and Chinese Herbal Medicine</h4>
                     </div>
 
                     <p class="mb-0">
-                        Acupuncture helps calm the nervous system, reduce inflammation, improve circulation, and activate the body’s natural healing response. 
-                        By restoring internal balance, we support long-term pain reduction rather than temporary relief.
+                        Traditional Chinese Medicine views pain as a sign of imbalance or blocked energy flow within the body. Through acupuncture and carefully selected Chinese herbal therapies, we work to restore circulation, reduce inflammation, relax muscle tension, and support the body’s natural healing process. By restoring internal balance, we support long-term pain reduction rather than temporary relief. Acupuncture not only helps relieve acute and chronic pain, but also promotes overall wellness by improving sleep, reducing stress, enhancing energy, and supporting physical and emotional balance from within.
                     </p>
                 </div>
             </div>
