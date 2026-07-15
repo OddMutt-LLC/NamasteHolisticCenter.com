@@ -103,7 +103,8 @@
                             <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Post-surgical pain and recovery</li>
                             <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Sports injuries</li>
                             <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Muscle strains and stiffness</li>
-                            <li><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
+                            <li class="mb-2"><i class="fa-solid fa-check text-smaller color"></i> Pelvic pain and menstrual pain</li>
+                            <li><i class="fa-solid fa-check text-smaller color"></i> Cancer Related Pain</li>
                         </ul>
                     </div>
                 </div>
