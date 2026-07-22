@@ -129,7 +129,7 @@
 
                                 <p>Dr. Mora earned her Master’s Degree in Oriental Medicine with honors from the Acupuncture and Massage College of Miami, the oldest acupuncture school in Florida. During her training, she completed advanced internships under the supervision of Chinese physicians from Beijing and Shanghai Medical Universities and was selected as one of three national U.S. recipients of a prestigious Asian Medicine Institute scholarship for academic excellence, leadership, and student performance.</p>
 
-                                <p>With a unique background bridging Eastern and Western medicine, Dr. Mora practiced as a Medical Doctor for 10 years in Colombia and later worked in the United States as a Cardiac Sonographer, certified by the ARDMS. She is also a former Acupuncture Clinic Supervisor at the Acupuncture and Massage College of Miami.</p>
+                                <p>With a unique background bridging Eastern and Western medicine, Dr. Mora practiced as a Medical Doctor for 14 years in Colombia and later worked in the United States as a Cardiac Sonographer, certified by the ARDMS. She is also a former Acupuncture Clinic Supervisor at the Acupuncture and Massage College of Miami.</p>
 
                                 <p>Dr. Sandra Mora has dedicated herself to this field, practicing with Love, Compassion, and Service.</p>
 
@@ -161,32 +161,6 @@
             </div>
             <div class="container">
                 <div class="row mt-5">
-                    <div class="col-lg-6">
-                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
-
-                            <!-- Image -->
-                            <div class=" team-image d-flex align-self-stretch">
-                                <img src="/build/img/staff/2.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
-                            </div>
-
-                            <!-- Content -->
-                            <div class=" p-5 bg-white">
-                                <div class="team-desc text-start">
-
-                                    <div class="team-title pt-0 mb-3">
-                                        <h4 class="mb-1">Melissa De Souza, L.Ac.</h4>
-                                        <span class="d-block">Licensed Acupuncture and Oriental Medicine</span>
-                                    </div>
-
-                                    <p>Melissa is a Licensed Acupuncturist at Namaste Pembroke Pines Acupuncture. She completed her training at the Acupuncture and Oriental Medicine College in Miami and is dedicated to providing compassionate, patient-centered care.</p>
-
-                                    <p>In 2019, Melissa founded Zen Elephant, a crystal healing brand inspired by her family’s journey from Brazil to Miami and their long-standing belief in the healing properties of crystals. She is also a Reiki practitioner and thoughtfully incorporates energetic and crystal-based techniques into her holistic approach.</p>
-
-                                    <p>Melissa brings warmth, professionalism, and mindful intention to both her clinical and administrative roles, helping create a welcoming and supportive environment for every patient.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-lg-6">
                         <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
 
