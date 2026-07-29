@@ -165,6 +165,32 @@
                         <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
 
                             <!-- Image -->
+                            <div class=" team-image d-flex align-self-stretch">
+                                <img src="/build/img/staff/2.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
+                            </div>
+
+                            <!-- Content -->
+                            <div class=" p-5 bg-white">
+                                <div class="team-desc text-start">
+
+                                    <div class="team-title pt-0 mb-3">
+                                        <h4 class="mb-1">Jamileth Rojas, MSOM, L.Ac., Dipl. O.M., PMP.</h4>
+                                        <span class="d-block">Licensed Acupuncture and Oriental Medicine</span>
+                                    </div>
+
+                                    <p>Dr. Rojas is a Licensed Acupuncturist with a master's degree in Oriental Medicine and a background that blends ancient healing traditions with a rigorous, science-minded approach to care. Before turning to Chinese Medicine, she earned degrees in Ocean Engineering and Information Technology and built a career centered on precision and problem solving.</p> 
+                                    
+                                    <p>A personal experience watching her father navigate serious illness in a hospital setting changed the direction of her life, leading her to pursue a deeper, more integrated approach to healing.</p>
+
+                                    <p>Her clinical focus includes women’s health, pain management, mental and emotional well‑being. Jamileth is bilingual in English, Spanish, and Portuguese, understands French, and is dedicated to providing compassionate care to patients from all backgrounds.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+
+                            <!-- Image -->
                             <div class="team-image d-flex align-self-stretch">
                                 <img src="/build/img/staff/3.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
                             </div>
