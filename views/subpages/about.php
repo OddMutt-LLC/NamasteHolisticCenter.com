@@ -121,15 +121,15 @@
                             <div class="team-desc text-start">
 
                                 <div class="team-title pt-0 mb-3">
-                                    <h4 class="mb-1">Dr. Sandra Mora-Viera, A.P., D.O.M., MD (Colombia)</h4>
-                                    <span class="d-block">Licensed Acupuncture Physician & Doctor of Oriental Medicine</span>
+                                    <h4 class="mb-1">Dr. Sandra Mora, Dipl. AHM, L.AC., MD (Colombia)</h4>
+                                    <span class="d-block">Diplomate of Acupuncture and Herbal Medicine (NCBAHM)</span>
                                 </div>
                                 <p>
-                                Dr. Sandra Mora, A.P., D.O.M., MD (Colombia) is the Founder of Namaste Pembroke Pines Acupuncture and a Licensed Acupuncture Physician in the state of Florida. She is a Diplomate in Oriental Medicine through the NCCAOM, with certifications in Acupuncture, Chinese Herbology, Acupuncture Injection Therapy, and Acupuncture Facial Rejuvenation.</p>
+                                Dr. Sandra Mora is a Licensed Acupuncturist in Florida and holds a Diplomate of Acupuncture and Herbal Medicine from the National Certification Board for Acupuncture and Herbal Medicine (NCBAHM), with an updated credential from 2026 to 2030. . </p>
 
-                                <p>Dr. Mora earned her Master’s Degree in Oriental Medicine with honors from the Acupuncture and Massage College of Miami, the oldest acupuncture school in Florida. During her training, she completed advanced internships under the supervision of Chinese physicians from Beijing and Shanghai Medical Universities and was selected as one of three national U.S. recipients of a prestigious Asian Medicine Institute scholarship for academic excellence, leadership, and student performance.</p>
+                                <p>Dr. Mora, with over 30 years of experience in the medical field, has dedicated over fifteen years to practicing Acupuncture and Chinese Medicine. Her unique background as a Medical Doctor for fourteen years in Colombia allows her to bridge the gap between Eastern Medicine wisdom and Western Medicine knowledge. She served as a former Acupuncture Clinic Supervisor at the Acupuncture and Massage College of Miami.</p>
 
-                                <p>With a unique background bridging Eastern and Western medicine, Dr. Mora practiced as a Medical Doctor for 14 years in Colombia and later worked in the United States as a Cardiac Sonographer, certified by the ARDMS. She is also a former Acupuncture Clinic Supervisor at the Acupuncture and Massage College of Miami.</p>
+                                <p>Sandra finds joy in life's simple moments—sharing time with her family and friends, working out, and embracing the healing beauty of nature. Every day, she enjoys sipping a warm cup of matcha tea while gazing at the endless ocean finding peace, gratitude, and inspiration that she brings into the care of every patient.</p>
 
                                 <p>Dr. Sandra Mora has dedicated herself to this field, practicing with Love, Compassion, and Service.</p>
 
@@ -174,7 +174,7 @@
                                 <div class="team-desc text-start">
 
                                     <div class="team-title pt-0 mb-3">
-                                        <h4 class="mb-1">Jamileth Rojas, MSOM, L.Ac., Dipl. O.M., PMP.</h4>
+                                        <h4 class="mb-1">Jamileth Rojas, MSOM, L.Ac., Dipl. AHM., PMP.</h4>
                                         <span class="d-block">Licensed Acupuncture and Oriental Medicine</span>
                                     </div>
 
@@ -209,6 +209,63 @@
                                     <p>In 2013, she completed advanced training in Washington, DC, specializing in the Leduc Method for Lymphedema Management. Her areas of expertise include breast cancer rehabilitation and temporomandibular joint dysfunction (TMD).</p>
 
                                     <p>Dr. Mora brings nine years of clinical experience from Memorial Hospital West in Broward County, Florida. She is also the Founder of Healers of Motion Physical Therapy, where she is committed to delivering evidence-based, compassionate care focused on restoring movement and improving quality of life.</p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-lg-6">
+                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+
+                            <!-- Image -->
+                            <div class=" team-image d-flex align-self-stretch">
+                                <img src="/build/img/staff/5.webp" alt="Dr. Adriana Ortiz - Nutrition and Health Coach">
+                            </div>
+
+                            <!-- Content -->
+                            <div class=" p-5 bg-white">
+                                <div class="team-desc text-start">
+
+                                    <div class="team-title pt-0 mb-3">
+                                        <h4 class="mb-1">Dr. Adriana Ortiz, RMA, CCRC, MD (Argentina)</h4>
+                                        <span class="d-block">Nutrition and Health Coach</span>
+                                    </div>
+
+                                    <p>Dr. Adriana Ortiz is a medical professional with an Integrative Functional approach, backed by over two decades of international clinical and scientific experience. </p>
+                                        
+                                    <p>Dr. Ortiz began her career in Argentina, where she practiced conventional medicine for 15 years. Driven by a commitment to offering a more comprehensive and personalized approach to patient care, she expanded her medical training with postgraduate degrees in Traditional Chinese Medicine, Homeopathy, and Nutrition-Metabolic Disorders. </p>
+                                    
+                                    <p>In the United States, Adriana is a Certified Clinical Research Coordinator (CCRC) and a Registered Medical Assistant (RMA). Additionally, she hold a certification as a Nutrition and Health Coach. Her combined background in clinical practice, evidence-based research protocols, virtual healthcare management, and academic leadership enables her to approach health from a modern holistic perspective.</p>
+
+                                    <p>Adriana describes herself as “an optimist at heart, I blend my passion for health with a love for nature, golf, mate, and the joy of cooking for the people I care about most."</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="row team team-list rounded-5 g-0 align-items-center shadow-sm border h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+
+                            <!-- Image -->
+                            <div class="team-image d-flex align-self-stretch">
+                                <img src="/build/img/staff/4.webp" alt="Dr. Sandra Mora-Viera - Licensed Acupuncture Physician in Pembroke Pines">
+                            </div>
+
+                            <!-- Content -->
+                            <div class="p-5 bg-white">
+                                <div class="team-desc text-start">
+
+                                    <div class="team-title pt-0 mb-3">
+                                        <h4 class="mb-1">Claudia Herrera</h4>
+                                        <span class="d-block">Front Desk Assistant and Acupuncture Clinic Coordinator</span>
+                                    </div>
+
+                                    <p>She is dedicated to creating a welcoming and supportive experience for every patient. With several years of experience in the medical field, she has worked as a receptionist at the headquarters of a neurology practice as well as in primary care, giving her a strong understanding of patient care and the importance of compassionate communication. </p>
+
+                                    <p>She is passionate about helping others and takes pride in understanding each patient’s needs, ensuring they feel heard, cared for, and supported from the moment they walk through the door. Her friendly personality and commitment to exceptional service help make every visit as comfortable and stress-free as possible.</p>
+
+                                    <p>Outside of work, Claudia enjoys working out, has a passion for beauty and modeling, and loves spending quality time with her family, her dog, and her nephew. She believes that kindness, empathy, and genuine care make a meaningful difference in the lives of others, both inside and outside the clinic.</p>
 
                                 </div>
                             </div>

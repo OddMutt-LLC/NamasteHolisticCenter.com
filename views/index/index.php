@@ -47,21 +47,13 @@
                     <div class="col-lg-6">
                         <div class="badge rounded-pill badge-default">A Little About Us</div>
                         <h2 class="display-4 fw-bold">We Are Namaste Pembroke Pines Acupuncture</h2>
-                        <p> We offer holistic, personalized acupuncture treatments focused on pain relief,
-                            improve fertility, stress reduction, restore balance, and improve overall well-being. Rooted in
-                            Traditional Chinese Medicine, our approach supports the body’s natural healing process in a
-                            calm, welcoming environment. We understand how deeply pain and fertility challenges affect
-                            your quality of life, physically, emotionally, and socially. Our licensed practitioner offers
-                            personalized and compassionate care designed to help you manage pain, reduce stress, improve
-                            sleep, and support reproductive health.
+                        <p> At Namaste Acupuncture, we specialize in pain management and fertility. Each session is customized to address your unique needs, helping you alleviate pain, enhance fertility, reduce stress, and restore balance between your mind and body for long-term health and well-being. Our approach fosters a serene and welcoming environment that supports the body’s natural healing process. 
                         </p>
                         <p>
-                            Each session is tailored to your individual needs, helping restore balance to mind and body for a
-                            long-term health and wellbeing.
+                            For over more than 15 years of experience in the Acupuncture field, our licensed practitioners are certified by the National Certification Board for Acupuncture and Herbal Medicine (NCBAHM), with their credentials updated from 2026 to 2030. They exclusively practice the Acupuncture Balance Method, which is practiced by less than 10% of acupuncturists in the United States. 
                         </p>
                         <p>
-                            Whether you’re seeking relief from chronic discomfort, stress, or internal imbalances, our
-                            personalized treatments focus on treating the whole person, not just symptoms.
+                            We comprehend the profound impact of pain and fertility challenges on your physical, emotional, and social quality of life. Whether you’re seeking relief from chronic discomfort, stress, or internal imbalances, our personalized treatments focus on treating the whole person, not just symptoms.
                         </p>
                         <a href="/about" class="button button-rounded button-large text-transform-none ls-0">More About Us</a>
                         <a href="/contact" class="button button-rounded button-large button-light text-dark bg-white border text-transform-none ls-0">Contact Us</a>
