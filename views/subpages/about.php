@@ -99,7 +99,7 @@
             </div>
         </div>
 
-        <div class="section mt-5 p-5 bg-white" style="padding: 100px 0; overflow: visible">
+        <div class="section mt-5 p-lg-5 bg-white" style="padding: 100px 0; overflow: visible">
             <div class="container">
                 <div class="heading-block border-bottom-0 text-center">
                     <div class="badge rounded-pill badge-default">Our Specialists</div>
